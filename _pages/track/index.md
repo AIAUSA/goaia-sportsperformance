@@ -1,5 +1,5 @@
 ---
-title: 
+title: AIA Track & Field
 permalink: "/track/index"
 type: page
 layout: track-index

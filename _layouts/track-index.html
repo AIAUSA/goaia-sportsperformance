@@ -42,6 +42,28 @@
                 </div>
             </div>
             
+            <div class="max-width">
+                    <div class="container mt20">
+                            {% for post in site.teams %}
+                            <div class=" col-md-6">
+                                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading" role="tab" id="c1ph{{forloop.index}}">
+                                            <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#c1pb{{forloop.index}}" aria-expanded="false" aria-controls="c1pb{{forloop.index}}" class="collapsed"> {{ post.title }} <span class="panel-icon"></span> </a></h4>
+                                        </div>
+                                        <div id="c1pb{{forloop.index}}" class="panel-collapse in" role="tabpanel" aria-labelledby="c1ph{{forloop.index}}">
+                                            <div class="panel-body">
+                                                <strong>Director:</strong><a href="mailto:{{ post.director_email }}" target="_blank">{{ post.director }}</a> <br> 
+                                                <strong>Dates:</strong>{{ post.dates }} <br>
+                                                <strong>About:</strong>{{ post.content }}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                    </div>
+            </div>
             {% include plugins/video-callout.html image="/uploads/track/track-video.jpg"
                 text="Go with AIA Track & Field " byLine="Check out highlights from recent tours."
                 video="https://www.youtube.com/watch?v=Tb63HOgfEtc" %}
@@ -55,40 +77,42 @@
                     </section>
                 </div>
             </div>
-            <div class="container mt20">
-                {% for post in site.events %}
-                    <article class="col-sm-6 col-xs-12 event">
-                        <h2 class="entry-title">
+            <div class="max-width">
+                <div class="container mt20">
+                    {% for post in site.events %}
+                        <article class="col-sm-6 col-xs-12 event">
+                            <h2 class="entry-title">
+                                {% if post.alt_url %}
+                                    <a href="{{post.alt_url}}">{{ post.title }}</a>
+                                {% else %}
+                                    <a href="{{post.url}}">{{ post.title }}</a>
+                                {% endif %}
+                            </h2>
+                            <div class="entry-media">
+                            <figure>
+                                {% if post.alt_url %}
+                                    <a href="{{post.alt_url}}">
+                                {% else %}
+                                    <a href="{{post.url}}">
+                                {% endif %}
+                                    <img src="{{ post.image }}" alt="event"> </a></figure>
+                            </div>
+                            <!-- End .entry-media -->
+                            <div class="event-meta">
+                            <div class="event-place event-meta-box"><span class="event-label"><i class="fa fa-map-marker fa-fw"></i>Venue:</span>{{ post.location }}</div>
+                            <!-- End .event-date -->
+                            <div class="event-date event-meta-box"><span class="event-label"><i class="fa fa-calendar fa-fw"></i>Date:</span>{{ post.start_date }} {% if post.end_date %}- {{ post.end_date }}{% endif %}</div>
+                            <!-- End .event-date --> <!-- end .event-meta -->
+                            <p><span>{{ post.short_description }}</span></p>
                             {% if post.alt_url %}
-                                <a href="{{post.alt_url}}">{{ post.title }}</a>
+                                <a href="{{ post.alt_url }}" class="btn btn-dark no-radius btn-block">Event Page</a>
                             {% else %}
-                                <a href="{{post.url}}">{{ post.title }}</a>
+                                <a href="{{ post.url }}" class="btn btn-dark no-radius btn-block">Event Page</a>
                             {% endif %}
-                        </h2>
-                        <div class="entry-media">
-                        <figure>
-                            {% if post.alt_url %}
-                                <a href="{{post.alt_url}}">
-                            {% else %}
-                                <a href="{{post.url}}">
-                            {% endif %}
-                                <img src="{{ post.image }}" alt="event"> </a></figure>
-                        </div>
-                        <!-- End .entry-media -->
-                        <div class="event-meta">
-                        <div class="event-place event-meta-box"><span class="event-label"><i class="fa fa-map-marker fa-fw"></i>Venue:</span>{{ post.location }}</div>
-                        <!-- End .event-date -->
-                        <div class="event-date event-meta-box"><span class="event-label"><i class="fa fa-calendar fa-fw"></i>Date:</span>{{ post.start_date }} {% if post.end_date %}- {{ post.end_date }}{% endif %}</div>
-                        <!-- End .event-date --> <!-- end .event-meta -->
-                        <p><span>{{ post.short_description }}</span></p>
-                        {% if post.alt_url %}
-                            <a href="{{ post.alt_url }}" class="btn btn-dark no-radius btn-block">Event Page</a>
-                        {% else %}
-                            <a href="{{ post.url }}" class="btn btn-dark no-radius btn-block">Event Page</a>
-                        {% endif %}
-                        <footer class="entry-footer clearfix"></footer></div>
-                    </article>
-                {% endfor %}
+                            <footer class="entry-footer clearfix"></footer></div>
+                        </article>
+                    {% endfor %}
+                </div>
             </div>
             <div id="apply"></div>
                 {% include plugins/application-callout.html appLink="https://my.athletesinaction.org/Applications/Tour/Track-amp-Field/default.aspx" color="" %}
@@ -165,7 +189,7 @@
                     </div>
 
             {% include plugins/track-social.html %}
-
+            {% include plugins/teamblogs.html %}
             {% include base/footer.html %}
             <script src="/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
             <script src="/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>

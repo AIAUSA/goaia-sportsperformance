@@ -1,7 +1,7 @@
 ---
 title: Leadership Academy
 location: AIA World Headquarters, Xenia, OH
-image: /uploads/track/leadershipEvent.png
+image: /uploads/track/leadershipEvent.jpg
 permalink: /track/event/leadership
 start_date: June 12th - 16th, 2018
 end_date: 
