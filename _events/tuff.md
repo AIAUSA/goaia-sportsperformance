@@ -23,9 +23,7 @@ short_description: 'Training in 3-D is what TUFF Camps are all about. TUFF Camp 
 <div class=" span-12 cell">
 <div class="mb20"><div>
 <div class="mb35 mb20-xs"></div>
-{% include plugins/video-callout.html image="/uploads/track/tuff2.jpg"
-            text="Training U Farther &amp; Faster" byLine="Take a look at what TUFF CAMP is about!"
-            video="https://www.youtube.com/watch?v=xw4nStPkO4o" %}
+{% include plugins/video-callout.html image="/uploads/track/tuff2.jpg" text="Training U Farther &amp; Faster" byLine="Take a look at what TUFF CAMP is about!" video="https://www.youtube.com/watch?v=xw4nStPkO4o" %}
 <!-- space -->
 </div></div></div>
 <div class="row">
