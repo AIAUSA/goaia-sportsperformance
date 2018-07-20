@@ -14,6 +14,16 @@ layout: page
 
 **EXECUTE  by using resources provided by** **Athletes In Action below to explore important topics.**
 
+[**CONNECT TO US**](sports performance@athletesinaction.org) **to find out how you can lead individuals and small groups!**   
+
 ![](/uploads/Foundations-3.jpg)
 
 ![](/uploads/Equipped Discipleship-2.jpg)
+
+![](/uploads/resource-principles-with Text-18.png)
+
+![](/uploads/Hurdles-2.jpg)
+
+![](/uploads/SportLife-17.jpg)
+
+![](/uploads/resource-spiritual-strength-with text-7.jpg)
