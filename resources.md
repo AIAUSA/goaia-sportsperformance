@@ -12,6 +12,8 @@ layout: page
 
 **EXAMINE how the Bible speaks to your career and life!**
 
-**EXECUTE  by using resources provided by Athletes In Action below to explore important topics.**
+**EXECUTE  by using resources provided by** **Athletes In Action below to explore important topics.**
 
 ![](/uploads/Foundations-3.jpg)
+
+![](/uploads/Equipped Discipleship-2.jpg)
