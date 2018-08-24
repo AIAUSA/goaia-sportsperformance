@@ -12,5 +12,8 @@ fields:
 - type: file
   name: image
   label: Featured Image
+- type: datetime
+  label: Date
+  name: date
 pages:
 - _posts/test.md
