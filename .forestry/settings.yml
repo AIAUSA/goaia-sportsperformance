@@ -4,14 +4,23 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: _resources
+  label: Resources
+  create: all
+  match: "**/*"
+  templates:
+  - resources
 - type: jekyll-pages
   label: Pages
   create: all
 - type: directory
   path: _events
-  label: Events
+  label: Opportunities
   create: all
   match: "**/*"
+  templates:
+  - opportunity
 - type: jekyll-posts
   label: Blog
   create: all
