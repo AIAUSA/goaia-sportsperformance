@@ -1,0 +1,10 @@
+---
+label: Video Callout
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: video-callout
