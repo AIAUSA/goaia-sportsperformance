@@ -20,4 +20,5 @@ fields:
   template_types:
   - text
 pages:
+- about-test.md
 - index.md
