@@ -2,4 +2,23 @@
 label: Resources
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: permalink
+  label: URL
+  description: this is the page url on your website (i.e.  /resources/title)
+- type: text
+  name: external_url
+  label: External URL
+  description: this is if the content should take you to another website
+- type: textarea
+  name: description
+  label: Description
+- type: file
+  label: Featured Image
+  name: featured_image
