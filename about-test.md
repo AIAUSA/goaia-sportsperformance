@@ -33,6 +33,5 @@ page_sections:
     to meet others’ spiritual needs as well.&nbsp;<a href="http://sportsperformance.goaia.org/uploads/AIA-Sports-Performance-History-Web-Version-revised-7-20-18.pdf">Read
     More</a></p>'
 permalink: "/about-2"
-published: false
 
 ---
