@@ -33,9 +33,16 @@ page_sections:
     More</a></p>'
 - template: application-call-to-action
   block: application-callout
+  color: dark
 - template: text
   block: text
   content: "<p>HELLO</p>"
+- template: video-callout
+  block: video-callout
+  text: Take a Peek at a Summer Tour!
+  byLine: Test Text
+  image: "/uploads/Curt Teaching.jpg"
+  video: https://www.youtube.com/watch?v=vEEap8foVHw
 - template: social-callout
   block: sports-performance-social
 - template: teamblogs
