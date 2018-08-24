@@ -1,5 +1,5 @@
 ---
-title: GoAIA - Track
+title: GoAIA - Sports Performance
 timezone: UTC
 collections:
   media:
@@ -11,8 +11,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-  camps:
-    title: Camps
+  resources:
+    title: resources
     output: false
   teams:
     title: Teams
@@ -29,12 +29,9 @@ defaults:
     layout: page
 - scope:
     path: ''
-    type: camps
+    type: resources
   values:
-    location: 
-    start_date:
-    end_date:
-    event_id:
+    type:
     layout: page
     address: 
     type:
