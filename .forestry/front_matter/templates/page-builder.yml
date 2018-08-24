@@ -21,6 +21,8 @@ fields:
   name: page_sections
   label: Page Sections
   template_types:
+  - video-callout
+  - image-callout
   - application-call-to-action
   - social-callout
   - teamblogs
