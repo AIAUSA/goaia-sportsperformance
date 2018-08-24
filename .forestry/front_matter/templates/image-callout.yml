@@ -8,3 +8,13 @@ fields:
   label: block
   name: block
   default: image-callout
+- type: text
+  name: text
+  label: Main Text
+- type: text
+  name: byline
+  label: Subtext
+- type: file
+  name: image
+  label: Image
+  description: photo to appear behind the text
