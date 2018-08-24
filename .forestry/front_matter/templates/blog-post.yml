@@ -6,3 +6,9 @@ fields:
 - type: text
   name: title
   label: Title
+- type: text
+  name: permalink
+  label: URL
+- type: file
+  name: image
+  label: Featured Image
