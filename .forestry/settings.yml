@@ -12,29 +12,11 @@ sections:
   label: Events
   create: all
   match: "**/*"
-- type: directory
-  path: _teams
-  label: Teams
-  create: all
-  match: "**/*"
-- type: directory
-  path: _camps
-  label: Camps
-  create: all
-  match: "**/*"
-- type: directory
-  path: _uploads
-  label: Uploads
-  create: all
-  match: "**/*"
 - type: jekyll-posts
   label: Blog
   create: all
-- type: directory
-  path: _media
-  label: Media
-  create: all
-  match: "**/*"
+  templates:
+  - blog-post
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
