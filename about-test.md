@@ -5,7 +5,6 @@ date: 2018-08-24 00:00:00 +0000
 page_sections:
 - template: text
   block: text
-  title: Starting Block
   content: '<p><strong>Our Vision:&nbsp;A Christ follower in every sports medicine
     and strength &amp; conditioning facility in every nation.</strong></p><p><strong>Our
     Mission:&nbsp;To change lives by building spiritual movements through the platforms

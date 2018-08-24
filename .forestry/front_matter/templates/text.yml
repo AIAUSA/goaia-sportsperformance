@@ -8,9 +8,6 @@ fields:
   label: block
   name: block
   default: text
-- type: text
-  name: title
-  label: Title
 - type: textarea
   name: content
   label: Content
