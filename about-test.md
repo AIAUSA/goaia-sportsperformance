@@ -4,7 +4,8 @@ layout: blocks
 date: 2018-08-24 00:00:00 +0000
 page_sections:
 - template: text
-  block: text-1
+  block: text
+  title: Starting Block
   content: '<p><strong>Our Vision:&nbsp;A Christ follower in every sports medicine
     and strength &amp; conditioning facility in every nation.</strong></p><p><strong>Our
     Mission:&nbsp;To change lives by building spiritual movements through the platforms
@@ -31,6 +32,7 @@ page_sections:
     meeting the physical needs of those they serve, they will have excellent opportunities
     to meet others’ spiritual needs as well.&nbsp;<a href="http://sportsperformance.goaia.org/uploads/AIA-Sports-Performance-History-Web-Version-revised-7-20-18.pdf">Read
     More</a></p>'
+permalink: "/about-2"
 published: false
 
 ---
