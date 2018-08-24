@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+
+        {% include base/head.html %}
+
+    </head>
+    <body>
+        {% include base/sports-performance-menu.html %}
+        {% for section in page.page_sections %}
+        {% include block-{{ section.block }}.html %}
+        {% endfor %}
+        {% include base/footer.html %}        
+        <script src="/js/main.js" type="text/javascript"></script>
+    </body>
+</html>
