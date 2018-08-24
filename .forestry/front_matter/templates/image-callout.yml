@@ -12,7 +12,7 @@ fields:
   name: text
   label: Main Text
 - type: text
-  name: byline
+  name: byLine
   label: Subtext
 - type: file
   name: image
