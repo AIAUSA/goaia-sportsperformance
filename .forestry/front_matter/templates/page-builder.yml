@@ -21,6 +21,9 @@ fields:
   name: page_sections
   label: Page Sections
   template_types:
+  - application-call-to-action
+  - social-callout
+  - teamblogs
   - text
 pages:
 - about-test.md
