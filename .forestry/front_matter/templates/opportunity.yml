@@ -1,5 +1,32 @@
 ---
 label: Opportunity
-hide_body: false
+hide_body: true
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: select
+  name: audience
+  config:
+    source:
+      type: simple
+    options:
+    - staff
+    - student
+    - professional
+    - event
+  label: Audience
+- type: file
+  name: featured_image
+  label: Featured Image
