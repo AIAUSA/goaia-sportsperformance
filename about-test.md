@@ -31,6 +31,15 @@ page_sections:
     meeting the physical needs of those they serve, they will have excellent opportunities
     to meet others’ spiritual needs as well.&nbsp;<a href="http://sportsperformance.goaia.org/uploads/AIA-Sports-Performance-History-Web-Version-revised-7-20-18.pdf">Read
     More</a></p>'
+- template: application-call-to-action
+  block: application-callout
+- template: text
+  block: text
+  content: "<p>HELLO</p>"
+- template: social-callout
+  block: sports-performance-social
+- template: teamblogs
+  block: teamblogs
 permalink: "/about-2"
 
 ---
