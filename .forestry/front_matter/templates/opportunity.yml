@@ -30,5 +30,9 @@ fields:
 - type: file
   name: featured_image
   label: Featured Image
+- type: tag_list
+- type: boolean
+  name: student
+  label: Student
 pages:
 - _events/ultimate-training-camp.md
