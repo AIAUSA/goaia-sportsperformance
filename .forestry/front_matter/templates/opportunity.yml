@@ -30,3 +30,5 @@ fields:
 - type: file
   name: featured_image
   label: Featured Image
+pages:
+- _events/ultimate-training-camp.md
