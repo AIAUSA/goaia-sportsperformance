@@ -11,7 +11,7 @@ sections:
   - page
   - page-builder
 - type: jekyll-posts
-  label: Blog
+  label: News
   create: all
   templates:
   - blog-post
