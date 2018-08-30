@@ -8,8 +8,8 @@ sections:
   label: Pages
   create: all
   templates:
-  - page-builder
   - page
+  - page-builder
 - type: jekyll-posts
   label: Blog
   create: all
