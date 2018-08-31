@@ -44,6 +44,7 @@ fields:
     - Clinic Team
   label: Type of Opportunity
 pages:
+- _events/urban-project-los-angeles.md
 - _events/sportlinc.md
 - _events/extreme-challenge-puerto-rico.md
 - _events/ultimate-training-camp.md
