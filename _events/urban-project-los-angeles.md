@@ -17,6 +17,5 @@ staff: false
 event: false
 featured_image: "/uploads/UP-LA2-768x514.jpg"
 type: Camp & Project
-published: false
 
 ---
