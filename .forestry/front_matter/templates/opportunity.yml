@@ -17,16 +17,17 @@ fields:
     schema:
       format: markdown
 - type: select
-  name: audience
+  name: type
   config:
     source:
       type: simple
     options:
-    - staff
-    - student
-    - professional
-    - event
-  label: Audience
+    - Competitive Tour
+    - Camp & Project
+    - Student-Internship
+    - Sportlinc
+    - Clinic Team
+  label: Type of Opportunity
 - type: file
   name: featured_image
   label: Featured Image
