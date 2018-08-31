@@ -11,6 +11,8 @@ Join us on Thursday, June 28th, from 6:15 am - 6:50 am at the Atrium (near Starb
 
 The Atrium is located on the first level near the shuttle bus drop off zone.
 
-[2018-CSMA-Invitation.pdf](http://aiasportsperformance.org/wp-content/uploads/2018/06/2018-CSMA-Invitation.pdf "Click here for an Invitation!")
+Click below for an Invitation!
+
+[2018-CSMA-Invitation.pdf](/uploads/2018-CSMA-Invitation.pdf "2018-CSMA-Invitation.pdf")
 
 Are you headed to New Orleans? Come by booth #3065 in the Expo Hall to connect and learn how you can serve in Sport Ministry as an AT or AT Student!
