@@ -15,7 +15,7 @@ description: "**Learn life long ministry skills through a nine week summer inte
   deadline for 2019 Intern applications is February 1, 2019.**  What are you doing
   next summer? "
 student: true
-professional: true
+professional: false
 staff: false
 event: false
 featured_image: "/uploads/DSC_1784-1024x680.jpg"
