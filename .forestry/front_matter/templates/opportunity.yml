@@ -16,6 +16,21 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: boolean
+  name: student
+  label: Student
+- type: boolean
+  name: professional
+  label: Professional
+- type: boolean
+  name: staff
+  label: Staff
+- type: boolean
+  name: event
+  label: Event
+- type: file
+  name: featured_image
+  label: Featured Image
 - type: select
   name: type
   config:
@@ -28,12 +43,5 @@ fields:
     - Sportlinc
     - Clinic Team
   label: Type of Opportunity
-- type: file
-  name: featured_image
-  label: Featured Image
-- type: tag_list
-- type: boolean
-  name: student
-  label: Student
 pages:
 - _events/ultimate-training-camp.md
