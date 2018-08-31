@@ -17,6 +17,5 @@ staff: false
 event: false
 featured_image: "/uploads/SportLinc-Logo.pdf"
 type: Sportlinc
-published: false
 
 ---
