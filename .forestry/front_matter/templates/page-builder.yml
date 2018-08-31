@@ -21,6 +21,8 @@ fields:
   name: page_sections
   label: Page Sections
   template_types:
+  - text-w-left-image
+  - text-w-right-image
   - video-callout
   - image-callout
   - application-call-to-action
