@@ -1,0 +1,12 @@
+---
+label: Text w/Right Image
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: block
+  name: block
+  default: text-with-right-image
+- type: file
+  name: image
+  label: Image
