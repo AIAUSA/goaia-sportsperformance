@@ -17,6 +17,5 @@ staff: false
 event: false
 featured_image: "/uploads/303.JPG"
 type: Camp & Project
-published: false
 
 ---
