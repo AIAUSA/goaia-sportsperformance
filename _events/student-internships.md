@@ -22,6 +22,5 @@ staff: false
 event: false
 featured_image: "/uploads/DSC_1784-1024x680.jpg"
 type: Student-Internship
-published: false
 
 ---
