@@ -11,3 +11,10 @@ fields:
 - type: file
   name: image
   label: Image
+- type: textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: text
+  name: text
