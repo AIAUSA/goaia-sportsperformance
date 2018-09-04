@@ -44,6 +44,7 @@ fields:
     - Clinic Team
   label: Type of Opportunity
 pages:
+- _events/strength-coach-full-time.md
 - _events/athletic-trainer-full-time.md
 - _events/year-round-internships.md
 - _events/sportlinc.md
