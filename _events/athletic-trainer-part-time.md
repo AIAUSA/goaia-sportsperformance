@@ -21,7 +21,7 @@ student: false
 professional: true
 staff: false
 event: false
-featured_image: ''
+featured_image: "/uploads/Tending to an Athlete.jpg"
 type: ''
 published: false
 
