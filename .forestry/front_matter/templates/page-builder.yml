@@ -30,6 +30,6 @@ fields:
   - teamblogs
   - text
 pages:
-- test.md
 - about-test.md
+- test.md
 - index.md
