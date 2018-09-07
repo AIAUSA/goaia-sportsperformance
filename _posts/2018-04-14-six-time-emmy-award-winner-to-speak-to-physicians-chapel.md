@@ -1,7 +1,7 @@
 ---
 title: Six Time Emmy Award Winner to Speak to Physicians’ Chapel!
 date: 2018-04-14 14:06:06 +0000
-permalink: six-time-emmy-award-winner-to-speak-to-physicians-chapel
+permalink: news/2018/04/six-time-emmy-award-winner-to-speak-to-physicians-chapel
 image: "/uploads/Lisa_32-3_preview-150x150.jpeg"
 
 ---

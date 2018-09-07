@@ -8,6 +8,7 @@ collections:
   posts:
     title: Posts
     output: true
+    permalink: "/news/:year/:month/:path"
   uploads:
     title: Uploads
     output: true
@@ -19,7 +20,7 @@ collections:
     output: false
   events:
     title: Events
-    output: true
+    output: false
 defaults:
 - scope:
     path: ''
@@ -27,6 +28,12 @@ defaults:
   values:
     byLine: ''
     layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    byLine: ''
+    layout: blog-page
 - scope:
     path: ''
     type: resources

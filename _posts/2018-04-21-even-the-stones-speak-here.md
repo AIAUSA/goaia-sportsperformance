@@ -1,7 +1,7 @@
 ---
 title: Even the Stones Speak Here!
 date: 2018-04-21 14:12:25 +0000
-permalink: even-the-stones-speak-here
+permalink: news/2018/04/even-the-stones-speak-here
 image: "/uploads/Yerevan-Etchmiadzin-Vardan-Cross-Stones-Gospel-2-Blog-169x300.jpg"
 tags: []
 

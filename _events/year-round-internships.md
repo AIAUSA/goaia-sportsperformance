@@ -33,12 +33,10 @@ description: |-
   **Internship Dates: September 1st - August 10th**
 
   #### **Application Deadline: March 1st**
-student: false
+student: true
 professional: true
 staff: true
 event: false
 featured_image: "/uploads/2018-Launch-pic-768x514.jpg"
 type: Student-Internship
-published: false
-
 ---
