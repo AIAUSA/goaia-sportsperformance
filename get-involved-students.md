@@ -22,7 +22,7 @@ layout: page
 </div><!-- End .panel-heading -->
 <div id="collapse{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{forloop.index}}">
 <div class="panel-body">
-{{opp.description | markdownify }}
+<img class="col-md-4 pull-right" src="{{opp.featured_image}}" /> {{opp.description | markdownify }}
 </div><!-- End .panel-body -->
 </div><!-- End .panel-collapse -->
 </div><!-- End .panel -->
