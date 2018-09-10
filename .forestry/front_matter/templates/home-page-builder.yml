@@ -9,6 +9,13 @@ fields:
 - type: blocks
   label: Page Sections
   name: page_sections
+  template_types:
+  - news-banner
+  - get-involved-general
+  - teamblogs
+  - image-callout
+  - social-callout
+  - video-callout
 - type: text
   name: layout
   label: Layout
