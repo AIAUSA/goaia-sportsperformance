@@ -1,0 +1,10 @@
+---
+label: Get Involved - General
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  hidden: true
+  default: projects
