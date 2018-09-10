@@ -8,6 +8,7 @@ sections:
   label: Pages
   create: all
   templates:
+  - home-page-builder
   - page
   - page-builder
 - type: jekyll-posts
