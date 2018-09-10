@@ -1,5 +1,5 @@
 ---
 title: AIA Sports Performance
-layout: index
+layout: home-blocks
 permalink: /
 ---
