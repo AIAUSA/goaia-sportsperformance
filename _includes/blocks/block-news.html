@@ -1,1 +1,13 @@
-{% include plugins/revslider.html src1="/uploads/vball.jpg" text1="Go With AIA" src2="/uploads/CircleUp.jpg" text2="Go With AIA" src3="/uploads/xproject.jpg" text3="Go With AIA" %}
+{% capture title1 %}{{site.posts[0].title}}{% endcapture %}
+{% capture image1 %}{{site.posts[0].image}}{% endcapture %}
+{% capture title2 %}{{site.posts[1].title}}{% endcapture %}
+{% capture image2 %}{{site.posts[1].image}}{% endcapture %}
+{% capture title3 %}{{site.posts[2].title}}{% endcapture %}
+{% capture image3 %}{{site.posts[2].image}}{% endcapture %}
+{% include plugins/revslider.html 
+            src1=image1 
+            text1=title1
+            src2=image2 
+            text2=title2
+            src3=image3 
+            text3=title3 %}
