@@ -1,0 +1,10 @@
+---
+label: News Banner
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: block
+  hidden: true
+  name: block
+  default: news
