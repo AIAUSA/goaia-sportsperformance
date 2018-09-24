@@ -44,6 +44,7 @@ fields:
     - Clinic Team
   label: Type of Opportunity
 pages:
+- _events/year-round-internships.md
 - _events/strength-coach-full-time.md
 - _events/athletic-trainer-full-time.md
 - _events/athletic-trainer-part-time.md
@@ -53,4 +54,3 @@ pages:
 - _events/urban-project-los-angeles.md
 - _events/sportlinc.md
 - _events/student-internships.md
-- _events/year-round-internships.md
