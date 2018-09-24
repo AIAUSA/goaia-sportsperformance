@@ -16,4 +16,10 @@ fields:
     - student
     - professional
     - staff
+    required: true
   label: Audience
+- type: text
+  name: type
+  label: Project Type
+  config:
+    required: true
