@@ -1,12 +1,14 @@
 ---
 label: Project Details
 hide_body: false
-is_partial: false
+is_partial: true
+display_field: block
 fields:
 - type: text
   label: block
   name: block
   hidden: true
+  default: project-details
 - type: select
   name: audience
   config:
@@ -18,6 +20,7 @@ fields:
     - staff
     required: true
   label: Audience
+  default: student
 - type: text
   name: type
   label: Project Type
