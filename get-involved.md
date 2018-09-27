@@ -2,8 +2,11 @@
 title: Get Involved
 permalink: "/get-involved"
 layout: page
----
+page_sections:
+- template: get-involved-general
+  block: projects
 
+---
 <div class="row">
 <div class="col-sm-4">
 <a href="/get-involved/students">
