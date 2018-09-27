@@ -31,5 +31,6 @@ fields:
   - teamblogs
   - text
 pages:
+- get-involved.md
 - about-test.md
 - test.md
