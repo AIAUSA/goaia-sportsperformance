@@ -25,4 +25,5 @@ fields:
   name: permalink
   label: URL
 pages:
+- about.md
 - index.md
