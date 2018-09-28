@@ -3,12 +3,11 @@ title: About Sports Performance
 permalink: "/about/index"
 layout: page
 page_sections:
-- template: news-banner
-  block: news
 - template: image-callout
   block: image-callout
-- template: get-involved-general
-  block: projects
+  image: "/uploads/2018 Interns with Lauren 2.JPG"
+  text: Summer 2018 Interns
+  byLine: this is a test to see what it looks like
 - template: social-callout
   block: sports-performance-social
 
