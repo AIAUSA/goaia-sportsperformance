@@ -8,7 +8,7 @@ layout: page
 
 **Our Mission: To change lives by building spiritual movements through the platforms of sports medicine and strength & conditioning (Romans 10:14-15).**
 
-**Our** [**Objectives and Emphases**](http://aiasportsperformance.org/wp-content/uploads/2012/06/Objectives-and-Emphases.pdf)**: Train, Engage, Accelerate & Multiply**
+**Our** **Objectives and Emphases: Train, Engage, Accelerate & Multiply**
 
 **History of AIA Sports Performance**
 
