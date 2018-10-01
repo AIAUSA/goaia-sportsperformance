@@ -10,7 +10,7 @@ page_sections:
 
     #### WHO WE ARE
 
-    Athletic Trainers and Strength Coaches with the mission to reach Every through the platform of our professions.
+    Athletic Trainers and Strength Coaches.....
 
     #### WHAT WE DO
 
