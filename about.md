@@ -10,7 +10,7 @@ page_sections:
 
     #### WHO WE ARE
 
-    Athletic Trainers and Strength Coaches.....
+    Athletic Trainers and Strength Coaches committed to the Great Commission.
 
     #### WHAT WE DO
 
