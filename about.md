@@ -30,6 +30,10 @@ page_sections:
 
     **Our** [Objectives-and-Emphases](https://app.forestry.io/sites/l23gvhvzqg-abq/body-media//uploads/Objectives-and-Emphases.pdf "Objectives-and-Emphases.pdf")**: Train, Engage, Accelerate & Multiply**
   image: "/uploads/2016 IC UTC - Brian with an athlete.jpg"
+- template: image-callout
+  block: image-callout
+  image: "/uploads/1969 AIA Weight Lifting Team (No Caption).jpg"
+  text: How it all Began
 - template: text
   block: text
   content: <p><strong>History of</strong> <a href="https://goaia.org/about/" title="AIA
@@ -75,8 +79,6 @@ page_sections:
     sports performance mission teams, conducted hundreds of clinics, and recruited
     hundreds of volunteers to travel with competitive sports tours, camps and projects
     to change lives through sports medicine and strength &amp; conditioning. </p>
-- template: social-callout
-  block: sports-performance-social
 date: ''
 
 ---
