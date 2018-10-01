@@ -21,8 +21,20 @@ _Click each picture to link to a video for The Principles. Click “Teacher’s 
 …1: Audience of One
 ……–  Teacher’s notes
 ……–  Student’s notes
-……–  Chapel Version Video
+……–  [Chapel Version Video]()
 
 ![](/uploads/Principle-2.png)
 
 …2: Inside Game                                                                           ……–  Teacher’s notes                                                                     ……–  Student’s notes                                                                   ……–  Chapel Version Video
+
+![](/uploads/Principle-3.png)
+
+…3: Holy Sweat/Wholly Surrender                                               ……–  Teacher’s notes                                                                    ……–  Student’s notes                                                                    ……–  Chapel Version Video
+
+![](/uploads/Principle-4.png)
+
+…4: Hurtin' for Certain                                                                  ……–  Teacher’s notes                                                                    ……–  Student’s notes                                                                          ……–  Chapel Version Video
+
+![](/uploads/Principle-5.png)
+
+…5: Victory Beyond Competition                                                           ……–  Teacher’s notes                                                                           ……–  Student’s notes                                                                            ……–  Chapel Version Video
