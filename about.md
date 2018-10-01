@@ -77,8 +77,6 @@ page_sections:
     to change lives through sports medicine and strength &amp; conditioning. </p>
 - template: social-callout
   block: sports-performance-social
-- template: image-callout
-  block: image-callout
 date: ''
 
 ---
