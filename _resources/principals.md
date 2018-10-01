@@ -1,5 +1,5 @@
 ---
-title: The Principles
+title: 'The Principles '
 date: 2018-08-30 19:29:02 +0000
 external_url: ''
 description: 'The <em>Gospel applied to sport, experienced through sport and spoken
