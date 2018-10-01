@@ -27,9 +27,9 @@ fields:
   label: Featured Image
   name: featured_image
 pages:
+- _resources/equipped-discipleship.md
 - _resources/principals.md
 - _resources/more-spiritual-strength.md
 - _resources/sportlife.md
 - _resources/hurdles.md
-- _resources/equipped-discipleship.md
 - _resources/foundations.md
