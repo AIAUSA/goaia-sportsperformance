@@ -24,3 +24,5 @@ _Click each picture to link to a video for The Principles. Click “Teacher’s 
 ……–  Chapel Version Video
 
 ![](/uploads/Principle-2.png)
+
+…2: Inside Game                                                                           ……–  Teacher’s notes                                                                     ……–  Student’s notes                                                                   ……–  Chapel Version Video
