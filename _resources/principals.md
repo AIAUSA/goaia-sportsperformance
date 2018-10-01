@@ -1,5 +1,5 @@
 ---
-title: 'The Principles '
+title: The Principles
 date: 2018-08-30 19:29:02 +0000
 permalink: "/resources/principles"
 external_url: ''
