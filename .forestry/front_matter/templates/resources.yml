@@ -26,6 +26,10 @@ fields:
 - type: file
   label: Featured Image
   name: featured_image
+- type: boolean
+  name: primary
+  label: Primary
+  description: Will be used to determine which go on the home page.
 pages:
 - _resources/principals.md
 - _resources/equipped-discipleship.md
