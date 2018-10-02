@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<div class="max-width">
+    <div class="page-header no-margin dark larger">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1>{{ page.title | camelcase }}</h1>
+                </div>
+                <div class="col-md-6">
+                    <ol class="breadcrumb">
+                        <li><a href="/">Home</a></li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="max-width">
+        <div class="container mt20">
+            <div class="row mb20">
+                <div class="col-md-8">
+                        {{ content }}
+                        {% if paginator.posts.size > 0 %}
+                            {% for p in paginator.posts %}
+                                {% if p.published != false %}
+                                    {% include plugins/blog-post.html date=p.date title=p.title url=p.url content=p.content %}
+                                {% endif %}
+                            {% endfor %}
+
+                            {% if paginator.total_pages > 1 %}
+                            <ul>
+                            {% if paginator.previous_page %}
+                            <li>
+                                <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="btn btn-custom2 radius-lger pull-right">Newer</a>
+                            </li>
+                            {% endif %}
+                            {% if paginator.next_page %}
+                            <li>
+                                <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="btn btn-custom2 radius-lger">Older</a>
+                            </li>
+                            {% endif %}
+                            </ul>
+                            {% endif %}
+                        {% else %}
+                            <h4>No Teams have started blogging yet, please come back soon!</h4>    
+                        {% endif %}
+                </div>
+                <div class="col-md-4 sidebar">
+                    <div class="widget">
+                        <h3>Recent Posts</h3>
+                        <ul class="links">
+                        {% for post in site.posts limit: 5 %}
+                            {% if post.url contains "index" %}
+                            {% else %}
+                                <li><a href="{{post.url}}">{{ post.title }}</a></li>
+                            {% endif %}
+                        {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 
+<script type="text/javascript">
+    $('.entry img').css("width", "100%");
+</script>

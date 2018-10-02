@@ -6,6 +6,7 @@ description: 'A series of sixteen Bible studies designed to help participants co
   emotionally, mentally, and spiritually to biblical concepts and apply them to their
   career. '
 featured_image: "/uploads/Hurdles-2-1.jpg"
-published: false
-
+published: true
+primary: true
+permalink: /resources/hurdles
 ---

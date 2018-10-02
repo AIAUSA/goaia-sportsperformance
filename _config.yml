@@ -14,7 +14,8 @@ collections:
     output: true
   resources:
     title: resources
-    output: false
+    output: true
+    permalink: "/resources/:permalink"
   teams:
     title: Teams
     output: false
@@ -89,5 +90,25 @@ descriptions:
   desc: Just some placeholder posts, lorem ipsum and the rest.
 sass:
   style: compressed
+pagination:
+  enabled: true
+  debug: false
+  collection: all
+  per_page: 5
+  permalink: "/page/:num/"
+  title: ":title - page :num"
+  limit: 0
+  sort_field: date
+  sort_reverse: true
+  category: posts
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after: 2
+  extension: html
+  indexpage: index
 plugins:
-  - jekyll-redirect-from
+- jekyll-redirect-from
+- jekyll-paginate-v2
+

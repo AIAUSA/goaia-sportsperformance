@@ -7,6 +7,7 @@ description: Teaches four fundamentals that can take your impact for Christ to a
   how to live in the power of the Holy Spirit. <em>Live it</em> out through discipling
   others.
 featured_image: "/uploads/Equipped Discipleship-2-1.jpg"
-published: false
-
+published: true
+primary: true
+permalink: /resources/equipped
 ---

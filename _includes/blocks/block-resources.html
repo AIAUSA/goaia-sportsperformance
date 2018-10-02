@@ -1,0 +1,32 @@
+<div class="container">
+<div class="row mt30">
+{% if page.title != "The Training Table" %}
+<h2 class="title text-center mb30">Training <span class="light first-color">Table</span></h2>
+<h3 class="text-center">Spiritual Resources to Help You Grow</h3>
+</div>
+<div class="row">
+{% endif %}
+{% for r in site.resources%}
+<div class="col-sm-4">
+<div class="service vertical text-center service-box">
+<div class="service-content">
+<!--<h3 class="service-title title-underblock custom text-uppercase text-center">Students</h3>-->
+<img src="{{r.featured_image}}" width="100%">
+<p>{{r.description}}</p>
+<p>&nbsp;</p>
+{% if page.title != "The Training Table" %}
+    <a href="/resources/" class="btn btn-custom btn-border no-radius">Learn More</a>
+{% else %}
+    {% if r.external_url != "" %}
+        <a href="{{r.external_url}}" class="btn btn-custom btn-border no-radius">Visit</a>
+    {% else %}
+        <a href="{{r.permalink}}" class="btn btn-custom btn-border no-radius">Visit</a>
+    {% endif %}
+{% endif %}
+</div><!-- End .service-content -->
+</div><!-- End .service -->
+</div><!-- End .col-sm-4 -->
+{% endfor %}
+
+</div>
+</div>

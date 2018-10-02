@@ -16,6 +16,7 @@ fields:
   - image-callout
   - social-callout
   - video-callout
+  - resources-general
 - type: text
   name: layout
   label: Layout

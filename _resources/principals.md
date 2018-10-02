@@ -7,8 +7,8 @@ description: 'The <em>Gospel applied to sport, experienced through sport and spo
   in the language of sport</em>. NOW, all the discussion questions have been tailored
   for athletic trainers, strength coaches and team physicians.   '
 featured_image: "/uploads/resource-principles-with Text-18-1.png"
-published: false
-
+published: true
+primary: true
 ---
 ![](/uploads/Violet-Geometric-Cool-Desktop-Wallpaper-1-e1519843524293-1024x230.jpg)
 
