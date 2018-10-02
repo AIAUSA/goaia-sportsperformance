@@ -21,6 +21,7 @@ fields:
   name: page_sections
   label: Page Sections
   template_types:
+  - custom-heading
   - project-details
   - text-w-left-image
   - text-w-right-image
