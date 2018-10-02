@@ -6,7 +6,8 @@
 </div>
 <div class="row">
 {% endif %}
-{% for r in site.resources%}
+{% assign options = site.resources | where: "primary", "true" %}
+{% for r in options %}
 <div class="col-sm-4">
 <div class="service vertical text-center service-box">
 <div class="service-content">
