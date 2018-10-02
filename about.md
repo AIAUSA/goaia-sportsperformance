@@ -3,6 +3,10 @@ title: About Sports Performance
 permalink: "/about/index"
 layout: blocks
 page_sections:
+- template: custom-heading
+  block: custom-heading
+  black: How it
+  red: Began
 - template: text-w-right-image
   block: text-with-right-image
   text: |-
