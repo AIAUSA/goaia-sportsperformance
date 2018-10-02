@@ -14,7 +14,9 @@ layout: page
 
 **EXECUTE  by using resources provided by** **Athletes In Action below to explore important topics.**
 
-[**CONNECT TO US**](sports performance@athletesinaction.org) **to find out how you can lead individuals and small groups!**   
+Do you desire to **encourage** others and **engage** athletes, colleagues and students who are looking for answers in their chaotic life? Let AIA Sports Performance **equip** you to do just that.
+
+[**CONNECT TO US**](sports performance@athletesinaction.org) **to find out how you can lead individuals and small groups!**
 
 ![](/uploads/Foundations-3.jpg)
 
