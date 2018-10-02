@@ -1,7 +1,7 @@
 ---
 title: About Sports Performance
 permalink: "/about/index"
-layout: page
+layout: blocks
 page_sections:
 - template: text-w-right-image
   block: text-with-right-image
