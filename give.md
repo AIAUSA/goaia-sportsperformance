@@ -7,10 +7,9 @@ page_sections:
   block: custom-heading
   black: Support our
   red: Staff
+date: ''
 
 ---
-**Support our Staff!**
-
 **Like many other mission organizations, Athletes in Action depends upon the consistent financial support of concerned individuals and churches. We invite others to partner with us to reach people for Christ. Follow the links below to support an individual staff member.**
 
 [**Lisa Martin**](https://give.cru.org/0619401)
