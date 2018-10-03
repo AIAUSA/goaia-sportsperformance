@@ -7,8 +7,6 @@ page_sections:
   block: custom-heading
   black: Support our
   red: Staff
-- template: text-w-right-image
-  block: text-with-right-image
 - template: text
   block: text
   content: <p><strong>Like many other mission organizations, Athletes in Action&nbsp;depends
