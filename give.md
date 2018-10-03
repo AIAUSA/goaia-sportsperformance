@@ -1,7 +1,7 @@
 ---
 title: Give
 permalink: "/give"
-layout: page
+layout: blocks
 page_sections:
 - template: custom-heading
   block: custom-heading
