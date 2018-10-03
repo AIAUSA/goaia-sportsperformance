@@ -2,6 +2,11 @@
 title: Give
 permalink: "/give"
 layout: page
+page_sections:
+- template: custom-heading
+  block: custom-heading
+  black: Support our
+  red: Staff
 
 ---
 **Support our Staff!**
