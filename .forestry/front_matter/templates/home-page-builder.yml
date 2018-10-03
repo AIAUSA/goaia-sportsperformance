@@ -10,6 +10,7 @@ fields:
   label: Page Sections
   name: page_sections
   template_types:
+  - text
   - custom-heading
   - news-banner
   - get-involved-general
