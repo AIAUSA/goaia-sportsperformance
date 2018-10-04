@@ -43,6 +43,10 @@ page_sections:
 
     As of 2018 AIA Sports Performance has impacted 30 countries on five continents. The international vision developed through various certified athletic trainers and strength coaches doing impromptu educational clinics while traveling with AIA sports teams. AIA Power was formed in 1997 to use strength & conditioning as a platform to reach others for Christ. Within six years AIA Power impacted six countries on two continents. In 2003 sports medicine professionals were included on a clinical education team to Guatemala. In 2008 the Sports Performance Department was officially formed to use the platforms of sports medicine and strength & conditioning to change lives through the love of Jesus Christ. As of 2018, fifty-four interns have served either 9-week, 15-week or year round internships. The International Sports Performance Academy was started in 2014 to receive professionals from others countries in the US for two weeks of training. Since 1997, AIA has sent out forty-seven international sports performance mission teams, conducted hundreds of clinics, and recruited hundreds of volunteers to travel with competitive sports tours, camps and projects to change lives through sports medicine and strength & conditioning.
   image: "/uploads/1969 AIA Weight Lifting Team (No Caption).jpg"
+- template: application-call-to-action
+  block: application-callout
+- template: social-callout
+  block: sports-performance-social
 date: ''
 
 ---
