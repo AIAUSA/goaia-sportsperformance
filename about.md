@@ -8,23 +8,23 @@ page_sections:
   text: |-
     AIA Sports Performance impacts professionals and students in sports medicine and strength & conditioning with a vision to see a Christ follower in every sports medicine and strength & conditioning facility in the world! To fulfill this vision professional and student volunteers are recruited to serve on over 40 competitive and educational projects annually, while outreaches are held at professional meetings, and individual and group Bible studies are being organized. Discipleship materials have been written specifically for professionals and students in these fields. A variety of internship opportunities have been developed for students and young professionals seeking to establish a spiritual foundation to their careers. Professionals and students in a variety of sports performance fields impact every sport in every nation every day. _By meeting the physical needs of those they serve, they will have excellent opportunities to meet others’ spiritual needs as well._
 
-    #### WHO WE ARE
+    ### WHO WE ARE
 
     Athletic Trainers and Strength Coaches committed to the Great Commission.
 
-    #### WHAT WE DO
+    ### WHAT WE DO
 
     Encourage and equip sports performance professionals and students to share Christ’s love with others.
 
-    #### OUR VISION
+    ### OUR VISION
 
     To see a Christ follower in every _sports medicine_ and _strength & conditioning_ facility in every nation.
 
-    #### OUR MISSION
+    ### OUR MISSION
 
     To change lives by building spiritual movements through the _platforms_ of _sports medicine_ and _strength & conditioning_ (Romans 10:14-15).
 
-    #### OUR Values
+    ### OUR Values
 
     Humility, Service, Expertise
 
