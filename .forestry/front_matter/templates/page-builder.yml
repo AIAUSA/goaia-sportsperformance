@@ -32,6 +32,7 @@ fields:
   - teamblogs
   - text
 pages:
+- about.md
 - give.md
 - get-involved-students.md
 - get-involved.md
