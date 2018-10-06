@@ -18,3 +18,9 @@ fields:
   name: image
   label: Image
   description: photo to appear behind the text
+- type: text
+  name: url
+  label: Link URL
+- type: text
+  name: linkText
+  label: Button Text

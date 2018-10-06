@@ -9,6 +9,11 @@
                 <header class="title-block text-center mb50">
                     <h2 class="text-white text-center mb20">{{ section.text }}</h2>
                     <p class="text-white">{{ section.byLine }}</p>
+                    {% if section.url != nil %}
+                    <div class="callout-action">
+                        <a href="{{section.url}}" class="btn btn-custom3 btn-border radius-lger min-width">{{section.linkText}}</a>
+                    </div>
+                    {% endif %}
                 </header>
             </div><!-- End .iframe-btn-container -->
         </div><!-- End .container -->
