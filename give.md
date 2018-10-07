@@ -35,16 +35,17 @@ page_sections:
   red: CENTURY CLUB
 - template: text
   block: text
-  content: "<p><strong>The Century Club has been established to help provide funds
-    for sports performance ministry events. Your donations will be used to further
+  content: <p><strong>The Century Club has been established to help provide funds
+    for AIA Sports Performance ministry events. Your donations will be used to further
     develop this ministry. Examples of our needs include:</strong></p><ul><li><p><strong>Scholarship
     fund for those who wish to participate in a project with AIA Sports Performance,
-    but do not have the financial opportunities others do.</strong></p></li><li><p><strong>Equipment
-    for Sports Performance tours and the AIA Sports Complex.</strong></p></li><li><p><strong>Ministry
+    but do not have the financial opportunities others do.</strong></p></li><li><p><strong>Athletic
+    Training and Strength &amp; Conditioning Equipment.</strong></p></li><li><p><strong>Ministry
     Fellowships and Prayer Breakfasts at continuing education meetings.</strong></p></li><li><p><strong>Computers
     and other needed Office improvements.</strong></p></li></ul><p><strong>Would you
-    prayerfully consider making an annual donation of $100 or more to our department
-    to assist us in meeting these needs?</strong></p>"
+    prayerfully consider making an annual donation of $100 or some other amount to
+    our department to assist us in meeting these needs? </strong><a href="https://give.cru.org/2791500"
+    title=""><strong>Join the Century Club here!</strong></a></p>
 date: ''
 
 ---
