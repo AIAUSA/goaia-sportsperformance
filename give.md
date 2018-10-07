@@ -12,10 +12,14 @@ page_sections:
   content: <p><strong>Like many other mission organizations, Athletes in Action depends
     upon the consistent financial support of concerned individuals and churches. We
     invite others to partner with us to reach people for Christ. Follow the links
-    below to support an individual staff member.</strong></p><p><a href="https://give.cru.org/0619401"><strong>Lisa
-    Martin</strong></a></p><p><a href="https://give.cru.org/0374069"><strong>Paul
-    Newman (Donna)</strong></a></p><p><a href="https://give.cru.org/0244524"><strong>Jim
-    Rumelhart (Deb)</strong></a></p><p><strong>Our commitment to our ministry partners...</strong></p><p><strong>»
+    below to support an individual staff member.</strong></p><p><a href="https://give.cru.org/0374069"><strong>Paul
+    Newman (Donna)</strong></a></p><p><a href="https://give.cru.org/0619401"><strong>Lisa
+    Martin</strong></a></p><p><a href="https://give.cru.org/0244524"><strong>Jim Rumelhart
+    (Deb)</strong></a></p><p><a href="https://give.cru.org/0998652" title=""><strong>Annie
+    Mitchell</strong></a></p><p><a href="https://give.cru.org/0969152" title=""><strong>Naomi
+    Rust</strong></a></p><p><a href="https://give.cru.org/1011672" title=""><strong>Brianna
+    Harper</strong></a></p><p><a href="https://give.cru.org/1016833" title=""><strong>Cody
+    Blackford</strong></a></p><p><strong>Our commitment to our ministry partners...</strong></p><p><strong>»
     To work diligently to touch the lives of people for Jesus Christ.</strong></p><p><strong>»
     To regularly let you know how God is blessing the ministry.</strong></p><p><strong>»
     To be financially faithful with the funds given for my ministry.</strong></p><p><strong>»
