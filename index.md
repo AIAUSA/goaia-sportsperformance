@@ -13,6 +13,7 @@ page_sections:
   text: The Training Table
   url: "/resources/"
   linkText: Check it Out
+  byLine: Spiritual Resources to Help You Grow
 - template: social-callout
   block: sports-performance-social
 
