@@ -11,10 +11,8 @@ page_sections:
 - template: image-callout
   block: image-callout
   text: The Training Table
-  url: /resources/
+  url: "/resources/"
   linkText: Check it Out
-- template: resources-general
-  block: resources
 - template: social-callout
   block: sports-performance-social
 
