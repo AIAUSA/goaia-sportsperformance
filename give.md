@@ -41,11 +41,10 @@ page_sections:
     of $100 or some other amount to our department to assist us in meeting these needs?
     </strong><a href="https://give.cru.org/2791500" title=""><strong>Join the Century
     Club here!</strong></a></p><p><strong>Examples of our needs include:</strong></p><ul><li><p><strong>Scholarship
-    fund for those who wish to participate in a project with AIA Sports Performance,
-    but do not have the financial opportunities others do.</strong></p></li><li><p><strong>Athletic
-    Training and Strength &amp; Conditioning Equipment.</strong></p></li><li><p><strong>Ministry
-    Fellowships and Prayer Breakfasts at continuing education meetings.</strong></p></li><li><p><strong>Computers
-    and other needed Office improvements.</strong></p></li></ul>
+    fund for those who wish to participate on a project with AIA Sports Performance,
+    but do not have the financial opportunities others do.</strong></p></li><li><p><strong>Ministry
+    Fellowships and Prayer Breakfasts at continuing education meetings.</strong></p></li><li><p><strong>Athletic
+    Training and Strength &amp; Conditioning Equipment.</strong></p></li></ul>
 date: ''
 
 ---
