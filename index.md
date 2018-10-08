@@ -13,7 +13,9 @@ page_sections:
   text: The Training Table
   url: "/resources/"
   linkText: Check it Out
-  byLine: Spiritual Resources to Help You Grow
+  byLine: Spiritual Resources to Help You Grow...Just as an athlete needs a nutritious
+    Training Table to learn and eat from in order to grow strong. So do you need a
+    spiritual Training Table to learn and eat from in order to grow spiritually strong.
   image: "/uploads/Untitled design.png"
 - template: social-callout
   block: sports-performance-social
