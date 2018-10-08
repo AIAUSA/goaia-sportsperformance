@@ -43,3 +43,5 @@ Favorite Bible Passages: Psalm 139; John 15:1-17; Psalm 40: 1-3; Acts 17:24-28; 
 **What is your impression after your first two weeks?** ...I am encouraged to see the work God has done and is going to continue to do through the platform of sports. I am in awe...God is truly at work!
 
 **What would need to take place for you to look back a year from now and say, this was successful?** ...I would count it a success if I stayed faithful and engaged with where the Spirit lead me throughout the year...I want to walk in step with Him in whatever He desires for this internship, but it's easy to get distracted and pulled in other directions...so it will take diligence and focus on His mission.
+
+Are you looking for an internship in athletic training or strength & conditioning? Do you want to be developed as a leader and equipped as a life-long laborer for Christ? Look at what AIA has to offer in the form of [**paid internships**](http://aiasportsperformance.org/get-involved/post-graduate-internships/) for certified athletic trainers and strength coaches.
