@@ -10,7 +10,7 @@ page_sections:
   block: projects
 - template: image-callout
   block: image-callout
-  text: The Training Table     Spiritual Resources to Help You Grow
+  text: The Training Table...Spiritual Resources to Help You Grow
   url: "/resources/"
   linkText: Check it Out
   byLine: Just as an athlete needs a nutritious Training Table to learn and eat from
