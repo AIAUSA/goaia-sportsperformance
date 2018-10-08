@@ -1,7 +1,7 @@
 ---
 title: Meet Our New Interns!
 date: 2018-09-10 20:18:31 +0000
-image: "/uploads/DSC_2107-300x201.jpg"
+image: "/uploads/DSC_2107-1024x685.jpg"
 tags: []
 
 ---
