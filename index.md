@@ -19,4 +19,4 @@ page_sections:
   block: sports-performance-social
 
 ---
-Just as... (or subtext?)
+Just as an athlete needs a nutritious Training Table to learn and eat from in order to grow strong. So do you need a spiritual Training Table to learnbe fed spiritual
