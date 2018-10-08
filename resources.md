@@ -11,8 +11,9 @@ page_sections:
     others and ENGAGE athletes, colleagues and students who are looking for answers
     in their chaotic life? Let AIA Sports Performance EQUIP you to do just that.</strong></p><p><strong>EXPLORE
     your Bible through studies uniquely designed for professionals and students in
-    sports performance fields.</strong></p><p><strong>CONNECT TO US&nbsp;to find out
-    how you can lead individuals and small groups!&nbsp;</strong>  </p>
+    sports performance fields.</strong></p><p><a href="mailto:sportsperformance@athletesinaction.org"
+    title="" editing="" creating=""><strong>CONNECT TO US</strong></a><strong>&nbsp;to
+    find out how you can lead individuals and small groups!&nbsp;</strong>  </p>
 - template: resources-general
   block: resources
 
