@@ -14,6 +14,7 @@ page_sections:
   url: "/resources/"
   linkText: Check it Out
   byLine: Spiritual Resources to Help You Grow
+  image: "/uploads/Untitled design.jpg"
 - template: social-callout
   block: sports-performance-social
 
