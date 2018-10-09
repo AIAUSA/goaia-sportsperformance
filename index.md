@@ -16,7 +16,7 @@ page_sections:
   byLine: Just as an athlete needs a nutritious Training Table to learn and eat from
     in order to grow strong. So do you need a spiritual Training Table to learn and
     eat from in order to grow spiritually strong.
-  image: "/uploads/Untitled design.png"
+  image: "/uploads/thumbnail_large (3).jpg"
 - template: social-callout
   block: sports-performance-social
 
