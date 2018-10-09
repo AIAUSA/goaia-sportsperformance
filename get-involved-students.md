@@ -15,7 +15,7 @@ page_sections:
 - template: project-details
   block: project-details
   audience: student
-  type: Camps & Projects
+  type: Camp & Project
   order: 2
 - template: project-details
   block: project-details
