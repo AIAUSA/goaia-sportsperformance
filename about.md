@@ -26,7 +26,7 @@ page_sections:
 
     To change lives by building spiritual movements through the _platforms_ of _sports medicine_ and _strength & conditioning_ (Romans 10:14-15).
 
-    ### OUR Values
+    ### OUR VALUES
 
     Humility, Service, Expertise
 
