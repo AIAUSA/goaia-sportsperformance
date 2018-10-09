@@ -25,6 +25,10 @@ page_sections:
   block: project-details
   audience: staff
   type: 'Strength Coach: Full-Time'
+- template: project-details
+  block: project-details
+  audience: staff
+  type: 'Athletic Trainer: Part-Time'
 - template: image-callout
   block: image-callout
   image: "/uploads/2016 Team Photo.jpg"
