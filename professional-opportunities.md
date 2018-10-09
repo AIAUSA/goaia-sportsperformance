@@ -17,6 +17,9 @@ page_sections:
   type: Camp & Project
 - template: application-call-to-action
   block: application-callout
+  color: dark
+- template: social-callout
+  block: sports-performance-social
 permalink: "/get-involved/professionals"
 
 ---
