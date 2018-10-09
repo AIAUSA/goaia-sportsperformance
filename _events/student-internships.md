@@ -19,7 +19,7 @@ description: <p><strong>Learn life long ministry skills through a 8-16 week summ
   to see past Interns</p> </li> </ul> If you are graduating go here to look at our
   **year-round internship**.
 student: true
-professional: false
+professional: true
 staff: false
 event: false
 featured_image: "/uploads/DSC_1784-1024x680.jpg"
