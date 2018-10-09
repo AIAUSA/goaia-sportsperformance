@@ -32,6 +32,7 @@ fields:
   - teamblogs
   - text
 pages:
+- join-our-staff.md
 - professional-opportunities.md
 - about.md
 - give.md
