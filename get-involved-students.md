@@ -11,7 +11,7 @@ page_sections:
 - template: project-details
   block: project-details
   audience: student
-  type: Clinic Tours
+  type: Clinic Tour
 - template: project-details
   block: project-details
   audience: student
