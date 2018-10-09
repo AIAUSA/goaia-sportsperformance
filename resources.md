@@ -7,10 +7,11 @@ page_sections:
   block: text
   content: '<p><strong>Do you desire to ENCOURAGE others and ENGAGE athletes, colleagues
     and students who are looking for answers in their chaotic life? Or do you simply
-    want to grow in your own faith? Let AIA Sports Performance EQUIP you to do just
-    that!</strong></p><p><strong>Step One: </strong><a href="mailto:sportsperformance@athletesinaction.org"
-    title="" editing="" creating=""><strong>CONNECT TO US</strong></a><strong> to
-    find out how you can join or lead a small group or disciple individuals!</strong></p><p><strong>Step
+    want to grow in your own faith, learning how to apply Biblical principles to your
+    career? Let AIA Sports Performance EQUIP you to do just that!</strong></p><p><strong>Step
+    One: </strong><a href="mailto:sportsperformance@athletesinaction.org" title=""
+    editing="" creating=""><strong>CONNECT TO US</strong></a><strong> to find out
+    how you can join or lead a small group or disciple individuals!</strong></p><p><strong>Step
     Two: Determine which resource you need to use with those you are reaching out
     to.</strong></p><p><strong>Step Three: Commit to using these resources to impact
     others!</strong></p><p><strong>EXPLORE your Bible through studies uniquely designed
