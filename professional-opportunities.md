@@ -15,6 +15,8 @@ page_sections:
   block: project-details
   audience: professional
   type: Camps & Projects
+- template: application-call-to-action
+  block: application-callout
 published: false
 
 ---
