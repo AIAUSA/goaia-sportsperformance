@@ -10,11 +10,11 @@ page_sections:
 - template: project-details
   block: project-details
   audience: professional
-  type: Professional-Clinic Tours
+  type: Clinic Tours
 - template: project-details
   block: project-details
   audience: professional
-  type: Professional-Camps & Projects
+  type: Camps & Projects
 published: false
 
 ---
