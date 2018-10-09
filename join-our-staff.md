@@ -33,6 +33,10 @@ page_sections:
   block: project-details
   audience: staff
   type: 'Athletic Trainer: Part-Time'
+- template: project-details
+  block: project-details
+  audience: professional
+  type: Year-Round Internships
 - template: image-callout
   block: image-callout
   image: "/uploads/2016 Team Photo.jpg"
