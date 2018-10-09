@@ -36,7 +36,7 @@ page_sections:
 - template: project-details
   block: project-details
   audience: professional
-  type: Year-Round Internships
+  type: student-Internships
 - template: image-callout
   block: image-callout
   image: "/uploads/2016 Team Photo.jpg"
