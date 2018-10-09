@@ -17,6 +17,10 @@ page_sections:
     in a cutting edge ministry, Athletes in Action Sports Performance may be just
     the place for you!</strong></p><p><strong>To learn more details about serving
     with AIA, contact us at</strong>&nbsp;<a href="mailto:sportsperformance@athletesinaction.org"><strong>sportsperformance@athletesinaction.org</strong></a><strong>.</strong></p>
+- template: custom-heading
+  block: custom-heading
+  black: Staff
+  red: Opportunities
 - template: project-details
   block: project-details
   audience: staff
