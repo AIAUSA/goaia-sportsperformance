@@ -20,7 +20,7 @@ page_sections:
 - template: project-details
   block: project-details
   audience: student
-  type: Competitive Tours
+  type: Competitive Tour
 - template: application-call-to-action
   block: application-callout
 date: ''
