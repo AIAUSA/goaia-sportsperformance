@@ -7,6 +7,10 @@ page_sections:
   block: project-details
   audience: professional
   type: Professional-Competitive Tours
+- template: project-details
+  block: project-details
+  audience: professional
+  type: Professional-Clinic Tours
 published: false
 
 ---
