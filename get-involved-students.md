@@ -11,11 +11,11 @@ page_sections:
 - template: project-details
   block: project-details
   audience: student
-  type: Student-Clinic Tours
+  type: Clinic Tours
 - template: project-details
   block: project-details
   audience: student
-  type: Camp & Project
+  type: Camps & Projects
   order: 2
 - template: project-details
   block: project-details
