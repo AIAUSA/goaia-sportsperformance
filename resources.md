@@ -18,7 +18,8 @@ page_sections:
     others!</strong></p><p><strong>EXPLORE your Bible through studies uniquely designed
     for professionals and students in sports performance fields. Allow God to work
     in your life to encourage and equip you to live out 2 Timothy 2:2 and Ephesians
-    4:13. The life God changes might just be your own!</strong></p>'
+    4:13. Join a small group or receive one on one discipleship from our staff today.
+    The life God changes might just be your own!</strong></p>'
 - template: resources-general
   block: resources
 
