@@ -11,6 +11,5 @@ staff: false
 event: false
 featured_image: "/uploads/Sam Lee Icing a Knee in Taiwan.jpg"
 type: Competitive Tour
-published: false
 
 ---
