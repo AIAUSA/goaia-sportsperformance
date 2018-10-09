@@ -1,7 +1,7 @@
 ---
 title: Encouraging Words…Pouring into Interns…Who Poured Back into Us!
 date: 2018-09-07 14:38:29 +0000
-permalink: news/2018/08/encouraging-words-poured-back-into-us!
+permalink: news/2018/08/encouraging-words-pouring-into-interns-who-back-into-us!
 image: "/uploads/2018-Interns-2.jpg"
 tags: []
 
