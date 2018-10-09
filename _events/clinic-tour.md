@@ -1,5 +1,5 @@
 ---
-title: Clinic Tour
+title: Clinic Team
 date: 2018-10-09 02:14:10 +0000
 description: "**Each year we send international clinical education teams to co-host
   conferences and clinics on sports medicine and strength & conditioning with professionals
