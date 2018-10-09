@@ -24,7 +24,7 @@ page_sections:
 - template: project-details
   block: project-details
   audience: staff
-  type: Strength Coach - Full Time
+  type: 'Strength Coach: Full-Time'
 - template: image-callout
   block: image-callout
   image: "/uploads/2016 Team Photo.jpg"
