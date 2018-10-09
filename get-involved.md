@@ -7,6 +7,7 @@ page_sections:
   block: projects
 - template: application-call-to-action
   block: application-callout
+  color: dark
 - template: social-callout
   block: sports-performance-social
 date: ''
