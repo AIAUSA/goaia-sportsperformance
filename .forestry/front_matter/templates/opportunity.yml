@@ -44,11 +44,11 @@ fields:
     - Clinic Team
   label: Type of Opportunity
 pages:
+- _events/athletic-trainer-part-time.md
 - _events/athletic-trainer-full-time.md
 - _events/urban-project-los-angeles.md
 - _events/year-round-internships.md
 - _events/strength-coach-full-time.md
-- _events/athletic-trainer-part-time.md
 - _events/extreme-challenge-puerto-rico.md
 - _events/ultimate-training-camp.md
 - _events/boston-project.md

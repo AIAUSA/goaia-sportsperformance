@@ -21,8 +21,8 @@ description: ' <h2 id="are-you-are-looking-for-an-opportunity-to-use-your-passio
   <h4 id="-then-aia-ultimate-training-camp-may-be-just-the-place-for-you-"><strong>Then,
   AIA Ultimate Training Camp may be just the place for you!</strong></h4> </li> </ul>'
 student: false
-professional: true
-staff: false
+professional: false
+staff: true
 event: false
 featured_image: "/uploads/Tending to an Athlete.jpg"
 type: ''
