@@ -17,5 +17,6 @@ page_sections:
   type: Camp & Project
 - template: application-call-to-action
   block: application-callout
+permalink: "/get-involved/professionals"
 
 ---
