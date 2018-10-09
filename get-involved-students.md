@@ -13,5 +13,8 @@ page_sections:
   audience: student
   type: Camp & Project
   order: 2
+- template: application-call-to-action
+  block: application-callout
+date: ''
 
 ---
