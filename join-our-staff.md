@@ -20,7 +20,7 @@ page_sections:
 - template: project-details
   block: project-details
   audience: staff
-  type: Athletic Trainer-Full Time
+  type: 'Athletic Trainer: Full-Time'
 - template: project-details
   block: project-details
   audience: staff
