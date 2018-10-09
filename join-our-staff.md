@@ -19,6 +19,10 @@ page_sections:
     with AIA, contact us at</strong>&nbsp;<a href="mailto:sportsperformance@athletesinaction.org"><strong>sportsperformance@athletesinaction.org</strong></a><strong>.</strong></p>
 - template: project-details
   block: project-details
+  audience: staff
+  type: Athletic Trainer-Full Time
+- template: project-details
+  block: project-details
   audience: professional
   type: Strength Coach - Full Time
 - template: image-callout
