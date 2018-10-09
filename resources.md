@@ -17,11 +17,11 @@ page_sections:
     sports performance fields. Allow God to work in your life to encourage and equip
     you to live out 2 Timothy 2:2 and Ephesians 4:13. Join a small group or receive
     one on one discipleship from our staff today. The life God changes might just
-    be your own!</strong></p><p><strong>"And the things you have heard me say&nbsp;in
+    be your own!</strong></p><p><strong><em>"And the things you have heard me say&nbsp;in
     the presence of many witnesses entrust to reliable people who will also be qualified
-    to teach others." 2 Timothy 2:2 </strong> </p><p><strong><em>"...until we all
-    reach unity in the faith and in the knowledge of the Son of God and become mature,
-    attaining to the whole measure of the fullness of Christ." Ephesians 4:13</em></strong></p><p></p>'
+    to teach others." 2 Timothy 2:2 </em></strong><em> </em></p><p><strong><em>"...until
+    we all reach unity in the faith and in the knowledge of the Son of God and become
+    mature, attaining to the whole measure of the fullness of Christ." Ephesians 4:13</em></strong></p><p></p>'
 - template: resources-general
   block: resources
 
