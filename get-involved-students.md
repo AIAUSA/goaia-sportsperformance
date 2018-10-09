@@ -15,6 +15,10 @@ page_sections:
   order: 2
 - template: application-call-to-action
   block: application-callout
+- template: project-details
+  block: project-details
+  audience: student
+  type: Student-Clinic Tours
 date: ''
 
 ---
