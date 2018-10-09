@@ -3,7 +3,7 @@ title: Meet Our New Interns!
 date: 2018-09-10 20:18:31 +0000
 image: "/uploads/DSC_2107-1024x685.jpg"
 tags: []
-permalink: news/2018/08/meet-our-new-interns
+permalink: news/2018/08/meet-our-new-interns!
 
 ---
 We welcomed two new Year-Round Interns to our staff in the last two weeks! Both are certified athletic trainers who are starting their professional careers by seeking a foundation built upon spiritual and leadership development here at AIA. Take a look at our [**Year-Round Internships**](http://aiasportsperformance.org/get-involved/post-graduate-internships/) to see if this is the best option for you. In the meantime, get to know our Interns for this year!
