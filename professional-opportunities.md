@@ -10,7 +10,7 @@ page_sections:
 - template: project-details
   block: project-details
   audience: professional
-  type: Clinic Tours
+  type: Clinic Tour
 - template: project-details
   block: project-details
   audience: professional
