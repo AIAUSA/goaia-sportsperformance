@@ -11,5 +11,12 @@ page_sections:
 
     **To learn more details about serving with AIA, click** [**here**](https://goaia.org/careers/) **or contact us at** [**sportsperformance@athletesinaction.org**](mailto:sportsperformance@athletesinaction.org)**.**
   image: "/uploads/IMAG0939-e1455128729353-768x551.jpg"
+- template: image-callout
+  block: image-callout
+  image: "/uploads/2016 Team Photo.jpg"
+  url: https://goaia.org/careers/
+  linkText: Learn More
+  text: Join Our Staff
+  byLine: Ready to Learn More about Serving with AIA?
 
 ---
