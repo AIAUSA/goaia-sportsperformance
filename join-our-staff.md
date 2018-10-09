@@ -16,6 +16,5 @@ page_sections:
     gifts and abilities to serve the Lord in a cutting edge ministry, Athletes in
     Action Sports Performance may be just the place for you!**   "
   image: "/uploads/IMAG0939-e1455128729353-768x551.jpg"
-published: false
 
 ---
