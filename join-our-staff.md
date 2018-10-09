@@ -23,7 +23,7 @@ page_sections:
   type: Athletic Trainer-Full Time
 - template: project-details
   block: project-details
-  audience: professional
+  audience: staff
   type: Strength Coach - Full Time
 - template: image-callout
   block: image-callout
