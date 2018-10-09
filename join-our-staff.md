@@ -14,7 +14,10 @@ page_sections:
     Performance brings a different perspective on competition as well. If you are
     looking for an opportunity to use your passion for God, love of sports, and your
     gifts and abilities to serve the Lord in a cutting edge ministry, Athletes in
-    Action Sports Performance may be just the place for you!**   "
+    Action Sports Performance may be just the place for you!**\n\n**To learn more
+    details about serving with AIA, click** [**here**](http://www.goaia.org/careers) **or
+    contact us at** [**sportsperformance@athletesinaction.org**](mailto:sportsperformance@athletesinaction.org)**.**
+    \ "
   image: "/uploads/IMAG0939-e1455128729353-768x551.jpg"
 
 ---
