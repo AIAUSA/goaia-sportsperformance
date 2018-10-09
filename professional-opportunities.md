@@ -14,7 +14,7 @@ page_sections:
 - template: project-details
   block: project-details
   audience: professional
-  type: Camps & Projects
+  type: Camp & Project
 - template: application-call-to-action
   block: application-callout
 
