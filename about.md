@@ -29,6 +29,10 @@ page_sections:
     ### OUR VALUES
 
     Humility, Service, Expertise
+
+    ### Our [Objectives-and-Emphases](https://app.forestry.io/sites/l23gvhvzqg-abq/body-media/uploads/Objectives-and-Emphases.pdf "Objectives-and-Emphases.pdf")
+
+    Train, Engage, Accelerate & Multiply
   image: "/uploads/2016 IC UTC - Brian with an athlete.jpg"
 - template: custom-heading
   block: custom-heading
