@@ -17,12 +17,12 @@ page_sections:
   audience: student
   type: Camp & Project
   order: 2
-- template: application-call-to-action
-  block: application-callout
 - template: project-details
   block: project-details
   audience: student
   type: Student-Competitive Tours
+- template: application-call-to-action
+  block: application-callout
 date: ''
 
 ---
