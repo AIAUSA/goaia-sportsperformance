@@ -17,6 +17,5 @@ page_sections:
   type: Camps & Projects
 - template: application-call-to-action
   block: application-callout
-published: false
 
 ---
