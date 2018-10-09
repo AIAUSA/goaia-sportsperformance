@@ -6,7 +6,7 @@ page_sections:
 - template: project-details
   block: project-details
   audience: professional
-  type: Competitive Tours
+  type: Competitive Tour
 - template: project-details
   block: project-details
   audience: professional
