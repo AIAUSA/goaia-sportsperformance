@@ -23,6 +23,9 @@ page_sections:
   type: Competitive Tour
 - template: application-call-to-action
   block: application-callout
+  color: dark
+- template: social-callout
+  block: sports-performance-social
 date: ''
 
 ---
