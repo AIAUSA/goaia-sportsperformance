@@ -12,6 +12,5 @@ staff: false
 event: false
 featured_image: "/uploads/Guatemala Upper Body Eval Groups.jpg"
 type: ''
-published: false
 
 ---
