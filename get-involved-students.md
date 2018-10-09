@@ -11,6 +11,10 @@ page_sections:
 - template: project-details
   block: project-details
   audience: student
+  type: Student-Clinic Tours
+- template: project-details
+  block: project-details
+  audience: student
   type: Camp & Project
   order: 2
 - template: application-call-to-action
@@ -18,7 +22,7 @@ page_sections:
 - template: project-details
   block: project-details
   audience: student
-  type: Student-Clinic Tours
+  type: Student-Competitive Tours
 date: ''
 
 ---
