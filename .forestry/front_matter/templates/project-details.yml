@@ -26,3 +26,6 @@ fields:
   label: Project Type
   config:
     required: true
+- type: text
+  name: order
+  label: Order
