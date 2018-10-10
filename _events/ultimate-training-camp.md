@@ -17,6 +17,6 @@ professional: true
 staff: false
 event: false
 featured_image: "/uploads/303.JPG"
-type: Camp & Project
+type: Camps & Projects
 
 ---

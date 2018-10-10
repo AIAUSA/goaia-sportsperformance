@@ -12,6 +12,6 @@ professional: true
 staff: false
 event: false
 featured_image: "/uploads/BostonProjectLogo.jpg"
-type: Camp & Project
+type: Camps & Projects
 
 ---

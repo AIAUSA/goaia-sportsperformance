@@ -9,4 +9,5 @@ featured_image: "/uploads/resource-spiritual-strength-with text-7-1.jpg"
 published: true
 primary: true
 permalink: /resources/more
+order: 6
 ---

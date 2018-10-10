@@ -10,4 +10,5 @@ featured_image: "/uploads/Equipped Discipleship-2-1.jpg"
 published: true
 primary: true
 permalink: /resources/equipped
+order: 2
 ---

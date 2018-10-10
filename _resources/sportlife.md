@@ -8,4 +8,5 @@ featured_image: "/uploads/SportLife-17-1.jpg"
 published: true
 primary: true
 permalink: /resources/sportlife
+order: 5
 ---

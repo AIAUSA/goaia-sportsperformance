@@ -37,11 +37,11 @@ fields:
     source:
       type: simple
     options:
-    - Competitive Tour
-    - Camp & Project
+    - Competitive Tours
+    - Camps & Projects
     - Student-Internship
     - Sportlinc
-    - Clinic Team
+    - Clinic Teams
   label: Type of Opportunity
 pages:
 - _events/year-round-internships.md

@@ -9,4 +9,5 @@ featured_image: "/uploads/Hurdles-2-1.jpg"
 published: true
 primary: true
 permalink: /resources/hurdles
+order: 4
 ---

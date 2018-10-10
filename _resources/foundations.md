@@ -8,4 +8,5 @@ featured_image: "/uploads/Foundations-3-1.jpg"
 published: true
 primary: true
 permalink: /resources/foundations
+order: 1
 ---

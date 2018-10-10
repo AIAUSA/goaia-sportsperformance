@@ -6,15 +6,18 @@ page_sections:
 - template: project-details
   block: project-details
   audience: professional
-  type: Competitive Tour
+  type: Competitive Tours
+  order: 1
 - template: project-details
   block: project-details
   audience: professional
-  type: Clinic Team
+  type: Clinic Teams
+  order: 2
 - template: project-details
   block: project-details
   audience: professional
-  type: Camp & Project
+  type: Camps & Projects
+  order: 3
 - template: application-call-to-action
   block: application-callout
   color: dark

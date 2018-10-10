@@ -11,16 +11,17 @@ page_sections:
 - template: project-details
   block: project-details
   audience: student
-  type: Clinic Team
+  type: Clinic Teams
 - template: project-details
   block: project-details
   audience: student
-  type: Camp & Project
+  type: Camps & Projects
   order: 2
 - template: project-details
   block: project-details
   audience: student
-  type: Competitive Tour
+  type: Competitive Tours
+  order: 3
 - template: application-call-to-action
   block: application-callout
   color: dark

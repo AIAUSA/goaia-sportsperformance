@@ -16,6 +16,6 @@ professional: true
 staff: false
 event: false
 featured_image: "/uploads/Extreme-Challenge-PR-2016-e1482351875548.jpg"
-type: Camp & Project
+type: Camps & Projects
 
 ---
