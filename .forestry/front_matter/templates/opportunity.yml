@@ -44,8 +44,8 @@ fields:
     - Clinic Teams
   label: Type of Opportunity
 pages:
-- _events/urban-project-los-angeles.md
 - _events/ultimate-training-camp.md
+- _events/urban-project-los-angeles.md
 - _events/boston-project.md
 - _events/year-round-internships.md
 - _events/clinic-tour.md
