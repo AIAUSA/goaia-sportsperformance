@@ -9,10 +9,10 @@ page_sections:
     </strong>athletes, colleagues and students who are looking for answers in their
     chaotic life? Or do you simply want to grow in your own faith, learning how to
     apply Biblical principles to your career? Let AIA Sports Performance<strong> EQUIP
-    </strong>you to do just that!</p><p><strong>Step One: </strong><a href="mailto:sportsperformance@athletesinaction.org"
-    title=""><strong>CONNECT TO US</strong></a> to find out how to use these resources!</p><p><strong>Step
-    Two: </strong>Determine which resource you need to use with those you are reaching
-    out to.</p><p><strong>Step Three: </strong>Commit to using these resources to
+    </strong>you to do just that!</p><p><strong>STEP ONE: </strong><a href="mailto:sportsperformance@athletesinaction.org"
+    title=""><strong>CONNECT TO US</strong></a> to find out how to use these resources!</p><p><strong>STEP
+    TWO: </strong>Determine which resource you need to use with those you are reaching
+    out to.</p><p><strong>STEP THREE: </strong>Commit to using these resources to
     impact others!</p><p><strong>EXPLORE </strong>your Bible through studies uniquely
     designed for professionals and students in sports performance fields. Allow God
     to work in your life to encourage and equip you to live out 2 Timothy 2:2 and
