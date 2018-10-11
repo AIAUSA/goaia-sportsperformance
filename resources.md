@@ -19,7 +19,7 @@ page_sections:
     Ephesians 4:13. Join a small group or receive one on one discipleship from our
     staff today. The life God changes might just be your own!</p><p><em>"And the things
     you have heard me say in the presence of many witnesses entrust to reliable people
-    who will also be qualified to teach others." </em></p><p><em>2 Timothy 2:2</em></p><p><em>"...until
+    who will also be qualified to teach others."       2 Timothy 2:2</em></p><p><em>"...until
     we all reach unity in the faith and in the knowledge of the Son of God and become
     mature, attaining to the whole measure of the fullness of Christ." Ephesians 4:13</em></p><p></p>'
 - template: resources-general
