@@ -9,6 +9,5 @@ staff: false
 event: false
 featured_image: "/uploads/Katie Lally in the dugout.jpg"
 type: Student-Internship
-published: false
 
 ---
