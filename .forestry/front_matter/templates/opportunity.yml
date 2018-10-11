@@ -42,6 +42,7 @@ fields:
     - Student-Internship
     - Sportlinc
     - Clinic Teams
+    - Staff Opportunity
   label: Type of Opportunity
 pages:
 - _events/ultimate-training-camp.md
