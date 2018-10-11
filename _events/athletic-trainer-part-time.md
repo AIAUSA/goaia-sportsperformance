@@ -26,5 +26,5 @@ staff: true
 event: false
 featured_image: "/uploads/Tending to an Athlete.jpg"
 type: ''
-
+type: Staff Opportunities
 ---

@@ -42,7 +42,7 @@ fields:
     - Student-Internship
     - Sportlinc
     - Clinic Teams
-    - Staff Opportunity
+    - Staff Opportunities
   label: Type of Opportunity
 pages:
 - _events/athletic-trainer-full-time.md

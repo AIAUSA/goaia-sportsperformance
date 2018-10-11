@@ -25,5 +25,5 @@ staff: true
 event: false
 featured_image: "/uploads/2016 IC UTC Tug-a-War.jpg"
 type: ''
-
+type: Staff Opportunities
 ---

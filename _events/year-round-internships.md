@@ -31,5 +31,5 @@ staff: true
 event: false
 featured_image: "/uploads/2018-Launch-pic-768x514.jpg"
 type: ''
-
+type: Staff Opportunities
 ---
