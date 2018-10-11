@@ -1,5 +1,5 @@
 ---
-title: Ultimate Training Camp
+title: Ultimate Training Camps
 date: 2018-08-30 19:18:48 +0000
 description: "#### Use Your Skills, Learn Biblical Principles, Share Your Faith! Why
   not join AIA Sports Performance on an adventure in your field of expertise. Let
