@@ -23,6 +23,6 @@ professional: false
 staff: true
 event: false
 featured_image: "/uploads/IMAG0939-e1455128729353-768x551.jpg"
-type: ''
+type: Staff Opportunity
 
 ---

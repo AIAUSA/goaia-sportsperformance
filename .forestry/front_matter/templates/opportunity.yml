@@ -45,6 +45,7 @@ fields:
     - Staff Opportunity
   label: Type of Opportunity
 pages:
+- _events/athletic-trainer-full-time.md
 - _events/ultimate-training-camp.md
 - _events/academic-internship.md
 - _events/urban-project-los-angeles.md
@@ -54,7 +55,6 @@ pages:
 - _events/competitive-tours.md
 - _events/strength-coach-full-time.md
 - _events/athletic-trainer-part-time.md
-- _events/athletic-trainer-full-time.md
 - _events/extreme-challenge-puerto-rico.md
 - _events/sportlinc.md
 - _events/student-internships.md
