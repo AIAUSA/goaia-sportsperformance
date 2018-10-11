@@ -44,7 +44,6 @@ fields:
     - Clinic Teams
   label: Type of Opportunity
 pages:
-- _events/ft-at.md
 - _events/academic-internship.md
 - _events/ultimate-training-camp.md
 - _events/urban-project-los-angeles.md
