@@ -24,7 +24,7 @@ page_sections:
 - template: project-details
   block: project-details
   audience: staff
-  type: Staff
+  type: Staff Opportunities
 - template: project-details
   block: project-details
   audience: staff
