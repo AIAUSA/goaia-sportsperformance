@@ -7,8 +7,8 @@ student: true
 professional: false
 staff: false
 event: false
-featured_image: ''
-type: ''
+featured_image: "/uploads/Katie Lally in the dugout.jpg"
+type: Student-Internship
 published: false
 
 ---
