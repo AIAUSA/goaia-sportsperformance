@@ -24,7 +24,7 @@ page_sections:
 - template: project-details
   block: project-details
   audience: staff
-  type: 'Athletic Trainer: Full-Time'
+  type: Staff
 - template: project-details
   block: project-details
   audience: staff
