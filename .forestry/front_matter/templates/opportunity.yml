@@ -45,13 +45,13 @@ fields:
     - Staff Opportunities
   label: Type of Opportunity
 pages:
+- _events/academic-internship.md
 - _events/sportlinc.md
 - _events/year-round-internships.md
 - _events/student-internships.md
 - _events/athletic-trainer-part-time.md
 - _events/athletic-trainer-full-time.md
 - _events/ultimate-training-camp.md
-- _events/academic-internship.md
 - _events/urban-project-los-angeles.md
 - _events/boston-project.md
 - _events/clinic-tour.md
