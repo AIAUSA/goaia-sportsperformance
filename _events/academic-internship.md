@@ -6,7 +6,7 @@ description: |-
 
   [Contact us](mailto:sportsperformance@athletesinaction.org) to learn more about this opportunity.
 
-  #### **Apply Below!**
+  ###### **Apply Below!**
 
   Applicants are encouraged to apply at least 2 months in advance.
 student: true
