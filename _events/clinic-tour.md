@@ -10,7 +10,7 @@ description: |-
 
   **Check out where we are going HERE!**
 
-  ##### Apply Below
+  ##### Apply Below!
 student: true
 professional: true
 staff: false
