@@ -20,8 +20,8 @@ _Click each picture to link to a video for The Principles. Click “Teacher’s 
 ![](/uploads/Principle-1-1.png)
 
 …1: Audience of One
-……–  [Teacher’s notes](/uploads/SP-Principle-1-Teacher-Notes)
-……–  [Student’s notes](/uploads/SP-Student-Notes-Principle-1)
+……–  [Teacher’s notes](/uploads/SP-Principle-1-Teacher-Notes.pdf)
+……–  [Student’s notes](/uploads/SP-Student-Notes-Principle-1.pdf)
 ……–  [Chapel Version Video]()
 
 ![](/uploads/Principle-2.png)
