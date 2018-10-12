@@ -10,21 +10,17 @@ description: |-
 
   A **Certified Athletic Trainer** is needed to serve as a supervisor for the Sports Performance X-Project interns.
 
-  #### What are you waiting for?!?
-
-  AIA Sports Performance is currently accepting applications for 2019 summer interns and ATC supervisors.
+  ##### What are you waiting for?!?
 
   2019 Dates:
 
-  Use the link below to apply and let us know that you are interested in the X-Project internship or supervisor position!
-
   **The deadline for 2019 Intern and Supervisor applications is February 1, 2019.**
 
-  ##### Apply Below!
+  #### Apply Below!
 
   Click here to see past Interns.
 
-  If you are graduating go here to look at our **year-round internship**.
+  If you are graduating go here to look at our **Year-Round Internship**.
 student: true
 professional: true
 staff: false
