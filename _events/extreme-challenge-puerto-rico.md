@@ -1,5 +1,5 @@
 ---
-title: Extreme Challenge - Puerto Rico
+title: Extreme Challenge Puerto Rico
 date: 2018-08-31 15:24:36 +0000
 description: |-
   #### Be a part of a two-week life-changing adventure targeted at launching movements of evangelism and discipleship on the universities in Puerto Rico and the United States.
