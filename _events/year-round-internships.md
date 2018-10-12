@@ -6,19 +6,7 @@ description: |-
 
   ##### At the AIA Headquarters in Xenia, Ohio you will be developed and equipped as a lifelong laborer and leader for Christ.You will focus on personal and professional growth through:
 
-  Weekly Spiritual/Leadership Development.
-
-  One on One Mentorship.
-
-  Helping AIA to build a spiritual movement with athletic training and strength & conditioning.
-
-  Discipling others in your field.
-
-  Assisting AIA's Sports Complex & Retreat Center in your area of expertise.
-
-  Experience a short-term missions tour in another country.
-
-  Observing Kettering Sports Medicine and Ignition Athletes Performance Group.
+  Weekly Spiritual/Leadership Development. One on One Mentorship. Helping AIA to build a spiritual movement with athletic training and strength & conditioning. Discipling others in your field. Assisting AIA's Sports Complex & Retreat Center in your area of expertise. Experience a short-term missions tour in another country. Observing Kettering Sports Medicine and Ignition Athletes Performance Group.
 
   ##### Athletic Trainers:
 
