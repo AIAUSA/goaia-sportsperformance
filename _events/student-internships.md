@@ -20,7 +20,7 @@ description: |-
 
   **The deadline for 2019 Intern and Supervisor applications is February 1, 2019.**
 
-  ##### Apply Below
+  ##### Apply Below!
 
   Click here to see past Interns.
 
