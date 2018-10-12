@@ -2,7 +2,7 @@
 title: X-Project
 date: 2018-08-31 15:58:53 +0000
 description: |-
-  #### Learn life long ministry skills through a 8-16 week summer internship!
+  #### Learn life long ministry skills through a 9 week summer internship!
 
   **Athletic Training Students** and students pursuing **Strength & Conditioning Specialties** are needed to participate in the X-Project internship while assisting with coverage of sporting events at the AIA Sports Complex in Xenia, Ohio. Additional observation hours are also completed at Kettering Sports Medicine and Ignition Athletes Performance Group.
 
