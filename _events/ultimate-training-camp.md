@@ -16,7 +16,7 @@ description: |-
 
   ##### 2019 Dates:
 
-  ##### Apply Below!
+  #### Apply Below!
 student: true
 professional: true
 staff: false
