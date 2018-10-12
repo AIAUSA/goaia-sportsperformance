@@ -7,9 +7,9 @@ description: 'The <em>Gospel applied to sport, experienced through sport and spo
   in the language of sport</em>. NOW, all the discussion questions have been tailored
   for athletic trainers, strength coaches and team physicians.   '
 featured_image: "/uploads/resource-principles-with Text-18-1.png"
-published: true
 primary: true
 order: 3
+
 ---
 ![](/uploads/Violet-Geometric-Cool-Desktop-Wallpaper-1-e1519843524293-1024x230.jpg)
 
@@ -20,22 +20,22 @@ _Click each picture to link to a video for The Principles. Click “Teacher’s 
 ![](/uploads/Principle-1-1.png)
 
 …1: Audience of One
-……–  Teacher’s notes
-……–  Student’s notes
+……–  [Teacher’s notes](/uploads/SP-Principle-1-Teacher-Notes)
+……–  [Student’s notes](/uploads/SP-Student-Notes-Principle-1)
 ……–  [Chapel Version Video]()
 
 ![](/uploads/Principle-2.png)
 
-…2: Inside Game                                                                           ……–  Teacher’s notes                                                                     ……–  Student’s notes                                                                   ……–  Chapel Version Video
+…2: Inside Game                                                                           ……–  [Teacher’s notes ](/uploads/SP-Principle-2-Teacher-Notes-)                                                                    ……–  [Student’s notes](/uploads/SP-Student-Notes-Principle-2)                                                                   ……–  Chapel Version Video
 
 ![](/uploads/Principle-3.png)
 
-…3: Holy Sweat/Wholly Surrender                                               ……–  Teacher’s notes                                                                    ……–  Student’s notes                                                                    ……–  Chapel Version Video
+…3: Holy Sweat/Wholly Surrender                                               ……–  [Teacher’s notes ](/uploads/SP-Principle-3-Teacher-Notes-)                                                                   ……–  [Student’s notes](/uploads/SP-Student-Notes-Principle-3)                                                                    ……–  Chapel Version Video
 
 ![](/uploads/Principle-4.png)
 
-…4: Hurtin' for Certain                                                                  ……–  Teacher’s notes                                                                    ……–  Student’s notes                                                                          ……–  Chapel Version Video
+…4: Hurtin' for Certain                                                                  ……–  [Teacher’s notes](/uploads/SP-Principle-4-Teacher-Notes-)                                                                    ……–  [Student’s notes ](/uploads/SP-Student-Notes-Principle-4)                                                                         ……–  Chapel Version Video
 
 ![](/uploads/Principle-5.png)
 
-…5: Victory Beyond Competition                                                           ……–  Teacher’s notes                                                                           ……–  Student’s notes                                                                            ……–  Chapel Version Video
+…5: Victory Beyond Competition                                                           ……–  [Teacher’s notes](/uploads/SP-Principle-5-Teacher-Notes-)                                                                           ……–  [Student’s notes ](/uploads/SP-Student-Notes-Principle-5)                                                                           ……–  Chapel Version Video
