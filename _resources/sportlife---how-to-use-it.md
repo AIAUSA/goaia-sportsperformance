@@ -2,7 +2,7 @@
 title: Sportlife - How To Use It
 date: 2018-10-03 14:46:02 +0000
 permalink: "/resources/sportlife/how-to-use"
-external_url: ''
+external_url: "/uploads/AIASportLife-2015-Complete-Version.pdf"
 description: '<strong>Who:</strong> For athletes, coaches, or sports performance professionals
   looking to apply Biblical perspectives to critical issues in sports. SportLife is
   a resource that can be helpful to both understand what athletes and coaches are
