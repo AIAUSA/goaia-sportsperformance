@@ -6,7 +6,9 @@ description: |-
 
   ##### At the AIA Headquarters in Xenia, Ohio you will be developed and equipped as a lifelong laborer and leader for Christ.You will focus on personal and professional growth through:
 
-  </li> <li><p>Weekly Spiritual/Leadership Development.</li> <li>One on One Mentorship.
+  Weekly Spiritual/Leadership Development.
+
+  One on One Mentorship.
 
   Helping AIA to build a spiritual movement with athletic training and strength & conditioning.
 
