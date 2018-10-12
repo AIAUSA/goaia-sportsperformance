@@ -1,7 +1,7 @@
 ---
 title: Sportlife - How To Use It
 date: 2018-10-03 14:46:02 +0000
-permalink: "/resources/sportlife/how-to-use"
+permalink: "/resources/sportlife-how-to-use-it"
 external_url: ''
 description: '<strong>Who:</strong> For athletes, coaches, or sports performance professionals
   looking to apply Biblical perspectives to critical issues in sports. SportLife is
