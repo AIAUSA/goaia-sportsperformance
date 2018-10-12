@@ -20,22 +20,22 @@ _Click each picture to link to a video for The Principles. Click “Teacher’s 
 ![](/uploads/Principle-1-1.png)
 
 …1: Audience of One
-……–  [Teacher’s notes](/uploads/SP-Principle-1-Teacher-Notes.pdf)
-……–  [Student’s notes](/uploads/SP-Student-Notes-Principle-1.pdf)
+……–  [Teacher’s notes](https://app.forestry.io/sites/l23gvhvzqg-abq/body-media//uploads/SP-Principle-1-Teacher-Notes.pdf)
+……–  [Student’s notes](https://app.forestry.io/sites/l23gvhvzqg-abq/body-media//uploads/SP-Student-Notes-Principle-1.pdf)
 ……–  [Chapel Version Video]()
 
 ![](/uploads/Principle-2.png)
 
-…2: Inside Game                                                                           ……–  [Teacher’s notes ](/uploads/SP-Principle-2-Teacher-Notes-)                                                                    ……–  [Student’s notes](/uploads/SP-Student-Notes-Principle-2)                                                                   ……–  Chapel Version Video
+…2: Inside Game                                                                           ……–  [Teacher’s notes ](/uploads/SP-Principle-2-Teacher-Notes-.pdf)                                                                    ……–  [Student’s notes](/uploads/SP-Student-Notes-Principle-2.pdf)                                                                   ……–  Chapel Version Video
 
 ![](/uploads/Principle-3.png)
 
-…3: Holy Sweat/Wholly Surrender                                               ……–  [Teacher’s notes ](/uploads/SP-Principle-3-Teacher-Notes-)                                                                   ……–  [Student’s notes](/uploads/SP-Student-Notes-Principle-3)                                                                    ……–  Chapel Version Video
+…3: Holy Sweat/Wholly Surrender                                               ……–  [Teacher’s notes ](/uploads/SP-Principle-3-Teacher-Notes-.pdf)                                                                   ……–  [Student’s notes](/uploads/SP-Student-Notes-Principle-3.pdf)                                                                    ……–  Chapel Version Video
 
 ![](/uploads/Principle-4.png)
 
-…4: Hurtin' for Certain                                                                  ……–  [Teacher’s notes](/uploads/SP-Principle-4-Teacher-Notes-)                                                                    ……–  [Student’s notes ](/uploads/SP-Student-Notes-Principle-4)                                                                         ……–  Chapel Version Video
+…4: Hurtin' for Certain                                                                  ……–  [Teacher’s notes](/uploads/SP-Principle-4-Teacher-Notes-.pdf)                                                                    ……–  [Student’s notes ](/uploads/SP-Student-Notes-Principle-4.pdf)                                                                         ……–  Chapel Version Video
 
 ![](/uploads/Principle-5.png)
 
-…5: Victory Beyond Competition                                                           ……–  [Teacher’s notes](/uploads/SP-Principle-5-Teacher-Notes-)                                                                           ……–  [Student’s notes ](/uploads/SP-Student-Notes-Principle-5)                                                                           ……–  Chapel Version Video
+…5: Victory Beyond Competition                                                           ……–  [Teacher’s notes](/uploads/SP-Principle-5-Teacher-Notes-.pdf)                                                                           ……–  [Student’s notes ](/uploads/SP-Student-Notes-Principle-5.pdf)                                                                           ……–  Chapel Version Video
