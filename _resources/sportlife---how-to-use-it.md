@@ -11,7 +11,8 @@ description: '<strong>Who:</strong> For athletes, coaches, or sports performance
   before going through the equipped discipleship curriculum.<br><strong>How: </strong>SportLife
   has three distinct sections. There are theological perspectives, critical issues
   in sport, and Bible studies addressing those issues. Use this <a href="/uploads/sportlife-overview.pdf"
-  title="">overview</a> to learn how to effectively reach people through SportLife!'
+  title="">overview</a> to learn how to effectively reach people through SportLife!<br><a
+  href="/uploads/AIASportLife-2015-Complete-Version.pdf" title="">GET IT! USE IT!</a>'
 featured_image: "/uploads/SportLife.JPG"
 primary: false
 
