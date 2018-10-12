@@ -14,15 +14,15 @@ description: '<h2 id="invest-in-your-_athletic-training_-and-or-_strength-coachi
   <li>Experience a short-term missions tour in another country.</li> <li><p>Observing
   Kettering Sports Medicine and Ignition Athletes Performance Group.</p> <h5 id="-athletic-trainers-"><strong>Athletic
   Trainers:</strong></h5> </li> <li><p>Design and implement athletic training protocols
-  for AIA’s Sports Complex & Retreat Center, AIA’s Domestic & International Competitive
+  for: AIA’s Sports Complex & Retreat Center, AIA’s Domestic & International Competitive
   Sports Teams, & AIA’s Educational Sports Performance Mission Teams.</li> </ul> </li>
   <li><p>Inspire a spiritual movement within sports medicine professionals.</p> <h5
   id="-strength-coaches-"><strong>Strength Coaches:</strong></h5> </li> <li><p>Design
-  and implement strength & conditioning programs for</p> <ul> <li>Legacy Christian
-  Academy (K-12 Christian School).</li> <li>AIA’s Youth & Collegiate Baseball Teams
-  and high school camps.</li> <li>AIA’s Educational Sports Performance Mission Teams.</li>
-  </ul> </li> <li><p>Inspire a spiritual movement within strength & conditioning professionals.</p>
-  <p><strong>Internship Dates: September 1st - August 10th</strong></p> <h4 id="-application-deadline-march-1st-"><strong>Application
+  and implement strength & conditioning programs for: Legacy Christian Academy (K-12
+  Christian School), AIA’s Youth & Collegiate Baseball Teams and high school camps,
+  & AIA’s Educational Sports Performance Mission Teams.</li> </ul> </li> <li><p>Inspire
+  a spiritual movement within strength & conditioning professionals.</p> <p><strong>Internship
+  Dates: September 1st - August 10th</strong></p> <h4 id="-application-deadline-march-1st-"><strong>Application
   Deadline: March 1st</strong></h4> </li> </ul>'
 student: false
 professional: true
