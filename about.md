@@ -49,6 +49,7 @@ page_sections:
   image: "/uploads/1969 AIA Weight Lifting Team (No Caption).jpg"
 - template: application-call-to-action
   block: application-callout
+  color: dark
 - template: social-callout
   block: sports-performance-social
 date: ''
