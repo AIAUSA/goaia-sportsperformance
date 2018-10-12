@@ -14,6 +14,5 @@ description: '<strong>Who:</strong> For athletes, coaches, or sports performance
   title="">overview</a> to learn how to effectively reach people through SportLife!'
 featured_image: "/uploads/SportLife.JPG"
 primary: false
-published: false
 
 ---
