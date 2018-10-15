@@ -1,10 +1,10 @@
 ---
 title: 'Athletic Trainer: Part-Time'
 date: 2018-09-04 14:48:14 +0000
-description: ' <h2 id="are-you-are-looking-for-an-opportunity-to-use-your-passion-for-god-love-of-sports-and-your-gifts-and-abilities-as-an-_athletic-trainer_-to-serve-the-lord-durning-aia-s-ultimate-training-camp-">Are
+description: <h2 id="are-you-are-looking-for-an-opportunity-to-use-your-passion-for-god-love-of-sports-and-your-gifts-and-abilities-as-an-_athletic-trainer_-to-serve-the-lord-durning-aia-s-ultimate-training-camp-">Are
   you are looking for an opportunity to use your passion for God, love of sports,
   and your gifts and abilities as an <strong><em>Athletic Trainer</em></strong> to
-  serve the Lord durning AIA&#39;s Ultimate Training Camp?</h2> <p>  Ultimate Training
+  serve the Lord during AIA's Ultimate Training Camp?</h2> <p>  Ultimate Training
   Camp is designed to teach athletes how to apply Biblical principles to their athletic
   competition.  At the conclusion of the camp there is an event called the SPECIAL,
   which is designed to push the athletes to their physical limits. As a result there
@@ -19,12 +19,12 @@ description: ' <h2 id="are-you-are-looking-for-an-opportunity-to-use-your-passio
   you interested in using your skills and knowledge to help change the world by sharing
   the love of Jesus Christ through Athletic Training this summer...</strong></h4>
   <h4 id="-then-aia-ultimate-training-camp-may-be-just-the-place-for-you-"><strong>Then,
-  AIA Ultimate Training Camp may be just the place for you!</strong></h4> </li> </ul>'
+  AIA Ultimate Training Camp may be just the place for you!</strong></h4> </li> </ul>
 student: false
 professional: false
 staff: true
 event: false
 featured_image: "/uploads/Tending to an Athlete.jpg"
-type: ''
 type: Staff Opportunities
+
 ---
