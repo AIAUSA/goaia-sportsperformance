@@ -10,7 +10,7 @@ description: |-
 
   A **Certified Athletic Trainer** is needed for athletic healthcare needs during the UTC Sprint.
 
-  ##### 2019 Dates: June 6 to 9
+  **2019 Dates:** June 6 to 9
 
   #### Apply Below!
 student: true
