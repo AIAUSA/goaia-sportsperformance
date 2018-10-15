@@ -7,6 +7,6 @@ description: 'Addresses critical issues impacting sport, incorporating the Bibli
 featured_image: "/uploads/SportLife-17-1.jpg"
 published: true
 primary: true
-permalink: /resources/sportlife
+permalink: /sportsperformance/resources/sportlife
 order: 5
 ---

@@ -1,7 +1,7 @@
 ---
 title: The Principles
 date: 2018-08-30 19:29:02 +0000
-permalink: "/resources/principles"
+permalink: "/sportsperformance/resources/principles"
 external_url: ''
 description: 'The <em>Gospel applied to sport, experienced through sport and spoken
   in the language of sport</em>. NOW, all the discussion questions have been tailored

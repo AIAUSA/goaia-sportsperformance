@@ -1,6 +1,6 @@
 ---
 title: Sports Performance News
-permalink: "/news/"
+permalink: "/sportsperformance/news/"
 pagination:
   enabled: true
   collection: posts

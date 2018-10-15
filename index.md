@@ -1,7 +1,7 @@
 ---
 title: AIA Sports Performance
 layout: home-blocks
-permalink: "/"
+permalink: "/sportsperformance/"
 date: ''
 page_sections:
 - template: news-banner

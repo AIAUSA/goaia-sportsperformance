@@ -1,6 +1,6 @@
 ---
 title: The Training Table
-permalink: "/resources/index"
+permalink: "/sportsperformance/resources/index"
 layout: blocks
 page_sections:
 - template: text

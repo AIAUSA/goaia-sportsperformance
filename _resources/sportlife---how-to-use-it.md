@@ -1,7 +1,7 @@
 ---
 title: Sportlife - How To Use It
 date: 2018-10-03 14:46:02 +0000
-permalink: "/resources/sportlife/how-to-use-it"
+permalink: "/sportsperformance/resources/sportlife/how-to-use-it"
 external_url: ''
 description: ''
 featured_image: "/uploads/SportLife.JPG"

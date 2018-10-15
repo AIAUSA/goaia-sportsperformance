@@ -1,6 +1,6 @@
 ---
 title: Give
-permalink: "/give"
+permalink: "/sportsperformance/give"
 layout: blocks
 page_sections:
 - template: custom-heading

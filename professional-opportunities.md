@@ -23,6 +23,6 @@ page_sections:
   color: dark
 - template: social-callout
   block: sports-performance-social
-permalink: "/get-involved/professionals"
+permalink: "/sportsperformance/get-involved/professionals"
 
 ---

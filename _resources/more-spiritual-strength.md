@@ -8,6 +8,6 @@ description: "<strong>Additional topical resources that can be used for leadersh
 featured_image: "/uploads/resource-spiritual-strength-with text-7-1.jpg"
 published: true
 primary: true
-permalink: /resources/more
+permalink: /sportsperformance/resources/more
 order: 6
 ---

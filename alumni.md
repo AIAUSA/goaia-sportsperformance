@@ -1,6 +1,6 @@
 ---
 title: Alumni
-permalink: "/alumni"
+permalink: "/sportsperformance/alumni"
 layout: page
 
 ---

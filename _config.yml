@@ -8,14 +8,14 @@ collections:
   posts:
     title: Posts
     output: true
-    permalink: "/news/:year/:month/:path"
+    permalink: "/sportsperformance/news/:year/:month/:path"
   uploads:
     title: Uploads
     output: true
   resources:
     title: resources
     output: true
-    permalink: "/resources/:permalink"
+    permalink: "/sportsperformance/resources/:permalink"
   teams:
     title: Teams
     output: false

@@ -7,6 +7,6 @@ description: 'Five basic Bible studies to use to follow up with a new believer o
 featured_image: "/uploads/Foundations-3-1.jpg"
 published: true
 primary: true
-permalink: /resources/foundations
+permalink: /sportsperformance/resources/foundations
 order: 1
 ---

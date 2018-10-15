@@ -1,6 +1,6 @@
 ---
 title: Student Opportunities
-permalink: "/get-involved/students"
+permalink: "/sportsperformance/get-involved/students"
 layout: blocks
 page_sections:
 - template: project-details

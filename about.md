@@ -1,6 +1,6 @@
 ---
 title: About Sports Performance
-permalink: "/about/index"
+permalink: "/sportsperformance/about"
 layout: blocks
 page_sections:
 - template: text-w-right-image

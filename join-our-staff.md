@@ -2,7 +2,7 @@
 title: Join Our Staff
 layout: blocks
 date: 2018-10-09 00:00:00 +0000
-permalink: "/get-involved/staff"
+permalink: "/sportsperformance/get-involved/staff"
 page_sections:
 - template: text
   block: text

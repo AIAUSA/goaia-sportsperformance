@@ -7,7 +7,7 @@ description: 'A series of sixteen Bible studies designed to help participants co
   career. '
 featured_image: "/uploads/Hurdles-2-1.jpg"
 primary: true
-permalink: "/resources/hurdles"
+permalink: "/sportsperformance/resources/hurdles"
 order: 4
 
 ---

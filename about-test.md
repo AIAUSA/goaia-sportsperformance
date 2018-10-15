@@ -47,6 +47,6 @@ page_sections:
   block: sports-performance-social
 - template: teamblogs
   block: teamblogs
-permalink: "/about-2"
+permalink: "/sportsperformance/about-2"
 
 ---

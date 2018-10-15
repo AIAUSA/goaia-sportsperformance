@@ -1,6 +1,6 @@
 ---
 title: Get Involved
-permalink: "/get-involved/index"
+permalink: "/sportsperformance/get-involved/index"
 layout: blocks
 page_sections:
 - template: get-involved-general

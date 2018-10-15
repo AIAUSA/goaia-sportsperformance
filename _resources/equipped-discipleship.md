@@ -9,6 +9,6 @@ description: Teaches four fundamentals that can take your impact for Christ to a
 featured_image: "/uploads/Equipped Discipleship-2-1.jpg"
 published: true
 primary: true
-permalink: /resources/equipped
+permalink: /sportsperformance/resources/equipped
 order: 2
 ---
