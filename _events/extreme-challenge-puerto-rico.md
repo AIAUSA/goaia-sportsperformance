@@ -10,7 +10,7 @@ description: |-
 
   A **Certified Athletic Trainer** is needed for the athletes’ healthcare needs (minimum one week commitment).
 
-  2019 Dates:
+  2019 Dates: May 20 to June 6
 
   #### Apply Below!
 student: true
