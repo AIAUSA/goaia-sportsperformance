@@ -6,6 +6,7 @@ external_url: ''
 description: ''
 featured_image: "/uploads/SportLife.JPG"
 primary: false
+published: false
 
 ---
 **Who:** For athletes, coaches, or sports performance professionals looking to apply Biblical perspectives to critical issues in sports. SportLife is a resource that can be helpful to both understand what athletes and coaches are facing, and how to engage conversation/encourage them through it.  
