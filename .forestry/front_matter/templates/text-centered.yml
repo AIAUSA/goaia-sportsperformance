@@ -3,7 +3,7 @@ label: Centered Text
 hide_body: false
 is_partial: true
 fields:
-- type: text-centered
+- type: boolean
   hidden: true
   label: block
   name: block

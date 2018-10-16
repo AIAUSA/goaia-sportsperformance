@@ -3,13 +3,11 @@ title: The Training Table
 permalink: "/sportsperformance/resources/index"
 layout: blocks
 page_sections:
+- template: text-centered
+  block: text-centered
 - template: text
   block: text
-  content: '<p>Do you desire to<strong> ENCOURAGE </strong>others and<strong> ENGAGE
-    </strong>athletes, colleagues and students who are looking for answers in their
-    chaotic life? Or do you simply want to grow in your own faith, learning how to
-    apply Biblical principles to your career? Let AIA Sports Performance<strong> EQUIP
-    </strong>you to do just that!</p><p><strong>STEP ONE: </strong><a href="mailto:sportsperformance@athletesinaction.org"
+  content: '<p><strong>STEP ONE: </strong><a href="mailto:sportsperformance@athletesinaction.org"
     title=""><strong>CONNECT TO US</strong></a> to find out how to use these resources!</p><p><strong>STEP
     TWO: </strong>Determine which resource you need to use with those you are reaching
     out to.</p><p><strong>STEP THREE: </strong>Commit to using these resources to
@@ -20,12 +18,11 @@ page_sections:
     staff today. The life God changes might just be your own!</p>'
 - template: text-centered
   block: text-centered
-  content: '<p><em>"And the things
-    you have heard me say in the presence of many witnesses entrust to reliable people
-    who will also be qualified to teach others."                                                   2
+  content: <p><em>"And the things you have heard me say in the presence of many witnesses
+    entrust to reliable people who will also be qualified to teach others."                                                   2
     Timothy 2:2</em></p><p><em>"...until we all reach unity in the faith and in the
     knowledge of the Son of God and become mature, attaining to the whole measure
-    of the fullness of Christ." Ephesians 4:13</em></p><p></p>'
+    of the fullness of Christ." Ephesians 4:13</em></p><p></p>
 - template: resources-general
   block: resources
 
