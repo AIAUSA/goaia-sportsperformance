@@ -5,6 +5,11 @@ layout: blocks
 page_sections:
 - template: text-centered
   block: text-centered
+  content: "<p>Do you desire to<strong> ENCOURAGE </strong>others and<strong> ENGAGE
+    </strong>athletes, colleagues and students who are looking for answers in their
+    chaotic life? Or do you simply want to grow in your own faith, learning how to
+    apply Biblical principles to your career? Let AIA Sports Performance<strong> EQUIP
+    </strong>you to do just that!</p>"
 - template: text
   block: text
   content: '<p><strong>STEP ONE: </strong><a href="mailto:sportsperformance@athletesinaction.org"
