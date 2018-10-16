@@ -1,0 +1,17 @@
+---
+label: Centered Text
+hide_body: false
+is_partial: true
+fields:
+- type: text-centered
+  hidden: true
+  label: block
+  name: block
+  default: text-centered
+- type: textarea
+  name: content
+  label: Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks

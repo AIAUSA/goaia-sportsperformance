@@ -17,7 +17,10 @@ page_sections:
     designed for professionals and students in sports performance fields. Allow God
     to work in your life to encourage and equip you to live out 2 Timothy 2:2 and
     Ephesians 4:13. Join a small group or receive one on one discipleship from our
-    staff today. The life God changes might just be your own!</p><p><em>"And the things
+    staff today. The life God changes might just be your own!</p>'
+- template: text-centered
+  block: text-centered
+  content: '<p><em>"And the things
     you have heard me say in the presence of many witnesses entrust to reliable people
     who will also be qualified to teach others."                                                   2
     Timothy 2:2</em></p><p><em>"...until we all reach unity in the faith and in the
