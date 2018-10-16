@@ -29,10 +29,6 @@ page_sections:
     ### OUR VALUES
 
     Humility, Service, Expertise
-
-    ### OUR OBJECTIVES
-
-    Train, Engage, Accelerate & Multiply
   image: "/uploads/2016 IC UTC - Brian with an athlete.jpg"
 - template: custom-heading
   block: custom-heading
