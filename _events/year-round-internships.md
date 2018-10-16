@@ -12,25 +12,19 @@ description: |-
 
   Design and implement athletic training protocols for:
 
-  AIA’s Sports Complex & Retreat Center,
+  * AIA’s Sports Complex & Retreat Center,
+  * AIA’s Domestic & International Competitive Sports Teams & AIA’s Educational Sports Performance Mission Teams.
+  * Inspire a spiritual movement within sports medicine professionals.
 
-  AIA’s Domestic & International Competitive Sports Teams,
-
-  & AIA’s Educational Sports Performance Mission Teams.
-
-  Inspire a spiritual movement within sports medicine professionals.
 
   ##### Strength Coaches:
 
   Design and implement strength & conditioning programs for:
 
-  Legacy Christian Academy (K-12 Christian School),
+  * Legacy Christian Academy (K-12 Christian School),
+  * AIA’s Youth & Collegiate Baseball Teams and high school camps, & AIA’s Educational Sports Performance Mission Teams.
+  * Inspire a spiritual movement within strength & conditioning professionals.
 
-  AIA’s Youth & Collegiate Baseball Teams and high school camps,
-
-  & AIA’s Educational Sports Performance Mission Teams.
-
-  Inspire a spiritual movement within strength & conditioning professionals.
 
   ###### **Internship Dates: September 1st - August 10th**
 
