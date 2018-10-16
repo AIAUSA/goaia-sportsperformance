@@ -8,13 +8,17 @@ description: |-
 
   A maximum of four **Certified Athletic Trainers** and four **Athletic Training Students** are needed to assist with each week’s experience.
 
-  As an **Athletic Training Student** you will enjoy small group discussions with the sports medicine team as we explore how these Principles impact our lives and service to athletes.
-
-  As a **Certified Athletic Trainer** you will be given leadership over a team of AT's at UTC. You will be trained in AIA ministry materials, to then be able to lead your team of AT's through Bible Study small group discussions.
+  **Certified Athletic Trainers and Athletic Training Students** will enjoy small group discussions as a sports medicine team as we explore how these Principles impact our lives, careers and service to athletes.
 
   Our goal is to help every athletic trainer in the nation understand how the gospel impacts their sport and life.
 
-  ##### 2019 Dates:
+  **2019 Dates:**
+
+  * Ohio: May 22 to 28
+  * Colorado: May 26 to June 1
+  * Minnesota: June 2 to 8
+  * Boston: June 6 to 9
+  * Southern California: June 16 to 22
 
   #### Apply Below!
 student: true
