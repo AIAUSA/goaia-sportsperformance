@@ -6,7 +6,7 @@ description: 'Addresses critical issues impacting sport, incorporating the Bibli
   perspective on each topic.   '
 featured_image: "/uploads/SportLife-18.jpg"
 primary: true
-permalink: "/sportsperformance/resources/sportlife/index"
+permalink: "/sportsperformance/resources/sportlife/"
 order: 5
 
 ---
