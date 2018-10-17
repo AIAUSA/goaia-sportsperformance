@@ -10,7 +10,7 @@ description: |-
 
   A **Certified Athletic Trainer** is needed for the athletes’ healthcare needs during the first week with the option of serving during the entire project.
 
-  **2019 Dates:**
+  **2019 Dates:** Late May-Early June
 
   #### Apply Below!
 student: true
