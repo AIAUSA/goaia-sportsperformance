@@ -1,5 +1,5 @@
 ---
-title: Armenia Sports Performance Educational Clinic Team
+title: Armenia Sports Performance Clinic Team
 date: 2018-10-17 04:17:25 +0000
 description: "#### Do you want to travel internationally for your profession?!?\n\nJoin
   us in Yerevan, Armenia for an adventure. This team will be teaching at the National
