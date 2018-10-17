@@ -53,7 +53,7 @@ span.megamenu-title:hover {
 }
 /******MEDIA QUERIES******/
 @media (max-width: 480px) {
-  /* .tp-caption.rev-title, .tp-caption.rev-text, .tp-caption.rev-btn {
+  .tp-caption.rev-title, .tp-caption.rev-text, .tp-caption.rev-btn {
  	    text-indent:-9999px;
     	line-height:0px;
       	border: none !important;
@@ -64,7 +64,7 @@ span.megamenu-title:hover {
     	text-indent: 0px;
     	display: block;
     	line-height:  initial;
-  } */
+  }
   .widget-LegendsHero .tp-caption.rev-title::after {
  	content: "Legends"; 
     	font-size: 40px !important;

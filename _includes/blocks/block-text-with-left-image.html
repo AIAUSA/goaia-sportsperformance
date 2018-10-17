@@ -1,5 +1,9 @@
 <div class="max-width">
     <div class="container mt20">
-        <img class="col-md-4 pull-left" src="{{ section.image }}" />{{ section.text | markdownify }}
+        <div class="row">
+            <div class="col-md-12">
+                    <img class="pull-left img-responsive col-md-4" src="{{ section.image }}" /> {{ section.text | markdownify }}
+            </div> 
+        </div>
     </div>
 </div>

@@ -8,13 +8,14 @@
 {% endif %}
 {% assign options = site.resources | sort: 'order' | where: "primary", "true" %}
 {% for r in options %}
-<div class="col-sm-4">
-<div class="service vertical text-center service-box" style="min-height: 400px;">
-<div class="service-content">
+<div class="col-sm-4 resources-custom">
+<div class="service vertical text-center service-box">
+<div class="service-content"  style="min-height: 300px;">
 <!--<h3 class="service-title title-underblock custom text-uppercase text-center">Students</h3>-->
 <img src="{{r.featured_image}}" width="100%">
 <p>{{r.description}}</p>
 <p>&nbsp;</p>
+</div><!-- End .service-content -->
 {% if page.title != "The Training Table" %}
     <a href="/resources/" class="btn btn-custom btn-border no-radius">Learn More</a>
 {% else %}
@@ -24,7 +25,7 @@
         <a href="{{r.permalink}}" class="btn btn-custom btn-border no-radius">Visit</a>
     {% endif %}
 {% endif %}
-</div><!-- End .service-content -->
+
 </div><!-- End .service -->
 </div><!-- End .col-sm-4 -->
 {% endfor %}

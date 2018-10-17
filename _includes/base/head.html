@@ -33,6 +33,24 @@
         .panel-body ul {
             margin-bottom: 10px;
         }
+        @media (max-width: 480px) {
+            .tp-caption.rev-title, .tp-caption.rev-text, .tp-caption.rev-btn {
+                text-indent:0px;
+                line-height:0px;
+                border: none !important;
+            }
+            .tp-caption.rev-title::after {
+                content: ""; 
+                font-size: 40px !important;
+                text-indent: 0px;
+                display: block;
+                line-height:  initial;
+            }
+
+            .tp-bgimg {
+                background-size: contain !important;
+            }
+        }
     </style>
 
 

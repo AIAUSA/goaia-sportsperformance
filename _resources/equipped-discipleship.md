@@ -6,7 +6,7 @@ description: Teaches four fundamentals that can take your impact for Christ to a
   level. <em>Learn</em> how to share God's story and your own story. <em>Learn</em>
   how to live in the power of the Holy Spirit. <em>Live it</em> out through discipling
   others.
-featured_image: "/uploads/Equipped Discipleship-2-1.jpg"
+featured_image: "/uploads/Equipped Discipleship-3-1.jpg"
 published: true
 primary: true
 permalink: /sportsperformance/resources/equipped

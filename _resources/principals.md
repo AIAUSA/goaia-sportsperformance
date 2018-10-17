@@ -6,7 +6,7 @@ external_url: ''
 description: 'The <em>Gospel applied to sport, experienced through sport and spoken
   in the language of sport</em>. NOW, all the discussion questions have been tailored
   for athletic trainers, strength coaches and team physicians.   '
-featured_image: "/uploads/resource-principles-with Text-18-1.png"
+featured_image: "/uploads/resource-principles-with Text-19.png"
 primary: true
 order: 3
 
