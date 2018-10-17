@@ -10,7 +10,7 @@ description: |-
   * Apply your skills while developing as a leader and life-long laborer for Christ.
   * Experience international missions in your field of expertise.
   
-  Design and implement athletic training protocols for:
+  **Design and implement athletic training protocols for:**
   * Future John Wooden Family Fieldhouse.
   * AIA’s Sports Complex & Retreat Center
   * AIA’s Domestic & International Competitive Sports Teams
