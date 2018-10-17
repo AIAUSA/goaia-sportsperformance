@@ -45,6 +45,7 @@ fields:
     - Staff Opportunities
   label: Type of Opportunity
 pages:
+- _events/honduras-sports-performance-educational-clinic-tour.md
 - _events/clinic-tour.md
 - _events/armenia-sports-performance-educational-clinic-team.md
 - _events/south-africa-sports-performance-clinic-tour.md
