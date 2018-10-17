@@ -11,4 +11,4 @@ permalink: "/sportsperformance/resources/more"
 order: 6
 
 ---
-More Resources Coming Soon!
+**More Resources Coming Soon!**
