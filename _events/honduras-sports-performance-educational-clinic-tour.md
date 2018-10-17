@@ -15,6 +15,5 @@ staff: false
 event: false
 featured_image: "/uploads/International-Partnership-768x510.jpg"
 type: Clinic Teams
-published: false
 
 ---
