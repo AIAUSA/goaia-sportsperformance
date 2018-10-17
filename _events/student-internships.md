@@ -20,7 +20,7 @@ description: |-
 
   Click here to see past Interns.
 
-  If you are graduating go here to look at our **Year-Round Internship**.
+  If you are graduating go here to look at our [**Year-Round Internship**](http://sportsperformance.goaia.org/sportsperformance/get-involved/staff).
 student: true
 professional: true
 staff: false
