@@ -14,6 +14,5 @@ staff: false
 event: false
 featured_image: "/uploads/Noah Teaching-6.JPG"
 type: Clinic Teams
-published: false
 
 ---
