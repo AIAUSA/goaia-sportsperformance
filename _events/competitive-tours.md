@@ -12,7 +12,7 @@ student: true
 professional: true
 staff: false
 event: false
-featured_image: "/uploads/Sam Lee Icing a Knee in Taiwan.jpg"
+featured_image: "/uploads/Best Baseball Picture.JPG"
 type: Competitive Tours
 
 ---
