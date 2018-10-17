@@ -1,8 +1,9 @@
 ---
 title: A Call to Prayer… and Coffee!
-date: 2018-06-22 14:23:40 +0000
+date: 2018-06-22 14:20:00 +0000
 permalink: sportsperformance/news/2018/04/a-call-to-prayer-and-coffee
 image: "/uploads/Russ-Richardson-and-students-768x576.jpg"
+tags: []
 
 ---
 **29th Annual Christian Sports Medicine Association NATA Fellowship!**
