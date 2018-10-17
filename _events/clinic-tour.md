@@ -8,8 +8,6 @@ description: |-
 
   These tours are usually **one to two weeks** in length. Professionals and college students are welcomed to apply in order to experience missions in your field of expertise!
 
-  **Check out where we are going HERE!**
-
   #### Apply Below!
 student: true
 professional: true
