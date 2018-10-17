@@ -15,6 +15,5 @@ staff: false
 event: false
 featured_image: "/uploads/spteamclarencedrive.jpg"
 type: Clinic Teams
-published: false
 
 ---
