@@ -17,11 +17,10 @@ page_sections:
     only two-week journey blending instruction, leadership development and cultural
     experience held in conjunction with the AIA International Basketball Coaches Academy
     every November (Both groups are pictured above with textbooks donated by </strong><a
-    href="http://www.humankinetics.com/home"><strong>Human Kinetics</strong></a><strong>.)
-    </strong></h4><h4><strong>THE ACADEMY INCLUDES…</strong></h4><ul><li><p><strong>Instruction
-    and networking opportunities at local universities, sports medicine and strength
-    &amp; conditioning facilities.</strong></p></li><li><p><strong>Interaction with
-    professionals from around the world.</strong></p></li><li><p><strong>Participation
+    href="http://www.humankinetics.com/home"><strong>Human Kinetics</strong></a><strong>.)</strong></h4><h4><strong>THE
+    ACADEMY INCLUDES…</strong></h4><ul><li><p><strong>Instruction and networking opportunities
+    at local universities, sports medicine and strength &amp; conditioning facilities.</strong></p></li><li><p><strong>Interaction
+    with professionals from around the world.</strong></p></li><li><p><strong>Participation
     in cultural events.</strong></p></li><li><p><strong>Daily ‘team times’ focused
     on leadership, and personal and spiritual growth training.</strong></p><p></p></li></ul><h2><strong>Academy
     Endorsements</strong></h2><p><strong>“The impact is very big in our work. It will
@@ -31,11 +30,8 @@ page_sections:
     athletes and people in need.” – Olympic Sports Physio from Guatemala</strong></p><p><strong>“This
     was a lot of knowledge. I’m excited to put it into practice in Singapore. The
     Academy definitely will make an impact. It’s just a matter of time and opportunities
-    back home.” – Strength Coach from Singapore</strong></p><h2><strong>Typical Daily
-    Schedule November 5th -15th , 2018</strong></h2><p><strong>(Arrive on the 4th;
-    depart on the 16th)</strong></p><p>Athletes in Action World Headquarters 651 Taylor
-    Drive, Xenia, OH 45385</p><h3><a href="http://aiasportsperformance.org/wp-content/uploads/2018/08/2018-International-Academy-Flyer.2.pdf"><strong>Academy
-    Brochure</strong></a></h3><h4></h4><h2><strong>Logistics</strong></h2><p><strong>Participants
+    back home.” – Strength Coach from Singapore</strong></p><p><img src="/uploads/Academy
+    Daily Schedule.JPG"></p><h3><strong>Academy Brochure</strong></h3><h4></h4><h2><strong>Logistics</strong></h2><p><strong>Participants
     are responsible for their international flights. All local transportation will
     be handled by Athletes in Action. AIA Staff will receive participants at the airport,
     and all participants will travel by van or bus to selected locations throughout
