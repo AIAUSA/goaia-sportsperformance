@@ -31,7 +31,8 @@ page_sections:
     was a lot of knowledge. I’m excited to put it into practice in Singapore. The
     Academy definitely will make an impact. It’s just a matter of time and opportunities
     back home.” – Strength Coach from Singapore</strong></p><p><img src="/uploads/Academy
-    Daily Schedule.JPG"></p><h3><strong>Academy Brochure</strong></h3><h4></h4><h2><strong>Logistics</strong></h2><p><strong>Participants
+    Daily Schedule.JPG"></p><h3><a href="/uploads/2018-International-Academy-Flyer.2.pdf"
+    title=""><strong>Academy Brochure</strong></a></h3><h4></h4><h2><strong>Logistics</strong></h2><p><strong>Participants
     are responsible for their international flights. All local transportation will
     be handled by Athletes in Action. AIA Staff will receive participants at the airport,
     and all participants will travel by van or bus to selected locations throughout
