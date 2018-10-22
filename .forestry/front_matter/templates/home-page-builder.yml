@@ -20,6 +20,7 @@ fields:
   - video-callout
   - resources-general
   - text-centered
+  - opportunities
 - type: text
   name: layout
   label: Layout

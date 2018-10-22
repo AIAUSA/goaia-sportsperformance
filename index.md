@@ -17,6 +17,8 @@ page_sections:
     in order to grow strong. So do you need a spiritual Training Table to learn and
     eat from in order to grow spiritually strong.
   image: "/uploads/Untitled design (1).png"
+- template: opportunities
+  block: opportunities
 - template: social-callout
   block: sports-performance-social
 

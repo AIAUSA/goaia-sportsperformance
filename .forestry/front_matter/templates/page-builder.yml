@@ -32,6 +32,7 @@ fields:
   - teamblogs
   - text
   - text-centered
+  - opportunities
 pages:
 - international-coaches-academy.md
 - get-involved.md
