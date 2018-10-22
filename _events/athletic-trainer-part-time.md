@@ -16,7 +16,6 @@ description: |-
   * Training in AIA ministry materials
   * Monthly conference calls for equipping and planning
   * Assisting with recruiting, supply ordering
-  * Raise own financial support for salary, travel costs, ministry training, etc.
 
   **Impact the lives of high school, college, or even professional athletes**
 
