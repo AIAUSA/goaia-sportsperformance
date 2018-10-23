@@ -1,6 +1,7 @@
 ---
 title: Announcing 2019 Mission Opportunities
 date: 2018-10-23 00:00:00 +0000
+permalink: sportsperformance/news/Announcing-2019-Mission-Opportunities
 image: "/uploads/Maps-world-map-1000.jpg"
 tags: []
 
