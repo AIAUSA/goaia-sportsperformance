@@ -25,6 +25,8 @@ page_sections:
 - template: application-call-to-action
   block: application-callout
   color: dark
+- template: opportunities-call-out
+  block: opportunities
 - template: social-callout
   block: sports-performance-social
 date: ''
