@@ -5,6 +5,8 @@ layout: blocks
 page_sections:
 - template: get-involved-general
   block: projects
+- template: opportunities-call-out
+  block: opportunities
 - template: image-callout
   block: image-callout
   text: The Internation Sports Performance Academy
@@ -16,8 +18,6 @@ page_sections:
     Coaches Academy every November (Both groups are pictured above with textbooks
     donated by Human Kinetics.)
   image: http://old.aiasportsperformance.org/wp-content/uploads/2015/12/AIA-Intl-Coaches-Academy-Human-Kinetics-Gift-Books-11-15-1024x460.jpg
-- template: opportunities-call-out
-  block: opportunities
 - template: application-call-to-action
   block: application-callout
   color: dark
