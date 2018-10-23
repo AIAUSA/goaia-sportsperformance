@@ -21,6 +21,7 @@ fields:
   name: page_sections
   label: Page Sections
   template_types:
+  - opportunities-call-out
   - custom-heading
   - project-details
   - text-w-left-image
@@ -32,7 +33,6 @@ fields:
   - teamblogs
   - text
   - text-centered
-  - opportunities
 pages:
 - international-coaches-academy.md
 - get-involved.md
