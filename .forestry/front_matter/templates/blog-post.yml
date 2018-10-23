@@ -19,6 +19,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/announcing-2019-mission-opportunities.md
 - _posts/2018-04-14-six-time-emmy-award-winner-to-speak-to-physicians-chapel.md
 - _posts/2018-06-22-a-call-to-prayer-and-coffee.md
 - _posts/2018-09-07-encouraging-words-pouring-into-interns-who-poured-back-into-us.md
