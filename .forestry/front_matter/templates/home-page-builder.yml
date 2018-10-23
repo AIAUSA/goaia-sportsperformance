@@ -10,6 +10,7 @@ fields:
   label: Page Sections
   name: page_sections
   template_types:
+  - opportunities-call-out
   - text
   - custom-heading
   - news-banner
@@ -20,7 +21,6 @@ fields:
   - video-callout
   - resources-general
   - text-centered
-  - opportunities
 - type: text
   name: layout
   label: Layout
