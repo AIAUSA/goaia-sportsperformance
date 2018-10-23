@@ -34,10 +34,10 @@ fields:
   - text
   - text-centered
 pages:
+- professional-opportunities.md
 - get-involved.md
 - international-coaches-academy.md
 - join-our-staff.md
-- professional-opportunities.md
 - about.md
 - give.md
 - get-involved-students.md
