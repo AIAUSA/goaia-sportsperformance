@@ -16,7 +16,6 @@ description: |-
   * AIA’s Domestic & International Competitive Sports Teams & AIA’s Educational Sports Performance Mission Teams.
   * Inspire a spiritual movement within sports medicine professionals.
 
-
   ##### Strength Coaches:
 
   Design and implement strength & conditioning programs for:
@@ -25,6 +24,7 @@ description: |-
   * AIA’s Youth & Collegiate Baseball Teams and high school camps, & AIA’s Educational Sports Performance Mission Teams.
   * Inspire a spiritual movement within strength & conditioning professionals.
 
+  **Impact the lives of high school, college, or even professional athletes and colleagues.** [**Connect with us**](mailto:sportsperformance@athletesinaction.org) **to learn more about this position and the application process.**
 
   ###### **Internship Dates: September 1st - August 10th**
 
