@@ -10,13 +10,14 @@ description: |-
   * Apply your skills while developing as a leader and life-long laborer for Christ.
   * Experience international missions in your field of expertise.
 
-
   **Design and implement strength & conditioning programs for:**
 
   * Future John Wooden Family Fieldhouse.
   * Legacy Christian Academy (K-12 Christian School).
   * AIA’s Youth & Collegiate Baseball Teams and High School Camps.
   * AIA’s Educational Sports Performance Mission Teams.
+
+  **Impact the lives of high school, college, or even professional athletes and colleagues.** [**Connect with us**](mailto:sportsperformance@athletesinaction.org) **to learn more about this position and the application process.**
 
   #### If you interested in using your skills and knowledge to help change the world by sharing the love of Jesus Christ through Strength & Conditioning...
 
