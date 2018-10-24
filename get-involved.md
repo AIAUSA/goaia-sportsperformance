@@ -5,6 +5,8 @@ layout: blocks
 page_sections:
 - template: get-involved-general
   block: projects
+- template: opportunities-call-out
+  block: opportunities
 - template: image-callout
   block: image-callout
   text: The Internation Sports Performance Academy
@@ -19,8 +21,6 @@ page_sections:
 - template: application-call-to-action
   block: application-callout
   color: dark
-- template: opportunities-call-out
-  block: opportunities
 - template: social-callout
   block: sports-performance-social
 date: ''
