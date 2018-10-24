@@ -9,16 +9,19 @@ description: |-
   * Inspire a spiritual movement within sports medicine professionals.
   * Apply your skills while developing as a leader and life-long laborer for Christ.
   * Experience international missions in your field of expertise.
-  
+
   **Design and implement athletic training protocols for:**
+
   * Future John Wooden Family Fieldhouse.
   * AIA’s Sports Complex & Retreat Center
   * AIA’s Domestic & International Competitive Sports Teams
   * AIA’s Educational Sports Performance Mission Teams.
 
+  **Impact the lives of high school, college, or even professional athletes and colleagues.** [**Connect with us**](mailto:sportsperformance@athletesinaction.org) **to learn more about this position and the application process.**
+
   #### If you interested in using your skills and knowledge to help change the world by sharing the love of Jesus Christ through Athletic Training...
 
-  #### Then, Athletes in Action Sports Performance may be just the place for you! 
+  #### Then, Athletes in Action Sports Performance may be just the place for you!
 student: false
 professional: false
 staff: true
