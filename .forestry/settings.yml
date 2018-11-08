@@ -27,6 +27,13 @@ sections:
   templates:
   - opportunity
 - type: directory
+  path: _devos
+  label: Devotionals
+  create: all
+  match: "**/*"
+  templates:
+  - blog-post
+- type: directory
   path: _resources
   label: Resources
   create: all

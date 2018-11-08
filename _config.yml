@@ -22,6 +22,10 @@ collections:
   events:
     title: Events
     output: false
+  devos:
+    title: Devos
+    output: true
+    permalink: "/sportsperformance/devotionals/:permalink"
 defaults:
 - scope:
     path: ''
@@ -32,6 +36,12 @@ defaults:
 - scope:
     path: ''
     type: posts
+  values:
+    byLine: ''
+    layout: blog-page
+- scope:
+    path: ''
+    type: devos
   values:
     byLine: ''
     layout: blog-page
