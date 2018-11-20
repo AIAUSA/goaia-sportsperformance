@@ -8,7 +8,7 @@ tags: []
 ---
 ![](/uploads/2018 International Sports Performance Academy.JPG)
 
-**“I came here for sport, encountered Jesus and a new way of life!”** Those were the words of Henri, a basketball coach from Cameroon who attended our fourth International Sports Performance     Academy. The Academy is held in conjunction with the larger International Basketball Academy. It lasts twelve days in early November but the results will last for eternity.
+###### **“I came here for sport, encountered Jesus and a new way of life!”** Those were the words of Henri, a basketball coach from Cameroon who attended our fourth International Sports Performance     Academy. The Academy is held in conjunction with the larger International Basketball Academy. It lasts twelve days in early November but the results will last for eternity.
 
 Paul N. picked up Henri up early on a Sunday morning after his all night bus ride from Milwaukee.   After breakfast with Paul's wife, Donna, and settling into our dorms, Paul gave him the option of resting or coming with us to church. “If I rest now I won’t sleep later, said Henri, and I want to discover your church.” Henri speaks only a little English, so Paul found an online French Bible on his phone for him to read the Scriptures our Pastor taught. Henri told us something awoke in him during our church service. He later told our Pastor that there was a spirit in the people and he worship he had never felt before.
 
