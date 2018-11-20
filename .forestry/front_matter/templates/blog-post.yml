@@ -19,6 +19,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/encountering-jesus.md
 - _posts/2018-11-20-orthopaedics-devotion.md
 - _posts/2018-10-23-announcing-2019-mission-opportunities.md
 - _posts/2018-10-21-rehabilitation-devotion.md
