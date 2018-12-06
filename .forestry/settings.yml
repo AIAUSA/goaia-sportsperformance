@@ -34,6 +34,13 @@ sections:
   templates:
   - blog-post
 - type: directory
+  path: _quotes
+  label: Quotes
+  create: all
+  match: "**/*.md"
+  templates:
+  - quote
+- type: directory
   path: _resources
   label: Resources
   create: all

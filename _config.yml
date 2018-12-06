@@ -26,6 +26,9 @@ collections:
     title: Devos
     output: true
     permalink: "/sportsperformance/devotionals/:permalink"
+  quotes:
+    title: Quotes
+    output: false
 defaults:
 - scope:
     path: ''

@@ -1,0 +1,18 @@
+---
+label: Quote
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: quote
+  label: Quote
+- type: text
+  name: person
+  label: Name
+- type: text
+  name: opportunity
+  label: Opportunity
+- type: file
+  name: image
+  label: Image
+pages:
