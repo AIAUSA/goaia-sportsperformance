@@ -7,7 +7,7 @@ quote: "“This trip allowed me to test myself both spiritually and professional
   much fun!”"
 person: Cole Hergott, CSCS
 opportunity: Honduras SP Clinic Team
-image: ''
+image: "/uploads/Honduras SP 2017 Demonstrating Agility Training-XL.jpg"
 published: false
 
 ---
