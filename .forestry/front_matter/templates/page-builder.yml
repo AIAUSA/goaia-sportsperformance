@@ -34,12 +34,12 @@ fields:
   - text
   - text-centered
 pages:
-- get-involved.md
 - professional-opportunities.md
-- international-coaches-academy.md
-- join-our-staff.md
+- get-involved.md
 - about.md
+- test.md
+- about-test.md
 - give.md
 - get-involved-students.md
-- about-test.md
-- test.md
+- international-coaches-academy.md
+- join-our-staff.md
