@@ -7,6 +7,5 @@ quote: "“Thank you for the chance to travel with AIA. Each trip was filled wit
 person: Dennis Hunt, CSCS
 opportunity: ''
 image: ''
-published: false
 
 ---
