@@ -7,6 +7,5 @@ quote: "“As a student, it was an incredible experience to live in community wi
 person: Mary Green, AT
 opportunity: ''
 image: ''
-published: false
 
 ---
