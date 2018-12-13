@@ -16,4 +16,5 @@ fields:
   name: image
   label: Image
 pages:
+- _quotes/ashley.md
 - _quotes/cole.md
