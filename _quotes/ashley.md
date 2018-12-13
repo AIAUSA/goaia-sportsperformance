@@ -11,6 +11,5 @@ quote: “God completely rocked my world through this whole experience....God wa
 person: Ashley Lea
 opportunity: Thailand
 image: ''
-published: false
 
 ---
