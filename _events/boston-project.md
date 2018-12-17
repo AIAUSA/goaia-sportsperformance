@@ -13,8 +13,8 @@ description: |-
   **2019 Dates:** June 6 to 9
 
   #### Apply Below!
-student: true
-professional: true
+student: false
+professional: false
 staff: false
 event: false
 featured_image: "/uploads/BostonProjectLogo.jpg"
