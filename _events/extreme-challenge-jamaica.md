@@ -19,6 +19,5 @@ event: false
 featured_image: ''
 type: Camps & Projects
 date: 2018-12-24 20:33:20 +0000
-published: false
 
 ---
