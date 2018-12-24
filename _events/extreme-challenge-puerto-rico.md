@@ -6,9 +6,9 @@ description: |-
 
   You’ll spend the first week of the trip learning AIA’s principles for athletic competition, focused on combining your sport and faith. During week two, you’ll explore the beauty of the island while serving on university campuses and throughout the community.
 
-  An **Athletic Training Student** is needed to assist with this camp.
+  Two **Athletic Training Students** are needed to assist with this camp.
 
-  A **Certified Athletic Trainer** is needed for the athletes’ healthcare needs (minimum one week commitment).
+  Two **Certified Athletic Trainers** are needed for the athletes’ healthcare needs (minimum one week commitment).
 
   **2019 Dates:** May 20 to June 6
 
