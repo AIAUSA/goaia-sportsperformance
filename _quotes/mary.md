@@ -5,7 +5,7 @@ quote: "“As a student, it was an incredible experience to live in community wi
   believers, to learn and grow clinically [from certified athletic trainers]. It prepared
   me to see how ministry is wherever you are.”"
 person: Mary O'Berry (Green), AT
-opportunity: ''
+opportunity: X Project
 image: ''
 
 ---
