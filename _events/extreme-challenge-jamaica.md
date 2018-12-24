@@ -8,6 +8,10 @@ description: |-
   An **Athletic Training Student** is needed to assist with this camp.
 
   A **Certified Athletic Trainer** is needed for the athletes’ healthcare needs (minimum one week commitment).
+
+  **2019 Dates:** May 16 to 30
+
+  #### Apply Below!
 student: true
 professional: true
 staff: false
