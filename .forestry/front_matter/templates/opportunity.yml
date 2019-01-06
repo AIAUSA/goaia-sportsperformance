@@ -45,7 +45,6 @@ fields:
     - Staff Opportunities
   label: Type of Opportunity
 pages:
-- _events/extreme-challenge-puerto-rico.md
 - _events/ultimate-training-camp.md
 - _events/year-round-internships.md
 - _events/academic-internship.md
@@ -61,3 +60,5 @@ pages:
 - _events/armenia-sports-performance-educational-clinic-team.md
 - _events/clinic-tour.md
 - _events/student-internships.md
+- _events/extreme-challenge-jamaica.md
+- _events/extreme-challenge-puerto-rico.md
