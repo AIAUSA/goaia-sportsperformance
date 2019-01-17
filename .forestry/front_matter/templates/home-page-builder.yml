@@ -21,6 +21,7 @@ fields:
   - video-callout
   - resources-general
   - text-centered
+  - quote-rotator
 - type: text
   name: layout
   label: Layout

@@ -1,16 +1,29 @@
 <!DOCTYPE html>
 
 <html>
-    <head>
 
-        {% include base/head.html %}
+<head>
 
-    </head>
-    <body>
-        {% include base/sports-performance-menu.html %}
+    {% include base/head.html %}
 
-        {{ content }}
-        {% include base/footer.html %}        
-        <script src="/js/main.js" type="text/javascript"></script>
-    </body>
+</head>
+
+<body>
+    {% include base/sports-performance-menu.html %}
+
+    {{ content }}
+    {% include base/footer.html %}
+    <script src="/js/main.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        if ($("#testimonial-slider").length) {
+            $("#testimonial-slider").owlCarousel({
+                paginationSpeed: 1000,
+                items: 1,
+                autoplay: true,
+                autoplayTimeout: 5000,
+            });
+        }
+    </script>
+</body>
+
 </html>

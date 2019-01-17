@@ -33,6 +33,7 @@ fields:
   - teamblogs
   - text
   - text-centered
+  - quote-rotator
 pages:
 - professional-opportunities.md
 - get-involved.md

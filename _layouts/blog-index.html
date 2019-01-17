@@ -21,53 +21,67 @@ layout: default
         <div class="container mt20">
             <div class="row mb20">
                 <div class="col-md-8">
-                        {{ content }}
-                        {% if paginator.posts.size > 0 %}
-                            {% for p in paginator.posts %}
-                                {% if p.published != false %}
-                                    {% include plugins/blog-post.html date=p.date title=p.title url=p.url content=p.content %}
-                                {% endif %}
-                            {% endfor %}
+                    {{ content }}
+                    {% if paginator.posts.size > 0 %}
+                    {% for p in paginator.posts %}
+                    {% if p.published != false %}
+                    {% include plugins/blog-post.html date=p.date title=p.title url=p.url content=p.content %}
+                    {% endif %}
+                    {% endfor %}
 
-                            {% if paginator.total_pages > 1 %}
-                            <ul>
-                            {% if paginator.previous_page %}
-                            <li>
-                                <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="btn btn-custom2 radius-lger pull-right">Newer</a>
-                            </li>
-                            {% endif %}
-                            {% if paginator.next_page %}
-                            <li>
-                                <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="btn btn-custom2 radius-lger">Older</a>
-                            </li>
-                            {% endif %}
-                            </ul>
-                            {% endif %}
-                        {% else %}
-                            <h4>No Teams have started blogging yet, please come back soon!</h4>    
+                    {% if paginator.total_pages > 1 %}
+                    <ul>
+                        {% if paginator.previous_page %}
+                        <li>
+                            <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="btn btn-custom2 radius-lger pull-right">Newer</a>
+                        </li>
                         {% endif %}
+                        {% if paginator.next_page %}
+                        <li>
+                            <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="btn btn-custom2 radius-lger">Older</a>
+                        </li>
+                        {% endif %}
+                    </ul>
+                    {% endif %}
+                    {% else %}
+                    <h4>No Teams have started blogging yet, please come back soon!</h4>
+                    {% endif %}
                 </div>
                 <div class="col-md-4 sidebar">
                     <div class="widget">
                         <h3>Recent Posts</h3>
                         <ul class="links">
-                        {% for post in site.posts limit: 5 %}
+                            {% for post in site.posts limit: 5 %}
                             {% if post.url contains "index" %}
                             {% else %}
-                                <li><a href="{{post.url}}">{{ post.title }}</a></li>
+                            <li><a href="{{post.url}}">{{ post.title }}</a></li>
                             {% endif %}
-                        {% endfor %}
+                            {% endfor %}
                         </ul>
                     </div>
+                    {% if site.devos.size > 0 %}
                     <div class="widget">
-                        <a href="https://goaia.org/opportunity/blog/sports-performance/blog/"><img class="img-responsive" src="/uploads/teamblog.png"></a>
+                        <h3>Recent Devotionals</h3>
+                        <ul class="links">
+                            {% for post in site.devos limit: 5 %}
+                            {% if post.url contains "index" %}
+                            {% else %}
+                            <li><a href="{{post.url}}">{{ post.title }}</a></li>
+                            {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    {% endif %}
+                    <div class="widget">
+                        <a href="https://goaia.org/opportunity/blog/sports-performance/blog/"><img class="img-responsive"
+                                src="/uploads/teamblog.png"></a>
                         <p>Read about our team's adventurers!</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div> 
+</div>
 <script type="text/javascript">
     $('.entry img').css("width", "100%");
 </script>

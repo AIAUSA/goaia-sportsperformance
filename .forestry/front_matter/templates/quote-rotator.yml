@@ -1,0 +1,10 @@
+---
+label: Quote Rotator
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  hidden: true
+  default: quotes

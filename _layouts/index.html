@@ -1,39 +1,51 @@
 <!DOCTYPE html>
 
 <html>
-    <head>
 
-        {% include base/head.html %}
+<head>
 
-    </head>
-    <body>
-        <div id="wrapper">
-            {% include base/sports-performance-menu.html %}
+    {% include base/head.html %}
 
-            {{ content }}
+</head>
 
-            {% include base/footer.html %}
-            <script src="/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
-            <script src="/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
-            <script type="text/javascript">
-                (function () {
-                    "use strict";
-                    // Slider Revolution
-                    $('#revslider').revolution({
-                        delay:8000,
-                        startwidth:1170,
-                        startheight:500,
-                        fullWidth:"on",
-                        fullScreen:"on",
-                
-                        soloArrowLeftHOffset:20,
-                        soloArrowRightHOffset:20,
-                        dottedOverlay:"threexthree",
-                      fullScreenOffsetContainer: "#header, #gheader"
-                    });
-                }());
-            </script>
-            
-        </div>
-    </body>
+<body>
+    <div id="wrapper">
+        {% include base/sports-performance-menu.html %}
+
+        {{ content }}
+
+        {% include base/footer.html %}
+        <script src="/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+        <script src="/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            (function () {
+                "use strict";
+                // Slider Revolution
+                $('#revslider').revolution({
+                    delay: 8000,
+                    startwidth: 1170,
+                    startheight: 500,
+                    fullWidth: "on",
+                    fullScreen: "on",
+
+                    soloArrowLeftHOffset: 20,
+                    soloArrowRightHOffset: 20,
+                    dottedOverlay: "threexthree",
+                    fullScreenOffsetContainer: "#header, #gheader"
+                });
+            }());
+
+            if ($("#testimonial-slider").length) {
+                $("#testimonial-slider").owlCarousel({
+                    paginationSpeed: 1000,
+                    items: 1,
+                    autoplay: true,
+                    autoplayTimeout: 5000,
+                });
+            }
+        </script>
+
+    </div>
+</body>
+
 </html>
