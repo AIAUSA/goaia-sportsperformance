@@ -1,5 +1,6 @@
 ---
 title: Deadlines Approaching - Apply Now!
+permalink: sportsperformance/news/Deadlines-Approching-Apply-Now
 image: "/uploads/2017 Interns-1.jpg"
 date: ''
 tags: []
