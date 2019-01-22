@@ -14,7 +14,7 @@ Similarly, in anatomy the foot's medial longitudinal arch contains a capstone, t
 
 So, here's a practical question to apply this concept: what's supporting the arch of your life? Who or what is its capstone? Or, do you have spiritual flatfoot? Zerubbabel helped lead the Jews back from exile in Babylon, and he had directions from God to rebuild the temple, including placing its capstone. The arch of his life—his abilities, authority, and power—came from the Lord and nowhere else. Like a foot, you may try to maintain the structural arch of your life with musculature (strength) and ligaments (might). But, neither one of those can fully provide the necessary support without the specially shaped capstone sitting in its correct position. It's not by strength. It's not by might. No, the capstone is God's Spirit.
 
-\- Jeff Russell
+                                                                                       - Jeff Russell
 
 E-KardíaGram: Sports Performance Edition is produced by The Kardía Foundation in association with Athletes in Action Sports Performance © 2018 The Kardía Foundation
 
