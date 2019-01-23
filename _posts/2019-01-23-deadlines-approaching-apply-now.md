@@ -17,3 +17,5 @@ _“I realized something: this summer, athletic training finally started to make
 **A** [**Year-Round internship**](http://sportsperformance.goaia.org/sportsperformance/get-involved/staff) **with AIA Sports Performance** is developing young professionals into lifelong laborers and leaders for Christ. Opportunities are available for strength and conditioning coaches and athletic trainers to assist with AIA's efforts in these fields while growing and learning about ministry and their profession. Come make a difference in the lives of a variety of athletes of all ages. **There is a March 1st application deadline** so go to the link above to complete yours!
 
 _"The structure of the program helped to foster my personal and spiritual growth. I am grateful for the mentors who helped me to learn more about my strengths and more about who God says I am."_ **– Karisa, 2016-2017 Year-Round Intern**
+
+[**Learn More and Apply Here**](https://goaia.org/sportsperformance/get-involved/)
