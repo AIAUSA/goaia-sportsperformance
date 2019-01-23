@@ -6,7 +6,7 @@ image: "/uploads/AIA SP E-KardiaGram.png"
 tags: []
 
 ---
-_Now this is the answer of the holy One of Israel: “You rejected my message, and you trust in violence and lies. This sin is like a crack that makes a high wall quickly crumble and shatter like a crushed bowl. There's not a piece left big enough to carry hot coals or to dip out water.” The holy Lord God of Israel had told all of you, “I will keep you safe if you turn back to me and calm down. I will make you strong if you quietly trust me.” (Isaiah 30:12–15 CEV)_
+_![](/uploads/AIA SP E-KardiaGram.png)Now this is the answer of the holy One of Israel: “You rejected my message, and you trust in violence and lies. This sin is like a crack that makes a high wall quickly crumble and shatter like a crushed bowl. There's not a piece left big enough to carry hot coals or to dip out water.” The holy Lord God of Israel had told all of you, “I will keep you safe if you turn back to me and calm down. I will make you strong if you quietly trust me.” (Isaiah 30:12–15 CEV)_
 
 Bone contains amazing features of structural engineering, making it extremely strong, resilient, and able to absorb and redistribute high energy forces. Recall the anatomy of the tibia as the main weightbearing bone of the leg, for example, where the weight of the body through the femur in the thigh rests on the plateau of the tibia that extends posteriorly, behind the vertical line marking the center of the tibial shaft. This means that as forces transmitted downward through the lower extremity travel along the tibia, an imperceptible bend loads the posterior part of the tibial shaft in compression and the anterior portion in tension.
 
