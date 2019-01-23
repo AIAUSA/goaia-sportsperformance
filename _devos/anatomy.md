@@ -1,7 +1,8 @@
 ---
 title: Anatomy
+permalink: sportsperformances/devos/anatomy
 image: "/uploads/AIA SP E-KardiaGram.png"
-date: ''
+date: 2019-01-23 05:00:00 +0000
 tags: []
 published: false
 
