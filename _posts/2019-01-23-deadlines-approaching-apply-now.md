@@ -18,4 +18,4 @@ _“I realized something: this summer, athletic training finally started to make
 
 _"The structure of the program helped to foster my personal and spiritual growth. I am grateful for the mentors who helped me to learn more about my strengths and more about who God says I am."_ **– Karisa, 2016-2017 Year-Round Intern**
 
-[**Learn More and Apply Here**](https://goaia.org/sportsperformance/get-involved/)
+#### [Learn More and Apply Here](https://goaia.org/sportsperformance/get-involved/)
