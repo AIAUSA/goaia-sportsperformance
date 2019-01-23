@@ -13,3 +13,15 @@ Bone contains amazing features of structural engineering, making it extremely st
 This is a perfectly functioning, God-desgined skeletal framework until that downward force is repetitively applied and the body can no longer re-distribute it. Examples include a runner running on hard surfaces, a dancer dancing on concrete floors, and a basketball player jumping repeatedly through hours of practices and games. Loaded again and again, the bone’s mineralized structure fatigues. If the activity causing the loading is not stopped, small cracks, or stress fractures, can occur. On x-rays of a tibia these are called “dreaded black lines,” and their presence means that the bone is weakened. Further loading when the injuring activity is not stopped may cause the bone to shatter all the way through its shaft, a far worse injury that is not easy to treat. Note that what causes the bigger fracture is a neglected series of small attacks, or microtrauma.
 
 That progression of a tibial stress fracture is the exact situation Isaiah is describing about Israel in the passage above. Portrayed as a wall, God’s people had repeatedly let the forces of evil load their structure until a crack appeared. From there, without a significant adjustment in their activity, the wall came crashing down. Hopefully this metaphor doesn’t also apply to you and me, but we must consciously evaluate ourselves just as we might utilize nuclear or magnetic resonance imaging in orthopaedics to assess a bone’s structure. God can serve as the bone scan or MRI in our lives as we ask Him to look inside to reveal our pathology. Trust me, you don’t want a tibial shaft fracture. Neither do you want a life shaft fracture caused by inattention to repetitive microtrauma that weakens your structure. God’s treatment is to turn back to Him and quietly trust Him.
+
+                                                                                       - Jeff Russell
+
+E-KardíaGram: Sports Performance Edition is produced by The Kardía Foundation in association with Athletes in Action Sports Performance © 2018 The Kardía Foundation
+
+We connect the Christian faith and healthcare, equipping Christian healthcare workers to integrate their faith and practice. [www.kardia.org]()
+
+Contact: [sportsperformance@athletesinaction.org]() This electronic publication may be forwarded in its original format with proper credit given. Written by Jeffrey A. Russell, PhD, ATC
+
+Subscribe to weekly devotionals: [bit.ly/KardiaEKG]()
+
+![](/uploads/kardia.png)
