@@ -9,12 +9,16 @@ fields:
 - type: text
   name: permalink
   label: URL
+  config:
+    required: true
 - type: file
   name: image
   label: Featured Image
 - type: datetime
   label: Date
   name: date
+  config:
+    required: true
 - type: tag_list
   name: tags
   label: tags
