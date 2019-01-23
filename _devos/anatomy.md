@@ -4,7 +4,6 @@ permalink: sportsperformances/devos/anatomy
 image: "/uploads/AIA SP E-KardiaGram.png"
 date: 2019-01-23 05:00:00 +0000
 tags: []
-published: false
 
 ---
 _So he answered me, “This is the word of the Lord to Zerubbabel: ‘Not by strength or by might, but by My Spirit,’  says the Lord of Hosts. ‘What are you, great mountain?  Before Zerubbabel you will become a plain.  And he will bring out the capstone accompanied by shouts of: Grace, grace to it!’ ” Then the word of the Lord came to me: “Zerubbabel’s hands have laid the foundation of this house,  and his hands will complete it. Then you will know that the Lord of Hosts has sent me to you.” (Zechariah 4:6–9 HCSB)_
