@@ -4,7 +4,6 @@ date: 2018-12-17 17:42:35 +0000
 permalink: sportsperformances/devos/orthopaedics
 image: "/uploads/AIA SP E-KardiaGram.png"
 tags: []
-published: false
 
 ---
 _Now this is the answer of the holy One of Israel: “You rejected my message, and you trust in violence and lies. This sin is like a crack that makes a high wall quickly crumble and shatter like a crushed bowl. There's not a piece left big enough to carry hot coals or to dip out water.” The holy Lord God of Israel had told all of you, “I will keep you safe if you turn back to me and calm down. I will make you strong if you quietly trust me.” (Isaiah 30:12–15 CEV)_
