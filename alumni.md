@@ -2,9 +2,11 @@
 title: Alumni
 permalink: "/sportsperformance/alumni"
 layout: page
+page_sections:
+- template: quote-rotator
+  block: quotes
 
 ---
-
 _![](/uploads/Corey-Oshikoya-Knee-Exam-214x300.jpg)_
 
 _"It's a great opportunity, not only to explore sports and the athletic side that we love, but also the opportunity to minister Christ to someone else. It is important that we, as sports medicine professionals, are able to be a light in a dark world to the athletes that we work with." **–**_ **Corey Oshikoya, MS, ATC, CSCS; Loyola University Chicago**
