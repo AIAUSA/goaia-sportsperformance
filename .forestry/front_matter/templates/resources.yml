@@ -31,7 +31,6 @@ fields:
   label: Primary
   description: Will be used to determine which go on the home page.
 pages:
-- _resources/principals.md
 - _resources/principles---how-to-to-teach-them.md
 - _resources/sportlife---how-to-use-it.md
 - _resources/hurdles.md
@@ -39,3 +38,4 @@ pages:
 - _resources/more-spiritual-strength.md
 - _resources/equipped-discipleship.md
 - _resources/sportlife.md
+- _resources/principals.md

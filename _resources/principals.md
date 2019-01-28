@@ -15,7 +15,7 @@ order: 3
 
 _The Principles_ are the _Gospel applied to sport, experienced through sport and spoken in the language of sport_. NOW, all the discussion questions have been tailored for athletic trainers, strength coaches and team physicians.  These resources are meant to help you learn _The Principles_ or be able to teach athletes, students, athletic trainers, strength coaches, physicians, or anyone else from the viewpoint of sports medicine and strength & conditioning.
 
-_Click the links below each picture to link to the Sports Performance version Teacher’s Notes, Student’s Notes or a video of the Principle._  
+_Click the links below each picture to link to the Sports Performance version Teacher’s Notes, Student’s Notes or a video of the Principle._
 
 [_Contact us_](mailto:sportsperformance@athletesinaction.org) _if you want access to the teaching or student notes for the Athletes version._
 
@@ -24,7 +24,7 @@ _Click the links below each picture to link to the Sports Performance version Te
 …1: Audience of One
 ……–  [Teacher’s notes](https://app.forestry.io/sites/l23gvhvzqg-abq/body-media//uploads/SP-Principle-1-Teacher-Notes.pdf)
 ……–  [Student’s notes](https://app.forestry.io/sites/l23gvhvzqg-abq/body-media//uploads/SP-Student-Notes-Principle-1.pdf)
-……–  [Chapel Version Video]()
+……–  [Chapel Version Video](https://vimeo.com/60456464)
 
 ![](/uploads/Principle-2.png)
 
