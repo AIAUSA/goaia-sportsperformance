@@ -18,6 +18,5 @@ event: false
 featured_image: "/uploads/JAM Camp-Tug of War.jpg"
 type: Camps & Projects
 date: 2019-02-01 23:27:58 +0000
-published: false
 
 ---
