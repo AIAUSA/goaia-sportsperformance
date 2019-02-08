@@ -1,9 +1,9 @@
 ---
 title: Extreme Challenge Jamaica
 description: |-
-  #### Be a part of a two-week life-changing adventure targeted at launching movements of evangelism and discipleship on the universities in Puerto Rico and the United States
+  #### Be a part of a two-week life-changing adventure targeted at launching movements of evangelism and discipleship on the universities in Jamaica!
 
-  You’ll spend the first week of the trip learning AIA’s principles for athletic competition, focused on combining your sport and faith. During week two, you’ll explore the beauty of the island while serving on university campuses and throughout the community.
+  ​Extreme Challenge Jamaica is a two-week life-changing adventure targeted at launching Athletes in Action movements throughout Jamaica and the Caribbean. Join with 60+ American, Jamaican, and Caribbean athletes and learn how to take your relationship with God and your performance as an athlete to the next level!
 
   Two **Athletic Training Students** are needed to assist with this camp.
 
