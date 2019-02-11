@@ -5,6 +5,5 @@ person: Tom Terrell, MD
 opportunity: ''
 image: ''
 date: 2019-02-11 15:48:19 +0000
-published: false
 
 ---
