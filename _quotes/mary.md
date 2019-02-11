@@ -6,6 +6,6 @@ quote: "“As a student, it was an incredible experience to live in community wi
   me to see how ministry is wherever you are.”"
 person: Mary O'Berry (Green), MS, ATC
 opportunity: X Project
-image: ''
+image: "/uploads/IMG_0198.jpg"
 
 ---
