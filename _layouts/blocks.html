@@ -2,11 +2,14 @@
 layout: default
 ---
 <div class="max-width">
-    <div class="page-header no-margin dark larger">
+    <div class="page-header no-margin dark larger larger-desc">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <h1>{{ page.title }}</h1>
+                    {% if page.description and page.description != '' %}
+                    <p class="page-header-desc">{{ page.description }}</p>
+                    {%- endif %}
                 </div>
                 <!-- End .col-md-6 
                 <div class="col-md-6">

@@ -7,6 +7,10 @@ fields:
   label: Title
   name: title
 - type: text
+  label: Description
+  name: description
+  description: This will appear as the subtitle of the page
+- type: text
   name: layout
   label: Layout
   hidden: true

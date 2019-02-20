@@ -2,10 +2,8 @@
 title: The Training Table
 permalink: "/sportsperformance/resources/index"
 layout: blocks
+description: Fueled by Athletes In Action
 page_sections:
-- template: text
-  block: text
-  content: "<h2><strong><em>Fueled by Athletes in Action</em></strong></h2>"
 - template: text-centered
   block: text-centered
   content: "<p>Do you desire to<strong> ENCOURAGE </strong>others and<strong> ENGAGE
