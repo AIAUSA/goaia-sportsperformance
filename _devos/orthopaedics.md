@@ -14,7 +14,7 @@ This is a perfectly functioning, God-desgined skeletal framework until that down
 
 That progression of a tibial stress fracture is the exact situation Isaiah is describing about Israel in the passage above. Portrayed as a wall, God’s people had repeatedly let the forces of evil load their structure until a crack appeared. From there, without a significant adjustment in their activity, the wall came crashing down. Hopefully this metaphor doesn’t also apply to you and me, but we must consciously evaluate ourselves just as we might utilize nuclear or magnetic resonance imaging in orthopaedics to assess a bone’s structure. God can serve as the bone scan or MRI in our lives as we ask Him to look inside to reveal our pathology. Trust me, you don’t want a tibial shaft fracture. Neither do you want a life shaft fracture caused by inattention to repetitive microtrauma that weakens your structure. God’s treatment is to turn back to Him and quietly trust Him.
 
-                                                                                       - Jeff Russell
+\- Jeff Russell
 
 E-KardíaGram: Sports Performance Edition is produced by The Kardía Foundation in association with Athletes in Action Sports Performance © 2018 The Kardía Foundation
 
