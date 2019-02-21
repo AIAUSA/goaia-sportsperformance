@@ -1,6 +1,6 @@
 ---
 title: Emergency Care
-permalink: aia
+permalink: sportsperformances/devos/emergencycare
 image: "/uploads/AIA SP E-KardiaGram.png"
 date: 2019-02-21 05:00:00 +0000
 tags: []
