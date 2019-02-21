@@ -6,7 +6,7 @@ date: 2019-02-21 05:00:00 +0000
 tags: []
 
 ---
-Congratulations to our 2019 Summer Athletic Training Interns
+Congratulations to our 2019 Summer Athletic Training Interns!
 
 * Alaina Brown of North Dakota State University
 * Jasmynn Dillard of Miami University (OH)
