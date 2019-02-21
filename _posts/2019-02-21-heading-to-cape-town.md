@@ -10,7 +10,7 @@ Athletes in Action Sports Performance is sending it's sixth educational mission 
 
 The primary outreaches will be a sports medicine conference held in partnership with the University of Western Cape (UWC)  and time with local sports scientists.
 
-While you may not be able to go to Cape Town, you can join the team by using this prayer calendar and following them on social media.
+While you may not be able to go to Cape Town, you can join the team by using this [Prayer Calendar](https://app.forestry.io/sites/l23gvhvzqg-abq/body-media//uploads/2019 South Africa Prayer Calendar.pdf "2019 South Africa Prayer Calendar") and following them on social media.
 
 * [teamblogs.athletesinaction.org](https://goaia.org/opportunity/blog/)
 
