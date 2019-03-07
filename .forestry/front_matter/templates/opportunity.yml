@@ -1,7 +1,6 @@
 ---
 label: Opportunity
 hide_body: true
-is_partial: false
 fields:
 - type: text
   name: title
@@ -45,6 +44,7 @@ fields:
     - Staff Opportunities
   label: Type of Opportunity
 pages:
+- _events/armenia-sports-performance-educational-clinic-team.md
 - _events/jam-camp-jesus-athletics-manhood.md
 - _events/beach-project.md
 - _events/urban-project-los-angeles.md
@@ -56,7 +56,6 @@ pages:
 - _events/student-internships.md
 - _events/honduras-sports-performance-educational-clinic-tour.md
 - _events/clinic-tour.md
-- _events/armenia-sports-performance-educational-clinic-team.md
 - _events/south-africa-sports-performance-clinic-tour.md
 - _events/academic-internship.md
 - _events/sportlinc.md

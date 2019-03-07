@@ -1,7 +1,6 @@
 ---
 label: Opportunities Call-Out
 hide_body: false
-is_partial: true
 fields:
 - type: text
   name: block
