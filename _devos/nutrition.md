@@ -4,12 +4,9 @@ permalink: sportsperformances/devos/nutrition
 image: "/uploads/AIA SP E-KardiaGram.png"
 date: 2019-03-25 04:00:00 +0000
 tags: []
-published: false
 
 ---
-![](/uploads/AIA SP E-KardiaGram.png)
-
-_The Lord God commanded him, “You may eat the fruit from any tree in the garden, but you must not eat the fruit from the tree which gives the knowledge of good and evil. If you ever eat fruit from that tree, you will die!” (Genesis 2:16–17 NCV)_
+![](/uploads/AIA SP E-KardiaGram.png)_The Lord God commanded him, “You may eat the fruit from any tree in the garden, but you must not eat the fruit from the tree which gives the knowledge of good and evil. If you ever eat fruit from that tree, you will die!” (Genesis 2:16–17 NCV)_
 
 There's a saying that mothers repeat to their children: "An apple a day keeps the doctor away." Is that really true? Apples are the way to good health? What is it about an apple that could so magically influence one's immune system? I've eaten plenty of apples and still needed healthcare, so I doubt the statement; but, it turns my mind toward the most infamous fruit of all time. It grew in the garden of Eden and set off the indigestion to beat all indigestions.
 
