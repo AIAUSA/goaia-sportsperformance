@@ -18,8 +18,8 @@ We had the opportunity to visit a church in Khayelitsha, in one of the townships
 
 ![](/uploads/Arm Swing Drills (2).jpg)Teaching arm swing drills at the University of Western Cape.
 
-![](/uploads/Table Mountain from Robben Island (2).jpg)Table Mountain from Robben Island. 
+![](/uploads/Table Mountain from Robben Island (2).jpg)Table Mountain from Robben Island.
 
 ![](/uploads/Synthia Teaching on Knee Evaluation.jpg)Synthia teaching on evaluating knee injuries.
 
-![](/uploads/Above the clouds (2).jpg)Above the Clouds on Table Mountain! 
+![](/uploads/Above the clouds (2).jpg)Above the Clouds on Table Mountain!
