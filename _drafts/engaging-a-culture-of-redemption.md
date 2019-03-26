@@ -13,3 +13,13 @@ Teaching classes helped us make immediate connections, and gave us the opportuni
 I have traveled many places, but I have never been to a place as beautiful as Cape Town. Mountains make up the backdrop of the city, while waves crash against the shore. In the morning, the sun shone bright; in the afternoon, clouds rolled in to bring the perfect overcast day; and the night greeted us with a sunset peering through the rocky peaks. God’s glory in creation is on full display there. But the wounds of apartheid are clear as the day too. We engaged with the city’s history and with South Africa’s history, as we gazed upon creation while driving past the townships where people were forced to live as a result of apartheid. There is pain, brokenness, and heartache in the rhythm of life in South Africa, just like there is here, just like there is in the rest of the world. In the midst, God is doing a redemptive work, taking what is broken, making it whole, and inviting us all to be a part of it. Let the truth of God’s love through Jesus, help us to endure in our hope, motivate our labor, and produce work from faith.
 
 We had the opportunity to visit a church in Khayelitsha, in one of the townships formed from apartheid, and worshipped with their congregation. They made us feel at home, they cooked for us, performed for us, and worshipped Jesus with their whole being. In that worship service, I gazed around and was in awe at the most important thing we had in common—a relationship with Jesus. That day it was sweet to be reminded that we worship the same God with people crossing borders, languages, ethnicities, socioeconomic status, and so much more.
+
+![](/uploads/Mountain Sunset-Cropped (2).jpg)The sky is on fire! Beautiful sunset through the mountains and clouds.
+
+![](/uploads/Arm Swing Drills (2).jpg)Teaching arm swing drills at the University of Western Cape.
+
+![](/uploads/Table Mountain from Robben Island (2).jpg)Table Mountain from Robben Island. 
+
+![](/uploads/Synthia Teaching on Knee Evaluation.jpg)Synthia teaching on evaluating knee injuries.
+
+![](/uploads/Above the clouds (2).jpg)Above the Clouds on Table Mountain! 
