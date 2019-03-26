@@ -18,3 +18,15 @@ Now, I know that the fruit we read about in Genesis 2 wasn't necessarily an appl
 What do we learn from these two verses contained in one of the most familiar stories in all of human civilization? First, God knows what is best for you. Second, there are consequences to not following His instructions. Putting both if these together, we should realize that our bad outcomes are self-inflicted because we want what we want, and we want it now. That gets me into trouble just like it does you. We'd rather eat the apple than follow instructions. If we willingly eat one of those apples everyday, then, yes, maybe it will keep the Doctor away when our fellowship with the Great Physician is not what He wants it to be.
 
 On the other hand, maybe there's a better apple. Maybe today "an apple a day" can represent a nutritious diet of the Bible, prayer, discipleship, and serving others. In that case, we can change our rhyme to "an apple a day keeps the Doctor from going away." The Great Physician doesn't leave you (or forsake you) once you've invited Him into your life, but it’s your daily faith diet that ensures you'll keep Him close for the strength you need.
+
+\- Jeff Russell
+
+E-KardíaGram: Sports Performance Edition is produced by The Kardía Foundation in association with Athletes in Action Sports Performance © 2018 The Kardía Foundation
+
+We connect the Christian faith and healthcare, equipping Christian healthcare workers to integrate their faith and practice. [www.kardia.org]()
+
+Contact: [sportsperformance@athletesinaction.org]() This electronic publication may be forwarded in its original format with proper credit given. Written by Jeffrey A. Russell, PhD, ATC
+
+Subscribe to weekly devotionals: [bit.ly/KardiaEKG]()
+
+![](/uploads/kardia.png)
