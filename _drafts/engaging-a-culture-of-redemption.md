@@ -16,6 +16,8 @@ We had the opportunity to visit a church in Khayelitsha, in one of the townships
 
 ![](/uploads/Mountain Sunset-Cropped (2).jpg)The sky is on fire! Beautiful sunset through the mountains and clouds.
 
+Team Photo (L-R): Lisa, Dane, Naomi, & Synthia
+
 ![](/uploads/Arm Swing Drills (2).jpg)Teaching arm swing drills at the University of Western Cape.
 
 ![](/uploads/Table Mountain from Robben Island (2).jpg)Table Mountain from Robben Island.
