@@ -2,7 +2,7 @@
 title: Congratulations to Our 2019 Summer Interns!
 permalink: sportsperformance/news/Congratulations-to-Our-2019-Summer-Interns
 image: "/uploads/AIA TAC Collage.png"
-date: 2019-02-21 05:00:00 +0000
+date: 2019-02-21 05:01:00 +0000
 tags: []
 
 ---
