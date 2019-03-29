@@ -9,7 +9,6 @@ tags: []
 Congratulations to our 2019 Summer Athletic Training Interns!
 
 * Alaina Brown of North Dakota State University
-* Jasmynn Dillard of Miami University (OH)
 * Savannah Claire Morgan of Troy University
 * Bethany Seman of Cedarville University
 
