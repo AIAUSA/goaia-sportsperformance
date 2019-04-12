@@ -6,7 +6,7 @@ date: 2019-03-29 04:01:00 +0000
 tags: []
 
 ---
-The eighth annual chapel at the American Society for Sports Medicine will be held at 7:00 am CDT on Sunday, April 14th at the Marriott Marquis in Houston, Texas. Check back here for the room location, to be announced soon. 
+The eighth annual chapel at the American Society for Sports Medicine will be held at 7:00 am CDT on Sunday, April 14th in the Chambers Room (2nd Level) at the Marriott Marquis in Houston, Texas. 
 
 "Engaging Others with Christ's Love" is the focus of this year's chapel.
 
