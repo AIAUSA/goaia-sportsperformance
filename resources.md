@@ -2,7 +2,6 @@
 title: The Training Table
 permalink: "/sportsperformance/resources/index"
 layout: blocks
-description: Fueled by Athletes In Action
 page_sections:
 - template: text-centered
   block: text-centered
@@ -31,5 +30,6 @@ page_sections:
     of the fullness of Christ." Ephesians 4:13</em></p><p></p>
 - template: resources-general
   block: resources
+description: Fueled by Athletes In Action
 
 ---
