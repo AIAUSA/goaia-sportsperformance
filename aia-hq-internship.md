@@ -37,6 +37,7 @@ page_sections:
 - template: text
   block: text
   content: "<p>Resource Folder: AIA HQ Internship</p>"
-published: false
+- template: resources-general
+  block: resources
 
 ---
