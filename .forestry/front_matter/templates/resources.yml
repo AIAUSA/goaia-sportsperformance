@@ -30,6 +30,8 @@ fields:
   label: Primary
   description: Will be used to determine which go on the home page.
 pages:
+- _resources/AIA HQ Internship/volleyball.md
+- _resources/AIA HQ Internship/track-feild.md
 - _resources/AIA HQ Internship/tennis.md
 - _resources/AIA HQ Internship/swimming.md
 - _resources/AIA HQ Internship/sports-performance.md
