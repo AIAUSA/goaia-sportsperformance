@@ -1,13 +1,25 @@
 ---
 layout: blocks
 title: AIA Sports T.E.A.M. Internship
-description: ''
+description: Invest yourself for a year...
 date: 
-social_image: ''
+social_image: "/uploads/IMG_0188.jpg"
 page_sections:
 - template: text-centered
   block: true
   content: "<p>EXPERIENCE     GROWTH     COMMUNITY</p>"
+- template: custom-heading
+  block: custom-heading
+  black: Experience
+  red: Unique Life Skills
+- template: custom-heading
+  block: custom-heading
+  black: Growth
+  red: 'Professional, Personal, Spiritual '
+- template: custom-heading
+  block: custom-heading
+  black: Community
+  red: Family
 published: false
 
 ---
