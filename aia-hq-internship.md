@@ -8,8 +8,16 @@ social_image: "/uploads/IMG_0188.jpg"
 page_sections:
 - template: custom-heading
   block: custom-heading
-  black: Growth
+  black: 'Experience:'
+  red: Unique Life Skills
+- template: custom-heading
+  block: custom-heading
+  black: 'Growth:'
   red: 'Professional, Personal, Spiritual '
+- template: custom-heading
+  block: custom-heading
+  black: 'Community:'
+  red: Love & Family
 - template: image-callout
   block: image-callout
   text: Experience
