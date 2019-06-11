@@ -18,27 +18,9 @@ page_sections:
   block: custom-heading
   black: 'Community:'
   red: Love & Family
-- template: image-callout
-  block: image-callout
-  text: Experience
-  byLine: Unique Life Skills
-  image: ''
-  url: ''
-  linkText: ''
-- template: image-callout
-  block: image-callout
-  text: Growth
-  byLine: Professional, Personal, Spiritual
-  image: ''
-  url: ''
-  linkText: ''
-- template: image-callout
-  block: image-callout
-  text: Community
-  byLine: Family
-  image: ''
-  url: ''
-  linkText: ''
+- template: text
+  block: text
+  content: "<p>Invest</p>"
 - template: text
   block: text
   content: "<p>Resource Folder: AIA HQ Internship</p>"
@@ -47,3 +29,4 @@ page_sections:
 published: false
 
 ---
+INVEST yourself in the Total Intern adventure.
