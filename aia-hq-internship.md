@@ -1,8 +1,8 @@
 ---
-layout: blocks
+layout: home-blocks
 title: AIA Sports T.E.A.M. Internship
 description: Invest yourself for a year...
-date: 
+date: ''
 permalink: SportsTeamIntern
 social_image: "/uploads/IMG_0188.jpg"
 page_sections:
