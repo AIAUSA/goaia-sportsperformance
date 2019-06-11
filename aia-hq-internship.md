@@ -26,6 +26,13 @@ page_sections:
   content: "<p>Resource Folder: AIA HQ Internship</p>"
 - template: resources-general
   block: resources
+- template: image-callout
+  block: image-callout
+  text: Application Information & FAQs
+  url: https://goaia.org/careers/intern
+  linkText: Click Here
+  image: "/uploads/IMG_7553.jpg"
+  byLine: ''
 published: false
 
 ---
