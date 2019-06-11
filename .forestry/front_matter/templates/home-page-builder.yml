@@ -30,4 +30,5 @@ fields:
   name: permalink
   label: URL
 pages:
+- aia.md
 - index.md
