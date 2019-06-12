@@ -1,7 +1,7 @@
 ---
 title: International Coaches Academy
 layout: blocks
-date: 2018-10-18 00:00:00 +0000
+date: 2018-10-18T00:00:00.000+00:00
 permalink: "/sportsperformance/events/coaches"
 page_sections:
 - template: text
@@ -30,8 +30,8 @@ page_sections:
     athletes and people in need.” – Olympic Sports Physio from Guatemala</strong></p><p><strong>“This
     was a lot of knowledge. I’m excited to put it into practice in Singapore. The
     Academy definitely will make an impact. It’s just a matter of time and opportunities
-    back home.” – Strength Coach from Singapore</strong></p><p><img src="/uploads/Academy
-    Daily Schedule.JPG"></p><h3><a href="/uploads/2018-International-Academy-Flyer.2.pdf"
+    back home.” – Strength Coach from Singapore</strong></p><p><img src="/uploads/2019
+    ISPA Sample Schedule.jpg"></p><h3><a href="/uploads/2018-International-Academy-Flyer.2.pdf"
     title=""><strong>Academy Brochure</strong></a></h3><h4></h4><h2><strong>Logistics</strong></h2><p><strong>Participants
     are responsible for their international flights. All local transportation will
     be handled by Athletes in Action. AIA Staff will receive participants at the airport,
@@ -42,7 +42,8 @@ page_sections:
     up to the Academy. Upon registration, our staff will be in touch via email to
     get the details we need to pick you up at the airport and prepare for your arrival.</strong></p><p><strong>Translators
     will be available for the various meeting times throughout the Academy. For more
-    details, contact us anytime at </strong><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=sportsperformance@athletesinaction.org"><strong>sportsperformance@athletesinaction.org</strong></a></p><p></p>
-    <p><iframe src="https://my.athletesinaction.org/Public/Forms/coaches-academy.aspx" width="100%" height="2500px" frameborder="0"></iframe></p>
+    details, contact us anytime at </strong><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=sportsperformance@athletesinaction.org"><strong>sportsperformance@athletesinaction.org</strong></a></p><p></p><p></p>
+description: ''
+social_image: ''
 
 ---
