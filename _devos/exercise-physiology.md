@@ -4,7 +4,6 @@ permalink: sportsperformances/devos/exercise-physiology
 image: "/uploads/AIA SP E-KardiaGram.png"
 date: 2019-06-22 04:00:00 +0000
 tags: []
-published: false
 
 ---
 ![](/uploads/AIA SP E-KardiaGram.png)Then Peter continued preaching for a long time, strongly urging all his listeners, “Save yourselves from this crooked generation!” Those who believed what Peter said were baptized and added to the church that day—about 3,000 in all. (Acts 2:40–41 NLT)
