@@ -2,7 +2,7 @@
 title: Exercise Physiology
 permalink: sportsperformances/devos/exercise-physiology
 image: "/uploads/AIA SP E-KardiaGram.png"
-date: 2019-06-23 04:00:00 +0000
+date: 2019-06-22 04:00:00 +0000
 tags: []
 published: false
 
