@@ -7,7 +7,7 @@ tags: []
 published: false
 
 ---
-Then Peter continued preaching for a long time, strongly urging all his listeners, “Save yourselves from this crooked generation!” Those who believed what Peter said were baptized and added to the church that day—about 3,000 in all. (Acts 2:40–41 NLT)
+![](/uploads/AIA SP E-KardiaGram.png)Then Peter continued preaching for a long time, strongly urging all his listeners, “Save yourselves from this crooked generation!” Those who believed what Peter said were baptized and added to the church that day—about 3,000 in all. (Acts 2:40–41 NLT)
 
 They praised God. They were respected by all the people. Every day the Lord added to their group those who were being saved. (Acts 2:47 NIrV)
 
