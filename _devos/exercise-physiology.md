@@ -1,7 +1,7 @@
 ---
 title: Exercise Physiology
-permalink: sportsperformance/news/
-image: ''
+permalink: sportsperformances/devos/exercise-physiology
+image: "/uploads/AIA SP E-KardiaGram.png"
 date: 2019-06-23 04:00:00 +0000
 tags: []
 published: false
