@@ -2,7 +2,7 @@
 title: Exercise Physiology
 permalink: sportsperformances/devos/exercise-physiology
 image: "/uploads/AIA SP E-KardiaGram.png"
-date: 2019-06-23 04:00:00 +0000
+date: 2019-06-23T04:00:00.000+00:00
 tags: []
 
 ---
@@ -24,10 +24,10 @@ Read about the first revival in Acts 2. It’s known as the Day of Pentecost. Fr
 
 E-KardíaGram: Sports Performance Edition is produced by The Kardía Foundation in association with Athletes in Action Sports Performance © 2018 The Kardía Foundation
 
-We connect the Christian faith and healthcare, equipping Christian healthcare workers to integrate their faith and practice. [www.kardia.org]()
+We connect the Christian faith and healthcare, equipping Christian healthcare workers to integrate their faith and practice. [www.kardia.org](www.kardia.org)
 
-Contact: [sportsperformance@athletesinaction.org]() This electronic publication may be forwarded in its original format with proper credit given. Written by Jeffrey A. Russell, PhD, ATC
+Contact: [sportsperformance@athletesinaction.org ](sportsperformance@athletesinaction.org)This electronic publication may be forwarded in its original format with proper credit given. Written by Jeffrey A. Russell, PhD, ATC
 
-Subscribe to weekly devotionals: [bit.ly/KardiaEKG]()
+Subscribe to weekly devotionals: [bit.ly/KardiaEKG](bit.ly/KardiaEKG)
 
 ![](/uploads/kardia.png)
