@@ -33,7 +33,7 @@ page_sections:
   linkText: Click Here
   image: "/uploads/IMG_7553.jpg"
   byLine: ''
-published: false
+published: true
 
 ---
 INVEST yourself in the Total Intern adventure.
