@@ -63,7 +63,8 @@ layout: default
                     <div class="widget">
                         <h3>Recent Devotionals</h3>
                         <ul class="links">
-                            {% for post in site.devos limit: 5 %}
+                            {% assign work_items = site.devos | sort: 'date' | reverse  %}
+                            {% for post in work_items limit: 5 %}
                             {% if post.url contains "index" %}
                             {% else %}
                             <li><a href="{{post.url}}">{{ post.title }}</a></li>
