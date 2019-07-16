@@ -4,7 +4,6 @@ permalink: sportsperformances/devos/sports-medicine
 image: "/uploads/AIA SP E-KardiaGram.png"
 date: 2019-07-16 04:00:00 +0000
 tags: []
-published: false
 
 ---
 ![](/uploads/AIA SP E-KardiaGram.png)Let me now remind you, dear brothers and sisters, of the Good News I preached to you before. You welcomed it then, and you still stand firm in it. It is this Good News that saves you if you continue to believe the message I told you—unless, of course, you believed something that was never true in the first place. I passed on to you what was most important and what had also been passed on to me. Christ died for our sins, just as the Scriptures said. He was buried, and he was raised from the dead on the third day, just as the Scriptures said. (1 Corinthians 15:1–4 NLT)
