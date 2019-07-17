@@ -2,7 +2,7 @@
 title: Engaging Others with Christ's Love
 permalink: sportsperformance/news/engaging-others-with-christ's-love
 image: "/uploads/Annie in Ukraine (3).JPEG"
-date: 2019-06-23T04:35:39.000+00:00
+date: 2019-06-22 04:35:39 +0000
 tags: []
 
 ---
