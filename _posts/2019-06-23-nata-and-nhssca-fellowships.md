@@ -2,7 +2,7 @@
 title: 'NATA and NHSSCA Fellowships this Week! '
 permalink: sportsperformance/news/nata-and-nhssca-fellowships-this-week
 image: "/uploads/Paul N.JPG"
-date: 2019-06-23T04:49:45.000+00:00
+date: 2019-06-23 04:49:45 +0000
 tags: []
 
 ---
