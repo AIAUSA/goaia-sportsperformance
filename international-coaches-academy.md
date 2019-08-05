@@ -55,7 +55,9 @@ page_sections:
     get the details we need to pick you up at the airport and prepare for your arrival.</strong></p><p><strong>Translators
     will be available for the various meeting times throughout the Academy. For more
     details, contact us anytime at </strong><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=sportsperformance@athletesinaction.org"
-    title=""><strong>sportsperformance@athletesinaction.org</strong></a></p>
+    title=""><strong>sportsperformance@athletesinaction.org</strong></a></p><p></p><h1><a
+    href="https://my.athletesinaction.org/Public/Forms/coaches-academy.aspx?EventID=2046"
+    title=""><strong><em>REGISTER HERE</em></strong></a></h1>
 description: ''
 social_image: ''
 
