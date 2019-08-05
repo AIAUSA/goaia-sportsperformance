@@ -7,10 +7,7 @@ page_sections:
 - template: text
   block: text
   content: <h2 class="leading"><a href="http://old.aiasportsperformance.org/get-involved/international-sports-performance-academy/">INTERNATIONAL
-    SPORTS PERFORMANCE ACADEMY</a></h2><p><strong>Featuring Instruction on sports
-    medicine and strength &amp; conditioning by faculty and staff from Cedarville
-    University, Wright State University, Ignition Athletes Performance Group, SportsNutrition2Go,
-    Adrenaline Sports &amp; Fitness, and others. To fill out the Registration Form,
+    SPORTS PERFORMANCE ACADEMY</a></h2><p><strong>To fill out the Registration Form,
     please click on the link below that is labeled '<em>Register Here</em>'. Thank
     you!</strong></p><h2><a href="" title=""><strong><em>Registration Form</em></strong></a></h2><p></p>
 - template: text-w-left-image
