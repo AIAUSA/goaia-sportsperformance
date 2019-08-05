@@ -27,6 +27,13 @@ page_sections:
     Academy definitely will make an impact. It’s just a matter of time and opportunities
     back home.” – Strength Coach from Singapore</strong></p><p><img src="/uploads/2019
     ISPA Sample Schedule.jpg"></p>
+- template: text-w-left-image
+  block: text-with-left-image
+  text: |-
+    ## **About**
+
+    #### **The Athletes in Action (AIA) International Sports Performance Academy is an invite only two-week journey blending instruction, leadership development and cultural experience held in conjunction with the AIA International Basketball Coaches Academy every November (Both groups are pictured to the left with textbooks donated by Human Kinetics.)**
+  image: "/uploads/fullsizeoutput_63ba.jpeg"
 - template: image-callout
   block: image-callout
   image: "/uploads/2019 ISPA Sample Schedule.jpg"
