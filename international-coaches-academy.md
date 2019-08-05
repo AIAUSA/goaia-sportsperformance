@@ -26,7 +26,7 @@ page_sections:
     in cultural events.</strong></p></li><li><p><strong>Daily ‘team times’ focused
     on leadership, and personal and spiritual growth training.</strong></p></li></ul><h4></h4><p><img
     src="/uploads/Resized Website 2019 ISPA Sample Schedule.jpg"></p><h4><a href="https://app.forestry.io/sites/l23gvhvzqg-abq/body-media//uploads/Academy
-    Flyer 2019.pdf" title="Academy Flyer 2019">Academy Flyer 2019</a></h4><h2><strong>Logistics</strong></h2><p><strong>Participants
+    Flyer 2019.pdf" title="Academy Flyer 2019">Academy Flyer 2019</a></h4><p></p><h2><strong>Logistics</strong></h2><p><strong>Participants
     are responsible for their international flights. All local transportation will
     be handled by Athletes in Action. AIA Staff will receive participants at the airport,
     and all participants will travel by van or bus to selected locations throughout
@@ -39,7 +39,7 @@ page_sections:
     details, contact us anytime at </strong><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=sportsperformance@athletesinaction.org"
     title=""><strong>sportsperformance@athletesinaction.org</strong></a></p><h1><a
     href="https://my.athletesinaction.org/Public/Forms/coaches-academy.aspx?EventID=2046"
-    title=""><strong><em>REGISTER HERE</em></strong></a></h1><p></p><h4><strong>Academy
+    title=""><strong><em>REGISTER HERE</em></strong></a></h1><p></p><p></p><h4><strong>Academy
     Endorsements</strong></h4><p><strong>“The impact is very big in our work. It will
     be executed at the seminars and we can transfer this knowledge to others.” – National
     Level Strength Coach from Honduras.</strong></p><p><strong>“The Academy was a
