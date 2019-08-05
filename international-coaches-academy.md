@@ -8,9 +8,8 @@ page_sections:
   block: text
   content: <h2 class="leading"><a href="http://old.aiasportsperformance.org/get-involved/international-sports-performance-academy/">INTERNATIONAL
     SPORTS PERFORMANCE ACADEMY</a></h2><p><strong>To fill out the Registration Form,
-    please click on the link below that is labeled '<em>Register Here</em>'. Thank
-    you!</strong></p><h2><a href="https://my.athletesinaction.org/Public/Forms/coaches-academy.aspx?EventID=2046"
-    title=""><strong><em>Registration Form</em></strong></a></h2><p></p>
+    please click on the link at the bottom of the page that is labeled '<em>Register
+    Here</em>'. Thank you!</strong></p>
 - template: text-w-left-image
   block: text-with-left-image
   text: |-
