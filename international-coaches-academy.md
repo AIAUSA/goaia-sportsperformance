@@ -16,13 +16,6 @@ page_sections:
     ## **About**
 
     #### **The Athletes in Action (AIA) International Sports Performance Academy is an invite only two-week journey blending instruction, leadership development and cultural experience held in conjunction with the AIA International Basketball Coaches Academy every November (Both groups are pictured to the left with textbooks donated by Human Kinetics.)**
-
-    #### **THE ACADEMY INCLUDES…**
-
-    * **Instruction and networking opportunities at local universities, sports medicine and strength & conditioning facilities.**
-    * **Interaction with professionals from around the world.**
-    * **Participation in cultural events.**
-    * **Daily ‘team times’ focused on leadership, and personal and spiritual growth training.**
   image: "/uploads/fullsizeoutput_63ba.jpeg"
 - template: text
   block: text
