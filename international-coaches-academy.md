@@ -10,8 +10,8 @@ page_sections:
     SPORTS PERFORMANCE ACADEMY</a></h2><p><strong>To fill out the Registration Form,
     please click on the link at the bottom of the page that is labeled '<em>Register
     Here</em>'. Thank you!</strong></p>
-- template: text-w-left-image
-  block: text-with-left-image
+- template: text-w-right-image
+  block: text-with-right-image
   text: |-
     ## **About**
 
@@ -48,13 +48,6 @@ page_sections:
     was a lot of knowledge. I’m excited to put it into practice in Singapore. The
     Academy definitely will make an impact. It’s just a matter of time and opportunities
     back home.” – Strength Coach from Singapore</strong></p>
-- template: text-w-right-image
-  block: text-with-right-image
-  text: |-
-    ## **About**
-
-    #### **The Athletes in Action (AIA) International Sports Performance Academy is an invite only two-week journey blending instruction, leadership development and cultural experience held in conjunction with the AIA International Basketball Coaches Academy every November (Both groups are pictured to the left with textbooks donated by Human Kinetics.)**
-  image: "/uploads/fullsizeoutput_63ba.jpeg"
 description: ''
 social_image: ''
 
