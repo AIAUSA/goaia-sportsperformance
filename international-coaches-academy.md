@@ -52,7 +52,8 @@ page_sections:
   linkText: ''
 - template: text
   block: text
-  content: <h3><a href="2019 ISPA Flyer.pdf" title=""><strong>Academy Brochure</strong></a></h3><h4></h4><h2><strong>Logistics</strong></h2><p><strong>Participants
+  content: <h3><a href="https://app.forestry.io/sites/l23gvhvzqg-abq/body-media//uploads/Academy
+    Flyer 2019.pdf" title="Academy Flyer 2019">Academy Flyer 2019.pdf</a></h3><h4></h4><h2><strong>Logistics</strong></h2><p><strong>Participants
     are responsible for their international flights. All local transportation will
     be handled by Athletes in Action. AIA Staff will receive participants at the airport,
     and all participants will travel by van or bus to selected locations throughout
@@ -62,7 +63,8 @@ page_sections:
     up to the Academy. Upon registration, our staff will be in touch via email to
     get the details we need to pick you up at the airport and prepare for your arrival.</strong></p><p><strong>Translators
     will be available for the various meeting times throughout the Academy. For more
-    details, contact us anytime at </strong><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=sportsperformance@athletesinaction.org"><strong>sportsperformance@athletesinaction.org</strong></a></p>
+    details, contact us anytime at </strong><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=sportsperformance@athletesinaction.org"
+    title=""><strong>sportsperformance@athletesinaction.org</strong></a></p>
 description: ''
 social_image: ''
 
