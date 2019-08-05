@@ -43,6 +43,13 @@ page_sections:
     get the details we need to pick you up at the airport and prepare for your arrival.</strong></p><p><strong>Translators
     will be available for the various meeting times throughout the Academy. For more
     details, contact us anytime at </strong><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=sportsperformance@athletesinaction.org"><strong>sportsperformance@athletesinaction.org</strong></a></p><p></p><p></p>
+- template: image-callout
+  block: image-callout
+  image: "/uploads/2019 ISPA Sample Schedule.jpg"
+  text: ''
+  byLine: ''
+  url: ''
+  linkText: ''
 description: ''
 social_image: ''
 
