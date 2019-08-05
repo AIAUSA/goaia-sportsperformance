@@ -24,7 +24,7 @@ page_sections:
     &amp; conditioning facilities.</strong></p></li><li><p><strong>Interaction with
     professionals from around the world.</strong></p></li><li><p><strong>Participation
     in cultural events.</strong></p></li><li><p><strong>Daily ‘team times’ focused
-    on leadership, and personal and spiritual growth training.</strong></p></li></ul><h4></h4><p><img
+    on leadership, and personal and spiritual growth training.</strong></p><p></p></li></ul><h4></h4><p><img
     src="/uploads/Resized Website 2019 ISPA Sample Schedule.jpg"></p><h4><a href="https://app.forestry.io/sites/l23gvhvzqg-abq/body-media//uploads/Academy
     Flyer 2019.pdf" title="Academy Flyer 2019">Academy Flyer 2019</a></h4><p></p><h2><strong>Logistics</strong></h2><p><strong>Participants
     are responsible for their international flights. All local transportation will
