@@ -12,7 +12,17 @@ page_sections:
     University, Wright State University, Ignition Athletes Performance Group, SportsNutrition2Go,
     Adrenaline Sports &amp; Fitness, and others. Scroll down and use the registration
     form at the bottom of this webpage to join us!</strong></p><h2><strong><em>Registration
-    Form</em></strong></h2><p></p><h4><strong>THE ACADEMY INCLUDES…</strong></h4><ul><li><p><strong>Instruction
+    Form</em></strong></h2><p></p>
+- template: text-w-left-image
+  block: text-with-left-image
+  text: |-
+    ## **About**
+
+    #### **The Athletes in Action (AIA) International Sports Performance Academy is an invite only two-week journey blending instruction, leadership development and cultural experience held in conjunction with the AIA International Basketball Coaches Academy every November (Both groups are pictured to the left with textbooks donated by Human Kinetics.)**
+  image: "/uploads/fullsizeoutput_63ba.jpeg"
+- template: text
+  block: text
+  content: <h4><strong>THE ACADEMY INCLUDES…</strong></h4><ul><li><p><strong>Instruction
     and networking opportunities at local universities, sports medicine and strength
     &amp; conditioning facilities.</strong></p></li><li><p><strong>Interaction with
     professionals from around the world.</strong></p></li><li><p><strong>Participation
@@ -27,13 +37,6 @@ page_sections:
     Academy definitely will make an impact. It’s just a matter of time and opportunities
     back home.” – Strength Coach from Singapore</strong></p><p><img src="/uploads/2019
     ISPA Sample Schedule.jpg"></p>
-- template: text-w-left-image
-  block: text-with-left-image
-  text: |-
-    ## **About**
-
-    #### **The Athletes in Action (AIA) International Sports Performance Academy is an invite only two-week journey blending instruction, leadership development and cultural experience held in conjunction with the AIA International Basketball Coaches Academy every November (Both groups are pictured to the left with textbooks donated by Human Kinetics.)**
-  image: "/uploads/fullsizeoutput_63ba.jpeg"
 - template: image-callout
   block: image-callout
   image: "/uploads/2019 ISPA Sample Schedule.jpg"
