@@ -52,8 +52,7 @@ page_sections:
   linkText: ''
 - template: text
   block: text
-  content: <h3><a href="https://app.forestry.io/sites/l23gvhvzqg-abq/body-media//uploads/2018-International-Academy-Flyer.2.pdf"
-    title=""><strong>Academy Brochure</strong></a></h3><h4></h4><h2><strong>Logistics</strong></h2><p><strong>Participants
+  content: <h3><a href="2019 ISPA Flyer.pdf" title=""><strong>Academy Brochure</strong></a></h3><h4></h4><h2><strong>Logistics</strong></h2><p><strong>Participants
     are responsible for their international flights. All local transportation will
     be handled by Athletes in Action. AIA Staff will receive participants at the airport,
     and all participants will travel by van or bus to selected locations throughout
