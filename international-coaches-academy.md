@@ -12,13 +12,7 @@ page_sections:
     University, Wright State University, Ignition Athletes Performance Group, SportsNutrition2Go,
     Adrenaline Sports &amp; Fitness, and others. Scroll down and use the registration
     form at the bottom of this webpage to join us!</strong></p><h2><strong><em>Registration
-    Form</em></strong></h2><h4><strong><img src="http://aiasportsperformance.org/wp-content/uploads/2015/12/AIA-Intl-Coaches-Academy-Human-Kinetics-Gift-Books-11-15-1024x460.jpg"
-    alt="AIA Intl Coaches Academy Human Kinetics Gift Books 11-15" width="628" height="282"></strong></h4><h4></h4><h2><strong>About</strong></h2><h4><strong>The
-    Athletes in Action (AIA) International Sports Performance Academy is an invite
-    only two-week journey blending instruction, leadership development and cultural
-    experience held in conjunction with the AIA International Basketball Coaches Academy
-    every November (Both groups are pictured above with textbooks donated by Human
-    Kinetics.)</strong></h4><h4><strong>THE ACADEMY INCLUDES…</strong></h4><ul><li><p><strong>Instruction
+    Form</em></strong></h2><p></p><h4><strong>THE ACADEMY INCLUDES…</strong></h4><ul><li><p><strong>Instruction
     and networking opportunities at local universities, sports medicine and strength
     &amp; conditioning facilities.</strong></p></li><li><p><strong>Interaction with
     professionals from around the world.</strong></p></li><li><p><strong>Participation
