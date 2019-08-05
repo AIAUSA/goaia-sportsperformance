@@ -10,9 +10,9 @@ page_sections:
     SPORTS PERFORMANCE ACADEMY</a></h2><p><strong>Featuring Instruction on sports
     medicine and strength &amp; conditioning by faculty and staff from Cedarville
     University, Wright State University, Ignition Athletes Performance Group, SportsNutrition2Go,
-    Adrenaline Sports &amp; Fitness, and others. Scroll down and use the registration
-    form at the bottom of this webpage to join us!</strong></p><h2><strong><em>Registration
-    Form</em></strong></h2><p></p>
+    Adrenaline Sports &amp; Fitness, and others. To fill out the Registration Form,
+    please click on the link below that is labeled '<em>Register Here</em>'. Thank
+    you!</strong></p><h2><a href="" title=""><strong><em>Registration Form</em></strong></a></h2><p></p>
 - template: text-w-left-image
   block: text-with-left-image
   text: |-
