@@ -9,27 +9,29 @@ page_sections:
   content: <h2 class="leading"><a href="http://old.aiasportsperformance.org/get-involved/international-sports-performance-academy/">INTERNATIONAL
     SPORTS PERFORMANCE ACADEMY</a></h2><p><strong>To fill out the Registration Form,
     please click on the link below that is labeled '<em>Register Here</em>'. Thank
-    you!</strong></p><h2><a href="" title=""><strong><em>Registration Form</em></strong></a></h2><p></p>
+    you!</strong></p><h2><a href="https://my.athletesinaction.org/Public/Forms/coaches-academy.aspx?EventID=2046"
+    title=""><strong><em>Registration Form</em></strong></a></h2><p></p>
 - template: text-w-left-image
   block: text-with-left-image
   text: |-
     ## **About**
 
     #### **The Athletes in Action (AIA) International Sports Performance Academy is an invite only two-week journey blending instruction, leadership development and cultural experience held in conjunction with the AIA International Basketball Coaches Academy every November (Both groups are pictured to the left with textbooks donated by Human Kinetics.)**
+
+    #### **THE ACADEMY INCLUDES…**
+
+    * **Instruction and networking opportunities at local universities, sports medicine and strength & conditioning facilities.**
+    * **Interaction with professionals from around the world.**
+    * **Participation in cultural events.**
+    * **Daily ‘team times’ focused on leadership, and personal and spiritual growth training.**
   image: "/uploads/fullsizeoutput_63ba.jpeg"
 - template: text
   block: text
-  content: "<h4><strong>THE ACADEMY INCLUDES…</strong></h4><ul><li><p><strong>Instruction
-    and networking opportunities at local universities, sports medicine and strength
-    &amp; conditioning facilities.</strong></p></li><li><p><strong>Interaction with
-    professionals from around the world.</strong></p></li><li><p><strong>Participation
-    in cultural events.</strong></p></li><li><p><strong>Daily ‘team times’ focused
-    on leadership, and personal and spiritual growth training.</strong></p><p></p></li></ul><h2><strong>Academy
-    Endorsements</strong></h2><p><strong>“The impact is very big in our work. It will
-    be executed at the seminars and we can transfer this knowledge to others.” – National
-    Level Strength Coach from Honduras.</strong></p><p><strong>“The Academy was a
-    dream come true. With what I learned from the Academy, I want to keep helping
-    athletes and people in need.” – Olympic Sports Physio from Guatemala</strong></p><p><strong>“This
+  content: "<h2><strong>Academy Endorsements</strong></h2><p><strong>“The impact is
+    very big in our work. It will be executed at the seminars and we can transfer
+    this knowledge to others.” – National Level Strength Coach from Honduras.</strong></p><p><strong>“The
+    Academy was a dream come true. With what I learned from the Academy, I want to
+    keep helping athletes and people in need.” – Olympic Sports Physio from Guatemala</strong></p><p><strong>“This
     was a lot of knowledge. I’m excited to put it into practice in Singapore. The
     Academy definitely will make an impact. It’s just a matter of time and opportunities
     back home.” – Strength Coach from Singapore</strong></p>"
