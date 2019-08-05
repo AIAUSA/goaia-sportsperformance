@@ -19,12 +19,13 @@ page_sections:
   image: "/uploads/fullsizeoutput_63ba.jpeg"
 - template: text
   block: text
-  content: "<h4><strong>THE ACADEMY INCLUDES…</strong></h4><ul><li><p><strong>Instruction
+  content: <h4><strong>THE ACADEMY INCLUDES…</strong></h4><ul><li><p><strong>Instruction
     and networking opportunities at local universities, sports medicine and strength
     &amp; conditioning facilities.</strong></p></li><li><p><strong>Interaction with
     professionals from around the world.</strong></p></li><li><p><strong>Participation
     in cultural events.</strong></p></li><li><p><strong>Daily ‘team times’ focused
-    on leadership, and personal and spiritual growth training.</strong></p></li></ul><p></p><h2><strong>Academy
+    on leadership, and personal and spiritual growth training.</strong></p></li></ul><p><img
+    src="/uploads/Resized Website 2019 ISPA Sample Schedule.jpg"></p><h2><strong>Academy
     Endorsements</strong></h2><p><strong>“The impact is very big in our work. It will
     be executed at the seminars and we can transfer this knowledge to others.” – National
     Level Strength Coach from Honduras.</strong></p><p><strong>“The Academy was a
@@ -32,7 +33,7 @@ page_sections:
     athletes and people in need.” – Olympic Sports Physio from Guatemala</strong></p><p><strong>“This
     was a lot of knowledge. I’m excited to put it into practice in Singapore. The
     Academy definitely will make an impact. It’s just a matter of time and opportunities
-    back home.” – Strength Coach from Singapore</strong></p>"
+    back home.” – Strength Coach from Singapore</strong></p>
 - template: text
   block: text
   content: <h3><a href="https://app.forestry.io/sites/l23gvhvzqg-abq/body-media//uploads/Academy
