@@ -22,7 +22,7 @@ page_sections:
   image: "/uploads/fullsizeoutput_63ba.jpeg"
 - template: text
   block: text
-  content: <h4><strong>THE ACADEMY INCLUDES…</strong></h4><ul><li><p><strong>Instruction
+  content: "<h4><strong>THE ACADEMY INCLUDES…</strong></h4><ul><li><p><strong>Instruction
     and networking opportunities at local universities, sports medicine and strength
     &amp; conditioning facilities.</strong></p></li><li><p><strong>Interaction with
     professionals from around the world.</strong></p></li><li><p><strong>Participation
@@ -35,8 +35,7 @@ page_sections:
     athletes and people in need.” – Olympic Sports Physio from Guatemala</strong></p><p><strong>“This
     was a lot of knowledge. I’m excited to put it into practice in Singapore. The
     Academy definitely will make an impact. It’s just a matter of time and opportunities
-    back home.” – Strength Coach from Singapore</strong></p><p><img src="/uploads/2019
-    ISPA Sample Schedule.jpg"></p>
+    back home.” – Strength Coach from Singapore</strong></p>"
 - template: image-callout
   block: image-callout
   image: "/uploads/2019 ISPA Sample Schedule.jpg"
