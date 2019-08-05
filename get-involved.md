@@ -20,9 +20,11 @@ page_sections:
     cultural experience held in conjunction with the AIA International Basketball
     Coaches Academy every November (Both groups are pictured above with textbooks
     donated by Human Kinetics.)
-  image: http://old.aiasportsperformance.org/wp-content/uploads/2015/12/AIA-Intl-Coaches-Academy-Human-Kinetics-Gift-Books-11-15-1024x460.jpg
+  image: "/uploads/2018 International Sports Performance Academy-1.JPG"
 - template: social-callout
   block: sports-performance-social
-date: ''
+date: 
+description: ''
+social_image: ''
 
 ---
