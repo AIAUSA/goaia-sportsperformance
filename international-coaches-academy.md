@@ -50,6 +50,20 @@ page_sections:
   byLine: ''
   url: ''
   linkText: ''
+- template: text
+  block: text
+  content: <h3><a href="https://app.forestry.io/sites/l23gvhvzqg-abq/body-media//uploads/2018-International-Academy-Flyer.2.pdf"
+    title=""><strong>Academy Brochure</strong></a></h3><h4></h4><h2><strong>Logistics</strong></h2><p><strong>Participants
+    are responsible for their international flights. All local transportation will
+    be handled by Athletes in Action. AIA Staff will receive participants at the airport,
+    and all participants will travel by van or bus to selected locations throughout
+    the Academy. Participants in the Academy will room on campus at the AIA Retreat
+    Center in our dorms. Breakfast, lunch, and dinner will be provided. All transportation,
+    registration payment, and logistical questions will be handled by our staff leading
+    up to the Academy. Upon registration, our staff will be in touch via email to
+    get the details we need to pick you up at the airport and prepare for your arrival.</strong></p><p><strong>Translators
+    will be available for the various meeting times throughout the Academy. For more
+    details, contact us anytime at </strong><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=sportsperformance@athletesinaction.org"><strong>sportsperformance@athletesinaction.org</strong></a></p>
 description: ''
 social_image: ''
 
