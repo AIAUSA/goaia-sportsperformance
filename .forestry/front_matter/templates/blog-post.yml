@@ -22,6 +22,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/in-a-word-everything.md
 - _posts/breaking-new-ground-1.md
 - _posts/breaking-new-ground.md
 - _posts/2019-02-21-heading-to-cape-town.md
