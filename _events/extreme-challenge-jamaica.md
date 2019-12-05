@@ -9,7 +9,7 @@ description: |-
 
   Two **Certified Athletic Trainers** are needed for the athletes’ healthcare needs (minimum one week commitment).
 
-  **2019 Dates:** May 16 to 30
+  **2020 Dates:** May, Exact Dates Coming Soon!
 
   #### Apply Below!
 student: true
@@ -18,6 +18,6 @@ staff: false
 event: false
 featured_image: ''
 type: Camps & Projects
-date: 2018-12-24 20:33:20 +0000
+date: '2018-12-24T20:33:20.000+00:00'
 
 ---
