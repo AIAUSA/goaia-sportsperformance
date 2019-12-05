@@ -1,6 +1,6 @@
 ---
 title: Urban Project - Los Angeles
-date: 2018-08-31 15:53:32 +0000
+date: '2018-08-31T15:53:32.000+00:00'
 description: |-
   #### Join 50+ student-athletes and staff from around the country living in community in one huge house for three life-changing weeks. The UP-LA is a one of a kind opportunity.
 
@@ -10,7 +10,7 @@ description: |-
 
   A **Certified Athletic Trainer** is needed for the athletes’ healthcare needs during the first week with the option of serving during the entire project.
 
-  **2019 Dates:** May 30th to June 9th
+  **2020 Dates:** Late May to Early June (Exact Dates Coming Soon!)
 
   #### Apply Below!
 student: true
