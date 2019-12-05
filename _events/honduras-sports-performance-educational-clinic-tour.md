@@ -1,6 +1,6 @@
 ---
 title: Honduras Sports Performance Clinic Tour
-date: 2018-10-17 04:24:59 +0000
+date: '2018-10-17T04:24:59.000+00:00'
 description: |-
   #### Do you want to travel internationally for your profession?!?
 
