@@ -44,6 +44,7 @@ fields:
     - Staff Opportunities
   label: Type of Opportunity
 pages:
+- _events/jam-camp-jesus-athletics-manhood.md
 - _events/honduras-sports-performance-educational-clinic-tour.md
 - _events/armenia-sports-performance-educational-clinic-team.md
 - _events/south-africa-sports-performance-clinic-tour.md
@@ -58,7 +59,6 @@ pages:
 - _events/athletic-trainer-part-time.md
 - _events/strength-coach-full-time.md
 - _events/boston-project.md
-- _events/jam-camp-jesus-athletics-manhood.md
 - _events/athletic-trainer-full-time.md
 - _events/competitive-tours.md
 - _events/sportlinc.md
