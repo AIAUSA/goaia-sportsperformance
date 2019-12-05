@@ -44,6 +44,7 @@ fields:
     - Staff Opportunities
   label: Type of Opportunity
 pages:
+- _events/beach-project.md
 - _events/extreme-challenge-jamaica.md
 - _events/honduras-sports-performance-educational-clinic-tour.md
 - _events/south-africa-sports-performance-clinic-tour.md
@@ -59,7 +60,6 @@ pages:
 - _events/athletic-trainer-full-time.md
 - _events/armenia-sports-performance-educational-clinic-team.md
 - _events/competitive-tours.md
-- _events/beach-project.md
 - _events/sportlinc.md
 - _events/year-round-internships.md
 - _events/ultimate-training-camp.md
