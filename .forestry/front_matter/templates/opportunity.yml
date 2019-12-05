@@ -44,6 +44,7 @@ fields:
     - Staff Opportunities
   label: Type of Opportunity
 pages:
+- _events/student-internships.md
 - _events/urban-project-los-angeles.md
 - _events/ultimate-training-camp.md
 - _events/extreme-challenge-puerto-rico.md
@@ -57,7 +58,6 @@ pages:
 - _events/strength-coach-full-time.md
 - _events/boston-project.md
 - _events/jam-camp-jesus-athletics-manhood.md
-- _events/student-internships.md
 - _events/athletic-trainer-full-time.md
 - _events/armenia-sports-performance-educational-clinic-team.md
 - _events/competitive-tours.md

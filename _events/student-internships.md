@@ -1,6 +1,6 @@
 ---
 title: X-Project
-date: 2018-08-31 15:58:53 +0000
+date: '2018-08-31T15:58:53.000+00:00'
 description: |-
   #### Learn life long ministry skills through a 9 week summer internship!
 
@@ -12,9 +12,9 @@ description: |-
 
   ##### What are you waiting for?!?
 
-  **2019 Dates:** Late May to Late July
+  **2020 Dates:** Late May to Late July
 
-  **The deadline for 2019 Intern and Supervisor applications is February 1, 2019.**
+  **The deadline for 2020 Intern and Supervisor applications is February 1, 2020.**
 
   #### Apply Below!
 
