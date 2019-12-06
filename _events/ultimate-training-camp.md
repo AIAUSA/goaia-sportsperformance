@@ -12,7 +12,7 @@ description: |-
 
   Our goal is to help every athletic trainer in the nation understand how the gospel impacts their sport and life.
 
-  **2019 Dates:**
+  **2020 Dates:**
 
   * Ohio: May 17 to 23
   * Colorado: May 24 to 30
