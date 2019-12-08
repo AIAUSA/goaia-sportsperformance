@@ -4,7 +4,6 @@ date: 2019-12-07 05:00:00 +0000
 permalink: sportsperformances/devos/orthopaedics-and-podiatry-patterns-of-trust
 image: "/uploads/AIA SP E-KardiaGram.png"
 tags: []
-published: false
 
 ---
 _![](/uploads/AIA SP E-KardiaGram.png)_
