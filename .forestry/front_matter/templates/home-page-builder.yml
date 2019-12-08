@@ -30,5 +30,5 @@ fields:
   name: permalink
   label: URL
 pages:
-- index.md
 - aia-hq-internship.md
+- index.md

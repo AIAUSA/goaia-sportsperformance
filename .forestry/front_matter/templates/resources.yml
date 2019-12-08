@@ -30,23 +30,23 @@ fields:
   label: Primary
   description: Will be used to determine which go on the home page.
 pages:
-- _resources/AIA HQ Internship/basketball.md
-- _resources/AIA HQ Internship/baseball.md
+- _resources/AIA HQ Internship/wrestling.md
+- _resources/AIA HQ Internship/tennis.md
+- _resources/AIA HQ Internship/swimming.md
+- _resources/sportlife.md
+- _resources/equipped-discipleship.md
+- _resources/AIA HQ Internship/sports-performance.md
+- _resources/AIA HQ Internship/volleyball.md
+- _resources/AIA HQ Internship/track-feild.md
 - _resources/AIA HQ Internship/softball.md
+- _resources/AIA HQ Internship/soccer.md
 - _resources/AIA HQ Internship/golf.md
 - _resources/AIA HQ Internship/football.md
-- _resources/AIA HQ Internship/soccer.md
-- _resources/AIA HQ Internship/track-feild.md
-- _resources/AIA HQ Internship/volleyball.md
-- _resources/AIA HQ Internship/sports-performance.md
-- _resources/equipped-discipleship.md
-- _resources/sportlife.md
-- _resources/principles---how-to-to-teach-them.md
-- _resources/sportlife---how-to-use-it.md
-- _resources/hurdles.md
-- _resources/foundations.md
-- _resources/more-spiritual-strength.md
+- _resources/AIA HQ Internship/basketball.md
+- _resources/AIA HQ Internship/baseball.md
 - _resources/principals.md
-- _resources/AIA HQ Internship/swimming.md
-- _resources/AIA HQ Internship/tennis.md
-- _resources/AIA HQ Internship/wrestling.md
+- _resources/more-spiritual-strength.md
+- _resources/foundations.md
+- _resources/hurdles.md
+- _resources/sportlife---how-to-use-it.md
+- _resources/principles---how-to-to-teach-them.md

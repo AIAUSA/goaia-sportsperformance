@@ -44,23 +44,23 @@ fields:
     - Staff Opportunities
   label: Type of Opportunity
 pages:
-- _events/south-africa-sports-performance-clinic-tour.md
-- _events/beach-project-1.md
-- _events/boston-project.md
-- _events/strength-coach-full-time.md
-- _events/athletic-trainer-part-time.md
-- _events/clinic-tour.md
-- _events/academic-internship.md
 - _events/ultimate-training-camp.md
-- _events/year-round-internships.md
-- _events/sportlinc.md
-- _events/extreme-challenge-jamaica.md
-- _events/extreme-challenge-puerto-rico.md
-- _events/beach-project.md
-- _events/urban-project-los-angeles.md
-- _events/honduras-sports-performance-educational-clinic-tour.md
-- _events/competitive-tours.md
-- _events/armenia-sports-performance-educational-clinic-team.md
-- _events/athletic-trainer-full-time.md
-- _events/student-internships.md
+- _events/beach-project-1.md
+- _events/south-africa-sports-performance-clinic-tour.md
 - _events/jam-camp-jesus-athletics-manhood.md
+- _events/honduras-sports-performance-educational-clinic-tour.md
+- _events/armenia-sports-performance-educational-clinic-team.md
+- _events/student-internships.md
+- _events/urban-project-los-angeles.md
+- _events/extreme-challenge-puerto-rico.md
+- _events/extreme-challenge-jamaica.md
+- _events/beach-project.md
+- _events/academic-internship.md
+- _events/clinic-tour.md
+- _events/athletic-trainer-part-time.md
+- _events/strength-coach-full-time.md
+- _events/boston-project.md
+- _events/athletic-trainer-full-time.md
+- _events/competitive-tours.md
+- _events/sportlinc.md
+- _events/year-round-internships.md
