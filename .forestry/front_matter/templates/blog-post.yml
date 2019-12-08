@@ -22,7 +22,6 @@ fields:
   name: tags
   label: tags
 pages:
-- _devos/emergency-care-1.md
 - _posts/announcing-2019-mission-opportunities.md
 - _posts/in-a-word-everything.md
 - _posts/breaking-new-ground-1.md
