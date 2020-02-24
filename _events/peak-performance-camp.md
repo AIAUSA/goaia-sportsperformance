@@ -13,6 +13,5 @@ staff: false
 event: false
 featured_image: "/uploads/2018 Cassi-HS UTC.jpg"
 type: ''
-published: false
 
 ---
