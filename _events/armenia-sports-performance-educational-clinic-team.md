@@ -6,7 +6,7 @@ description: |-
 
   Join us in Yerevan, Armenia for an adventure. This team will be teaching at the National Kinesiology University and co-hosting a conference with the Armenian National Sports Medicine Federation and Armenian Olympic Committee. A variety of sports medicine, strength & conditioning, exercise science professionals and students are needed to fill out this team. Help connect with professionals and students, while communicating Christ’s love with others!
 
-  **2020 Dates:** March 6th to 14th
+  **2020 Dates:** TBD
 
   #### Apply Below!
 student: true
