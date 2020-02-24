@@ -18,7 +18,7 @@ description: |-
   * Colorado: May 24 to 30
   * Minnesota: May 31 to June 6
   * Southern California: June 14 to 20
-  * Cru High School (OH): TBD
+  * Cru High School Peak Performance Camp (Ohio): June 14 to 19
 
   #### Apply Below!
 student: true

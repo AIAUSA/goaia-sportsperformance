@@ -42,12 +42,12 @@ fields:
   - text-centered
   - quote-rotator
 pages:
-- international-coaches-academy.md
-- get-involved.md
-- join-our-staff.md
-- get-involved-students.md
-- give.md
 - about-test.md
-- test.md
-- professional-opportunities.md
 - about.md
+- get-involved-students.md
+- get-involved.md
+- give.md
+- international-coaches-academy.md
+- join-our-staff.md
+- professional-opportunities.md
+- test.md
