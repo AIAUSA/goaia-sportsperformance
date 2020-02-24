@@ -14,11 +14,11 @@ description: |-
 
   **2020 Dates:**
 
-  * Ohio: May 17 to 23
-  * Colorado: May 24 to 30
-  * Minnesota: May 31 to June 6
-  * Southern California: June 14 to 20
-  * Cru High School Peak Performance Camp (Ohio): June 14 to 19
+  * Ohio: May 17th to 23rd
+  * Colorado: May 24th to 30th
+  * Minnesota: May 31st to June 6th
+  * Southern California: June 14th to 20th
+  * Cru High School Peak Performance Camp (Ohio): June 14th to 19th
 
   #### Apply Below!
 student: true
