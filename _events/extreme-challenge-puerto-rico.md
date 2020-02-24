@@ -10,7 +10,7 @@ description: |-
 
   Two **Certified Athletic Trainers** are needed for the athletes’ healthcare needs (minimum one week commitment).
 
-  **2020 Dates:** May 24 to June 7
+  **2020 Dates:** May 24th to June 7th
 
   #### Apply Below!
 student: true
