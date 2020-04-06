@@ -2,7 +2,14 @@
 title: The Training Table
 permalink: "/sportsperformance/resources/index"
 layout: blocks
+description: Fueled by Athletes In Action
 page_sections:
+- template: custom-heading
+  block: custom-heading
+  black: COVID-19 Resources
+  red: Below we wanted to provide you with some resources to help you and your athletes
+    walk through this difficult time. These are articles and bible studies to help
+    process what is happening in the world and how we move forward in on new normal.
 - template: text-centered
   block: text-centered
   content: "<p>Do you desire to<strong> ENCOURAGE </strong>others and<strong> ENGAGE
@@ -30,6 +37,5 @@ page_sections:
     of the fullness of Christ." Ephesians 4:13</em></p><p></p>
 - template: resources-general
   block: resources
-description: Fueled by Athletes In Action
 
 ---
