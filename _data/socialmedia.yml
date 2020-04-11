@@ -1,3 +1,6 @@
+---
+- name: MailChimp eNewsletter
+  link: http://eepurl.com/ceSDIH
 - name: twitter
   link: https://twitter.com/AIASPORTSPERFOR?lang=en
 - name: facebook
