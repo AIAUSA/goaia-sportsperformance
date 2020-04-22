@@ -1,6 +1,6 @@
 ---
 title: 'Canceled is Not Bad with God '
-permalink: sportsperformance/news/2020/Canceled_is_not_bad-with_God
+permalink: sportsperformance/news/2020/Canceled-is-not-bad-with-God
 image: "/uploads/IMG_E7335[1].JPG"
 date: 2020-04-21 04:00:00 +0000
 tags: []
