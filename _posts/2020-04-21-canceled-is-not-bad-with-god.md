@@ -13,9 +13,9 @@ American Society for Sports Medicine (AMSSM) annual meeting
 is going virtual at  
 1:00pm EDT on Sunday, April 26th
 
-\**[**Click here to join us on Zoom this Sunday! **](https://staffweb.zoom.us/j/98039023092?pwd=SVIvTk5IR3daUVJNWEVCTGpUWjFjdz09)
+[Click here to join us on Zoom this Sunday!](https://staffweb.zoom.us/j/98039023092?pwd=SVIvTk5IR3daUVJNWEVCTGpUWjFjdz09)
 
-\**"Canceled is Not Bad with God"  
+"Canceled is Not Bad with God"  
 Featuring Morris Michalski "Coach Mo"  
 Chaplain, USA Basketball Senior National Team
 
