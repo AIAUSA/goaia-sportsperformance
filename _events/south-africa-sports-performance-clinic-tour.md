@@ -6,7 +6,7 @@ description: |-
 
   Join us in Cape Town, South Africa for an adventure. This team will be teaching at the University of Western Cape and interacting with professionals and students from the region. Experience the South African Sports Science Institute. A variety of sports medicine, strength & conditioning, exercise science professionals and students are needed to fill out this team. Help us co-host conferences and clinics on sports medicine and strength & conditioning with professionals and students, while communicating Christ’s love with others!
 
-  **2021 Dates:** TBD
+  **2021 Dates:** There is no South Africa trip scheduled for 2021. Check back with us to see when we are going there in 2022!
 
   #### Apply Below!
 student: true
