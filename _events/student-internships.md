@@ -12,9 +12,9 @@ description: |-
 
   ##### What are you waiting for?!?
 
-  **2020 Dates:** Late May to Late July
+  **2021 Dates:** May 30v to July 31
 
-  **The deadline for 2020 Intern and Supervisor applications is February 1, 2020.**
+  **The deadline for 2021 Intern and Supervisor applications is April 1, 2020.**
 
   #### Apply Below!
 
