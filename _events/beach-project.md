@@ -1,11 +1,11 @@
 ---
 title: Beach Project
-description: "Spend incredible days on the beach learning how to apply your faith
-  to your sport and get equipped to be a spiritual leader on your campus! **Certified
-  Athletic Trainers and athletic training students are needed** to support the athletes
-  participating in this camp as they learn to apply Biblical Principles to athletics.
-  Come and help change lives. The life God changes might be yours!\n\n**2020 Dates:**
-  May 13th-22nd \n\n#### Apply Below!"
+description: |-
+  Spend incredible days on the beach learning how to apply your faith to your sport and get equipped to be a spiritual leader on your campus! **Certified Athletic Trainers and athletic training students are needed** to support the athletes participating in this camp as they learn to apply Biblical Principles to athletics. Come and help change lives. The life God changes might be yours!
+
+  **2021 Dates:** TBD
+
+  #### Apply Below!
 student: true
 professional: true
 staff: false
