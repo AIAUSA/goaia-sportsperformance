@@ -10,7 +10,7 @@ description: |-
 
   A **Certified Athletic Trainer** is needed for the athletes’ healthcare needs during the first week with the option of serving during the entire project.
 
-  **2020 Dates:** May 28th to June 6th (option to stay until June 20th)
+  **2021 Dates:** TBA
 
   #### Apply Below!
 student: true
