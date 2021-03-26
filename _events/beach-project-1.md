@@ -5,7 +5,7 @@ description: |-
 
   **A Certified Athletic Trainer and athletic training students are needed** to support the athletes participating in this project as they learn to apply Biblical Principles to athletics. Come and help change lives. The life God changes might be yours!
 
-  **2020 Dates:** July 9th to 24th
+  **2021 Dates:** TBD
 
   #### Apply Below!
 student: true
